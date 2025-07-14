@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicStampSize</key>
+	<string>stampPrototypeSkewx</string>
+	<key>playbackByBridge</key>
+	<string>subsequentLocalizationAppearance</string>
+	<key>scrollableAlphaVelocity</key>
+	<string>tappableAnimationAlignment</string>
+</dict>
+</plist>

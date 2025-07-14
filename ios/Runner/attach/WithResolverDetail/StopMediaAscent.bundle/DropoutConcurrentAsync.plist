@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateEffectFormat</key>
+	<string>rapidCapacitiesTransparency</string>
+	<key>gateTaskValidation</key>
+	<string>awaitBridgeSkewx</string>
+	<key>methodFrameworkSkewy</key>
+	<string>transitionOutsideStage</string>
+	<key>optionFromStrategy</key>
+	<string>callbackKindOffset</string>
+	<key>sequentialZoneTheme</key>
+	<string>cursorActivityVisibility</string>
+</dict>
+</plist>

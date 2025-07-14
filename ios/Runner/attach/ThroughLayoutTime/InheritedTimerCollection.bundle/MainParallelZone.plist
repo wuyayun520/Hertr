@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistNearScope</key>
+	<string>profileTypeTension</string>
+	<key>containerAmongAdapter</key>
+	<string>sharedGridviewInterval</string>
+	<key>movementCommandValidation</key>
+	<string>handlerCommandFlags</string>
+	<key>nibSystemDelay</key>
+	<string>clipperAmongFramework</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableZoneDirection</key>
+	<string>normalViewBorder</string>
+	<key>localGramDistance</key>
+	<string>animatedStreamAppearance</string>
+	<key>localRiverpodRotation</key>
+	<string>mediaWithSystem</string>
+	<key>oldFactoryVisibility</key>
+	<string>accessibleParticleCount</string>
+	<key>switchActivityDistance</key>
+	<string>layoutWithTask</string>
+</dict>
+</plist>

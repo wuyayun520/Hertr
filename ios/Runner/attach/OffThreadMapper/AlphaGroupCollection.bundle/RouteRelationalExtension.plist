@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartSincePrototype</key>
+	<string>actionEnvironmentDuration</string>
+	<key>displayableConvolutionBound</key>
+	<string>layerVariableSpeed</string>
+	<key>independentSkirtMargin</key>
+	<string>protectedChartCenter</string>
+	<key>largeGradientInset</key>
+	<string>mobileLevelValidation</string>
+	<key>offsetPatternForce</key>
+	<string>immutableChannelsStyle</string>
+	<key>queueFunctionSaturation</key>
+	<string>interfaceCommandTheme</string>
+	<key>tangentOperationVisibility</key>
+	<string>chapterParamShape</string>
+</dict>
+</plist>

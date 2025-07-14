@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianObserverOpacity</key>
+	<string>disabledLayerContrast</string>
+	<key>enabledEntityBorder</key>
+	<string>iconStateLeft</string>
+	<key>inheritedIntegerIndex</key>
+	<string>intuitiveTernaryInset</string>
+	<key>routerPrototypeBrightness</key>
+	<string>fixedTaskResponse</string>
+</dict>
+</plist>

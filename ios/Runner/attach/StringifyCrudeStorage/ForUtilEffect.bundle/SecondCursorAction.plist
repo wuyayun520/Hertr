@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveContainerScale</key>
+	<string>sineObserverLeft</string>
+	<key>alphaContextInterval</key>
+	<string>smallMomentumEdge</string>
+	<key>backwardSpriteResponse</key>
+	<string>getxInStyle</string>
+	<key>presenterParamInteraction</key>
+	<string>cacheExceptJob</string>
+	<key>temporaryDurationSkewy</key>
+	<string>activatedBlocState</string>
+</dict>
+</plist>

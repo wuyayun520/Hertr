@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorPatternColor</key>
+	<string>zoneDespiteWork</string>
+	<key>immediateRectOrientation</key>
+	<string>titleAndDecorator</string>
+	<key>missedSingletonAppearance</key>
+	<string>statelessBorderDistance</string>
+	<key>reusableCertificateBottom</key>
+	<string>signatureProcessVelocity</string>
+	<key>typicalContractionInteraction</key>
+	<string>primaryStatelessOffset</string>
+</dict>
+</plist>

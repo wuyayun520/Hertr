@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTitleFlags</key>
+	<string>projectionInJob</string>
+	<key>awaitWithLevel</key>
+	<string>histogramIncludeStage</string>
+	<key>euclideanDimensionTop</key>
+	<string>dropdownbuttonByPlatform</string>
+	<key>frameBufferVisibility</key>
+	<string>desktopNibIndex</string>
+	<key>gridAtMediator</key>
+	<string>controllerAsFacade</string>
+	<key>interfaceShapeOrientation</key>
+	<string>declarativeResponseIndex</string>
+	<key>rectPerBridge</key>
+	<string>immutableAssetBottom</string>
+	<key>textureMediatorFormat</key>
+	<string>modalCycleBrightness</string>
+</dict>
+</plist>

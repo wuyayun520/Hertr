@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleLossSkewy</key>
+	<string>specifierDespiteObserver</string>
+	<key>coordinatorOperationBottom</key>
+	<string>utilOutsideCycle</string>
+	<key>declarativeTopicDirection</key>
+	<string>webGesturedetectorDirection</string>
+	<key>momentumAndValue</key>
+	<string>nibLevelSpeed</string>
+	<key>navigatorViaActivity</key>
+	<string>liteVariantMargin</string>
+	<key>parallelResourceValidation</key>
+	<string>reducerAndCycle</string>
+	<key>persistentKernelMomentum</key>
+	<string>aspectratioFromActivity</string>
+	<key>sharedObserverPosition</key>
+	<string>isolateThanParameter</string>
+	<key>subtleLocalizationTheme</key>
+	<string>roleOutsidePattern</string>
+</dict>
+</plist>

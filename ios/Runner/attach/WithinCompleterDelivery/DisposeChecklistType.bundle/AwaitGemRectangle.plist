@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianTickerSpacing</key>
+	<string>monsterTaskPosition</string>
+	<key>commandTierFrequency</key>
+	<string>kernelOutsideStage</string>
+	<key>futureStrategySkewy</key>
+	<string>visibleMemberRotation</string>
+	<key>handlerTypeBottom</key>
+	<string>isolateMethodIndex</string>
+	<key>interactorInterpreterPadding</key>
+	<string>responseAsMode</string>
+	<key>localizationProcessSize</key>
+	<string>positionVariableTop</string>
+	<key>originalZoneBound</key>
+	<string>builderWithoutProcess</string>
+	<key>responseSinceLayer</key>
+	<string>reactiveNodeBorder</string>
+</dict>
+</plist>

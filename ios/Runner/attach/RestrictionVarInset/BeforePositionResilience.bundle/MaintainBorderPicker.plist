@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAsLayer</key>
+	<string>keyInterfaceShade</string>
+	<key>borderAndType</key>
+	<string>blocUntilActivity</string>
+	<key>bufferMediatorTheme</key>
+	<string>labelOutsideObserver</string>
+	<key>customizedFactoryLeft</key>
+	<string>responseViaVar</string>
+	<key>mediocreGridVisible</key>
+	<string>scaffoldViaContext</string>
+	<key>titleVisitorFrequency</key>
+	<string>buttonFromSystem</string>
+</dict>
+</plist>

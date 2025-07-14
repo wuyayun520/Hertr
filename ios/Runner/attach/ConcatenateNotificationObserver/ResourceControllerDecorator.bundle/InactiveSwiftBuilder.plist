@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateChainSaturation</key>
+	<string>granularPopupType</string>
+	<key>equipmentNearState</key>
+	<string>baselineAwayValue</string>
+	<key>methodWithPhase</key>
+	<string>otherThreadCount</string>
+	<key>mutableWidgetPressure</key>
+	<string>scaffoldStyleOffset</string>
+	<key>webFeatureStyle</key>
+	<string>screenCommandDirection</string>
+</dict>
+</plist>

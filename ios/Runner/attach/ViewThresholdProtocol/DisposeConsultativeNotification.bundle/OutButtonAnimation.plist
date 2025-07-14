@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectVariableValidation</key>
+	<string>bufferAroundFacade</string>
+	<key>notifierStrategyScale</key>
+	<string>threadAtLayer</string>
+	<key>remainderAwayActivity</key>
+	<string>prismaticTickerDelay</string>
+	<key>stampMethodDelay</key>
+	<string>ternaryTierDuration</string>
+	<key>subtleNavigatorResponse</key>
+	<string>scrollableFrameSpeed</string>
+	<key>ternaryCycleFormat</key>
+	<string>captionFunctionOpacity</string>
+	<key>touchNumberDelay</key>
+	<string>seamlessDescriptorOrientation</string>
+	<key>usedBuilderBound</key>
+	<string>interactiveCubePressure</string>
+</dict>
+</plist>

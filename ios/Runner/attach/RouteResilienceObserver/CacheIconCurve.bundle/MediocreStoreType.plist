@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directListenerScale</key>
+	<string>commandViaChain</string>
+	<key>eventBridgeMode</key>
+	<string>heapNumberBrightness</string>
+	<key>movementActivityName</key>
+	<string>arithmeticDrawerName</string>
+	<key>viewModeAcceleration</key>
+	<string>boxshadowForPattern</string>
+</dict>
+</plist>

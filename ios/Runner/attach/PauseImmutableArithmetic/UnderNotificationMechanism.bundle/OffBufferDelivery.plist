@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationJobStyle</key>
+	<string>cosineAlongProxy</string>
+	<key>largeCharacterInteraction</key>
+	<string>constLayoutRate</string>
+	<key>logarithmAmongLevel</key>
+	<string>topicOutsideFunction</string>
+	<key>lostBufferTint</key>
+	<string>managerFacadeVisible</string>
+	<key>transformerCommandDuration</key>
+	<string>arithmeticCurveInset</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterObserverDensity</key>
+	<string>singletonInsidePrototype</string>
+	<key>enabledButtonOffset</key>
+	<string>numericalEffectStatus</string>
+	<key>independentAnchorFlags</key>
+	<string>composableTickerCenter</string>
+	<key>interfaceMediatorShape</key>
+	<string>accessibleCompletionIndex</string>
+	<key>mainStatePressure</key>
+	<string>statefulTransitionDensity</string>
+	<key>memberSystemHue</key>
+	<string>webZoneTail</string>
+	<key>oldPositionState</key>
+	<string>texturePerCommand</string>
+	<key>routeShapeResponse</key>
+	<string>logOrParameter</string>
+</dict>
+</plist>

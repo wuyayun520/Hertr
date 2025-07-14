@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncVersusLayer</key>
+	<string>screenFromActivity</string>
+	<key>buttonOrMethod</key>
+	<string>controllerUntilAction</string>
+	<key>constraintFrameworkFormat</key>
+	<string>navigatorVersusLevel</string>
+	<key>independentHandlerColor</key>
+	<string>semanticsThanBuffer</string>
+	<key>positionedForMethod</key>
+	<string>diversifiedContainerOrigin</string>
+	<key>segueWithoutObserver</key>
+	<string>instructionViaInterpreter</string>
+	<key>sinkMethodHead</key>
+	<string>viewBesideState</string>
+	<key>textContainChain</key>
+	<string>queueStyleTint</string>
+</dict>
+</plist>

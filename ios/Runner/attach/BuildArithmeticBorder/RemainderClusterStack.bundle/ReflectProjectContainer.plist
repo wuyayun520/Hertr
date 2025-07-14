@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRouterMode</key>
+	<string>viewThroughKind</string>
+	<key>animationCompositeValidation</key>
+	<string>webBorderTint</string>
+	<key>backwardTextureEdge</key>
+	<string>nativeDescriptionSize</string>
+	<key>dynamicTransitionOrigin</key>
+	<string>fusedDependencyInterval</string>
+	<key>elasticDocumentTint</key>
+	<string>gridviewOutsideVar</string>
+	<key>nextApertureSize</key>
+	<string>immutablePopupColor</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAroundStyle</key>
+	<string>transitionThroughAdapter</string>
+	<key>documentVisitorState</key>
+	<string>reactiveSegmentState</string>
+	<key>eventWithPlatform</key>
+	<string>apertureValueBrightness</string>
+	<key>imageAsVisitor</key>
+	<string>accessibleRemainderVisible</string>
+	<key>interactiveRouterSkewy</key>
+	<string>interactiveStreamSize</string>
+	<key>multiMethodMode</key>
+	<string>overlayDuringBuffer</string>
+	<key>statelessPrototypeIndex</key>
+	<string>ignoredTopicDelay</string>
+	<key>storeModeShade</key>
+	<string>presenterViaPlatform</string>
+</dict>
+</plist>

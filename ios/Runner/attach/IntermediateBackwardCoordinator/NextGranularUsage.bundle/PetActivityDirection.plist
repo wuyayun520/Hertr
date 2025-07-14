@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAdapterResponse</key>
+	<string>containerVersusCycle</string>
+	<key>capacitiesFrameworkDelay</key>
+	<string>storyboardVersusCommand</string>
+	<key>dedicatedSliderState</key>
+	<string>channelDecoratorOrigin</string>
+	<key>discardedGridDensity</key>
+	<string>heapTypeDirection</string>
+	<key>labelPhaseKind</key>
+	<string>intensityAsObserver</string>
+	<key>musicStateRight</key>
+	<string>sceneFrameworkBorder</string>
+	<key>protectedScaleBehavior</key>
+	<string>frameStageForce</string>
+	<key>singletonIncludeFramework</key>
+	<string>stateMethodBehavior</string>
+</dict>
+</plist>

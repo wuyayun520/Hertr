@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleImageFormat</key>
+	<string>constraintModeDensity</string>
+	<key>gemLevelKind</key>
+	<string>repositoryWithoutParam</string>
+	<key>imageOutsideMediator</key>
+	<string>alertOutsideObserver</string>
+	<key>inactiveInstructionCenter</key>
+	<string>robustConsumerFrequency</string>
+	<key>instructionStyleTint</key>
+	<string>checkboxPatternKind</string>
+	<key>lostConfigurationVelocity</key>
+	<string>interfaceParameterForce</string>
+	<key>primaryCompleterPressure</key>
+	<string>labelVariableInset</string>
+	<key>sinkBeyondAction</key>
+	<string>reducerObserverFlags</string>
+	<key>standaloneMaterialState</key>
+	<string>independentFactorySpacing</string>
+</dict>
+</plist>

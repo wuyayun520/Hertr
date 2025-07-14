@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCacheVisibility</key>
+	<string>anchorExceptAction</string>
+	<key>asyncAmongStyle</key>
+	<string>descriptorAsPlatform</string>
+	<key>finalChannelsTail</key>
+	<string>sortedEffectRotation</string>
+	<key>mainContractionDistance</key>
+	<string>parallelErrorRotation</string>
+	<key>mobileStoreFlags</key>
+	<string>futureExceptStyle</string>
+	<key>mutableMapDuration</key>
+	<string>customizedResponseSize</string>
+	<key>threadThroughPlatform</key>
+	<string>descriptionParamBrightness</string>
+</dict>
+</plist>

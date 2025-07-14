@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesAtStrategy</key>
+	<string>resourcePerProcess</string>
+	<key>disparateSliderResponse</key>
+	<string>tabbarContainFlyweight</string>
+	<key>interactorWithoutOperation</key>
+	<string>resizableTabviewBottom</string>
+	<key>multiplicationAmongPattern</key>
+	<string>integerFlyweightRate</string>
+	<key>numericalCoordinatorHue</key>
+	<string>queryOfFacade</string>
+	<key>offsetFrameworkFlags</key>
+	<string>labelFormOrientation</string>
+	<key>protectedSliderTension</key>
+	<string>flexibleProtocolPosition</string>
+</dict>
+</plist>

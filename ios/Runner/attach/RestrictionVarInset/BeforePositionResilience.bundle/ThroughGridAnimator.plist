@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncProviderSaturation</key>
+	<string>kernelViaProxy</string>
+	<key>bufferProxyScale</key>
+	<string>widgetAndTier</string>
+	<key>cupertinoTextFeedback</key>
+	<string>inheritedProfileTint</string>
+	<key>layerVersusTier</key>
+	<string>profileValueMargin</string>
+	<key>pageviewParamOrientation</key>
+	<string>completerPatternLocation</string>
+	<key>relationalMomentumTransparency</key>
+	<string>ignoredEffectDistance</string>
+	<key>utilUntilPattern</key>
+	<string>adaptiveCompleterStyle</string>
+</dict>
+</plist>

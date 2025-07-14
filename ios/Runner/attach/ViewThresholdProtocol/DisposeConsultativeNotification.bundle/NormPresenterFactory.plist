@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetDespiteMediator</key>
+	<string>explicitDependencyEdge</string>
+	<key>channelsFlyweightBottom</key>
+	<string>sizeContainFunction</string>
+	<key>cursorInsidePlatform</key>
+	<string>particleContainMethod</string>
+	<key>effectPrototypeTag</key>
+	<string>handlerTierCount</string>
+	<key>interpolationAtObserver</key>
+	<string>criticalClipperOrientation</string>
+	<key>loopAmongInterpreter</key>
+	<string>transformerBufferSpeed</string>
+	<key>missedEqualizationBrightness</key>
+	<string>tableCommandTransparency</string>
+	<key>mobileParameterType</key>
+	<string>resultFormName</string>
+	<key>nibWorkOrientation</key>
+	<string>factoryAroundMediator</string>
+	<key>scrollAwayActivity</key>
+	<string>prismaticMapResponse</string>
+</dict>
+</plist>

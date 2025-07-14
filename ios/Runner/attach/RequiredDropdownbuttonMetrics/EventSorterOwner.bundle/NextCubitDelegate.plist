@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorInsideTask</key>
+	<string>interactiveSpineOpacity</string>
+	<key>brushStateIndex</key>
+	<string>descriptionAtCycle</string>
+	<key>collectionVisitorShade</key>
+	<string>eagerCompositionColor</string>
+	<key>graphInEnvironment</key>
+	<string>zoneWithParameter</string>
+	<key>inheritedCardCenter</key>
+	<string>providerStructureKind</string>
+	<key>intensityCycleValidation</key>
+	<string>dialogsLayerSpeed</string>
+	<key>intuitiveDecorationTransparency</key>
+	<string>sophisticatedIntensityVelocity</string>
+	<key>seamlessQueueDepth</key>
+	<string>intensityVisitorBound</string>
+	<key>stepSystemAlignment</key>
+	<string>significantContractionDuration</string>
+</dict>
+</plist>

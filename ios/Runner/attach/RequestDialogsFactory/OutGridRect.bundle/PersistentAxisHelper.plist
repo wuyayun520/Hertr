@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedNodeSize</key>
+	<string>protocolAtFlyweight</string>
+	<key>buttonSinceStyle</key>
+	<string>overlayOfState</string>
+	<key>discardedDescriptionMode</key>
+	<string>customizedAlphaVelocity</string>
+	<key>extensionTaskDistance</key>
+	<string>localDescriptionDepth</string>
+	<key>granularStampStyle</key>
+	<string>positionParamRight</string>
+	<key>offsetWithMediator</key>
+	<string>firstGridPosition</string>
+	<key>particleOrActivity</key>
+	<string>storeStageFrequency</string>
+	<key>prevSignatureOrigin</key>
+	<string>rectInAdapter</string>
+</dict>
+</plist>

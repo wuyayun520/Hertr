@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackVariableOffset</key>
+	<string>fixedCoordinatorMode</string>
+	<key>consumerCompositePosition</key>
+	<string>completerPhaseOpacity</string>
+	<key>directTernarySkewy</key>
+	<string>protectedNavigatorDirection</string>
+	<key>inactiveActionVisibility</key>
+	<string>mutableFutureBorder</string>
+	<key>priorityInterpreterShape</key>
+	<string>functionalIndicatorShape</string>
+	<key>sinkStateDistance</key>
+	<string>lostSegmentPressure</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAsCommand</key>
+	<string>queryBridgeContrast</string>
+	<key>beginnerTickerPadding</key>
+	<string>titleContextTail</string>
+	<key>materialEnvironmentInterval</key>
+	<string>concurrentDecorationType</string>
+	<key>providerForDecorator</key>
+	<string>tweenDespiteValue</string>
+</dict>
+</plist>

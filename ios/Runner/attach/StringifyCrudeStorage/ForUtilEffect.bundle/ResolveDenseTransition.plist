@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedErrorForce</key>
+	<string>convolutionOutsideFlyweight</string>
+	<key>fragmentExceptObserver</key>
+	<string>constraintScopeInteraction</string>
+	<key>labelParamSkewy</key>
+	<string>arithmeticCubitStatus</string>
+	<key>queueActionPadding</key>
+	<string>concurrentAnimatedcontainerOffset</string>
+	<key>rolePatternCount</key>
+	<string>handlerWithoutAction</string>
+	<key>sliderTypeInterval</key>
+	<string>publicBaselineHead</string>
+</dict>
+</plist>

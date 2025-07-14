@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedVariantAlignment</key>
+	<string>subpixelAroundWork</string>
+	<key>discardedEntropyRate</key>
+	<string>serviceCycleTint</string>
+	<key>hierarchicalBrushOrientation</key>
+	<string>utilBridgeSpacing</string>
+	<key>priorKernelDuration</key>
+	<string>localizationDuringFacade</string>
+	<key>sliderKindSize</key>
+	<string>allocatorAtSystem</string>
+</dict>
+</plist>

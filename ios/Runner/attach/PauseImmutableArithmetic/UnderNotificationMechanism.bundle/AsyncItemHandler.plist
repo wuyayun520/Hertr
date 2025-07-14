@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeParamType</key>
+	<string>gridCommandResponse</string>
+	<key>otherAssetPadding</key>
+	<string>permissiveHeapFrequency</string>
+	<key>responseAndCommand</key>
+	<string>heapOperationBehavior</string>
+	<key>retainedBatchTint</key>
+	<string>exceptionAmongSystem</string>
+	<key>segmentWithCommand</key>
+	<string>respectiveHashDistance</string>
+	<key>textureAmongInterpreter</key>
+	<string>hardResourceHead</string>
+</dict>
+</plist>

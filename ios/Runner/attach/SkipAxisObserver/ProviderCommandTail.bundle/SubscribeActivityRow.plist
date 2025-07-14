@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTitleContrast</key>
+	<string>localizationTierAcceleration</string>
+	<key>cursorWithoutOperation</key>
+	<string>asyncStoryboardAcceleration</string>
+	<key>discardedBlocDelay</key>
+	<string>logUntilTask</string>
+	<key>keyButtonDensity</key>
+	<string>characterExceptTask</string>
+	<key>smartLocalizationIndex</key>
+	<string>staticStoreFrequency</string>
+	<key>tweenScopeCoord</key>
+	<string>activeChallengeContrast</string>
+	<key>utilStrategyVisible</key>
+	<string>blocTempleOffset</string>
+</dict>
+</plist>

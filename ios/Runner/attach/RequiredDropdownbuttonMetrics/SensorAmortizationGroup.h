@@ -1,0 +1,19 @@
+#import "SustainableTaskCluster.h"
+#import "ThroughExpandedRouter.h"
+#import "MediocreCommandContrast.h"
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface SensorAmortizationGroup : NSObject
+
+
+- (void) layoutExplicitCurve;
+
+- (void) toNormFragments;
+
+@end
+
+NS_ASSUME_NONNULL_END
+        

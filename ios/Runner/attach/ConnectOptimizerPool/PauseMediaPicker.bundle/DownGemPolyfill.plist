@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandObserverPressure</key>
+	<string>missionAgainstProxy</string>
+	<key>compositionViaNumber</key>
+	<string>pinchableInkwellStatus</string>
+	<key>invisibleBaseInset</key>
+	<string>unaryInProcess</string>
+	<key>largeActivityFeedback</key>
+	<string>coordinatorFromFlyweight</string>
+	<key>navigatorModeCount</key>
+	<string>viewDespiteStage</string>
+	<key>pageviewParamSize</key>
+	<string>modelBridgeInset</string>
+	<key>presenterDespiteEnvironment</key>
+	<string>spriteInsideValue</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderProxyInteraction</key>
+	<string>flexibleIsolateAppearance</string>
+	<key>constSymbolPadding</key>
+	<string>catalystSystemVisibility</string>
+	<key>newestInjectionDepth</key>
+	<string>responsiveLabelOpacity</string>
+	<key>signShapePosition</key>
+	<string>radiusLayerVisibility</string>
+	<key>touchAndAction</key>
+	<string>subpixelAboutParameter</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableMovementVelocity</key>
+	<string>sliderObserverVelocity</string>
+	<key>coordinatorAtInterpreter</key>
+	<string>associatedCurveMode</string>
+	<key>directlyGramAlignment</key>
+	<string>crudeTouchShape</string>
+	<key>invisibleMenuPadding</key>
+	<string>tickerOfShape</string>
+	<key>lazyHistogramCount</key>
+	<string>adaptiveNavigatorRotation</string>
+	<key>movementOperationSaturation</key>
+	<string>checklistVariableOrientation</string>
+	<key>multiScaleSpacing</key>
+	<string>mutableDocumentColor</string>
+	<key>permissiveOperationTail</key>
+	<string>modelAlongStrategy</string>
+	<key>priorUsecaseForce</key>
+	<string>serviceVersusContext</string>
+</dict>
+</plist>

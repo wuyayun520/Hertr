@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMethodFormat</key>
+	<string>injectionThanPlatform</string>
+	<key>firstInjectionEdge</key>
+	<string>constButtonMargin</string>
+	<key>managerTierSkewy</key>
+	<string>smallChallengeStyle</string>
+	<key>nodeModeInterval</key>
+	<string>observerAgainstTask</string>
+	<key>normNumberSaturation</key>
+	<string>functionalBehaviorFrequency</string>
+	<key>notificationDuringFacade</key>
+	<string>functionalGrainSaturation</string>
+	<key>popupJobTransparency</key>
+	<string>actionVersusOperation</string>
+	<key>usedDialogsOffset</key>
+	<string>pageviewAtMethod</string>
+	<key>zoneContextOpacity</key>
+	<string>menuForAction</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnInterpreterFormat</key>
+	<string>buttonTempleBehavior</string>
+	<key>displayableCoordinatorSkewx</key>
+	<string>handlerChainKind</string>
+	<key>eagerRectLeft</key>
+	<string>requestLevelTransparency</string>
+	<key>geometricGraphOffset</key>
+	<string>tabbarActionLocation</string>
+	<key>intuitiveIconBorder</key>
+	<string>histogramLikeType</string>
+	<key>largeConstraintBrightness</key>
+	<string>basicErrorInteraction</string>
+	<key>statefulOutsideOperation</key>
+	<string>tweenFormInterval</string>
+	<key>transformerInsideState</key>
+	<string>sophisticatedRouterSpacing</string>
+</dict>
+</plist>

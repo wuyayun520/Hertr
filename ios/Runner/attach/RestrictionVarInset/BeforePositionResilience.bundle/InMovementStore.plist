@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>semanticSwitchScale</key>
+	<string>radiusThanBuffer</string>
+	<key>textJobDelay</key>
+	<string>resizableRolePosition</string>
+	<key>viewFromPhase</key>
+	<string>compositionalLayerDistance</string>
+</dict>
+</plist>

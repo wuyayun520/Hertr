@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directGridviewFlags</key>
+	<string>missionWithoutSingleton</string>
+	<key>radiusStructureTag</key>
+	<string>multiFragmentCount</string>
+	<key>sizeAmongComposite</key>
+	<string>cubitAtStage</string>
+	<key>stepAlongMethod</key>
+	<string>durationStylePadding</string>
+	<key>textIncludeTemple</key>
+	<string>profileBesideVisitor</string>
+	<key>usecaseExceptStrategy</key>
+	<string>originalCollectionBound</string>
+</dict>
+</plist>

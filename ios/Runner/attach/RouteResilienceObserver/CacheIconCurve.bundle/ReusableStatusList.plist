@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedGrayscaleTheme</key>
+	<string>gradientLayerAcceleration</string>
+	<key>boxshadowSinceDecorator</key>
+	<string>mobxMementoOffset</string>
+	<key>cupertinoMediatorDirection</key>
+	<string>gridviewInsideProxy</string>
+	<key>hierarchicalLocalizationColor</key>
+	<string>tableMementoCount</string>
+	<key>localizationWithoutPlatform</key>
+	<string>granularDurationShade</string>
+	<key>loopOfTask</key>
+	<string>flexibleSingletonFlags</string>
+	<key>mobilePlatformSkewy</key>
+	<string>checklistWithoutScope</string>
+	<key>priorityChainOpacity</key>
+	<string>histogramCycleLeft</string>
+	<key>resultMethodDensity</key>
+	<string>cubeActivityBehavior</string>
+</dict>
+</plist>

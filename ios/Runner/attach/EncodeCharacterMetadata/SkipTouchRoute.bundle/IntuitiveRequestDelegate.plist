@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushStyleIndex</key>
+	<string>tableAmongLevel</string>
+	<key>callbackDuringProxy</key>
+	<string>containerForMode</string>
+	<key>gridviewAgainstBuffer</key>
+	<string>instructionNearMode</string>
+	<key>progressbarVersusObserver</key>
+	<string>subtleMethodEdge</string>
+	<key>spriteParamStyle</key>
+	<string>animatedCustompaintSkewy</string>
+	<key>statefulFrameworkVelocity</key>
+	<string>asyncToolMargin</string>
+	<key>unsortedPointBrightness</key>
+	<string>sineParamMode</string>
+</dict>
+</plist>

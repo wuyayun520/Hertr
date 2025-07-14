@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianPageviewBehavior</key>
+	<string>managerStrategyTag</string>
+	<key>consultativeBlocMargin</key>
+	<string>standalonePopupColor</string>
+	<key>streamViaActivity</key>
+	<string>imperativeKernelForce</string>
+</dict>
+</plist>

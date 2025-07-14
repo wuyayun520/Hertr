@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitPerTier</key>
+	<string>smartSceneShape</string>
+	<key>completerScopeBehavior</key>
+	<string>subsequentUsecaseState</string>
+	<key>containerInStage</key>
+	<string>appbarCommandPressure</string>
+	<key>discardedMissionTransparency</key>
+	<string>positionedMementoFlags</string>
+	<key>hardChecklistTension</key>
+	<string>commonSliderRotation</string>
+	<key>localVectorOffset</key>
+	<string>repositoryVisitorDepth</string>
+	<key>viewAmongPlatform</key>
+	<string>queueOrState</string>
+</dict>
+</plist>

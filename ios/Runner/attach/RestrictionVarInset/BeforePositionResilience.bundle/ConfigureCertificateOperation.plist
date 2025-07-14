@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardResultAlignment</key>
+	<string>semanticsCompositeTension</string>
+	<key>interactorCommandShape</key>
+	<string>protectedContainerLocation</string>
+	<key>observerCycleSize</key>
+	<string>storeAmongMemento</string>
+	<key>servicePerPlatform</key>
+	<string>pointFromVar</string>
+	<key>smallSemanticsAppearance</key>
+	<string>specifyOperationBrightness</string>
+	<key>specifierAgainstCycle</key>
+	<string>compositionSystemDelay</string>
+	<key>statefulFrameworkBehavior</key>
+	<string>baseFromParameter</string>
+	<key>transformerLikeTemple</key>
+	<string>arithmeticAlphaScale</string>
+</dict>
+</plist>

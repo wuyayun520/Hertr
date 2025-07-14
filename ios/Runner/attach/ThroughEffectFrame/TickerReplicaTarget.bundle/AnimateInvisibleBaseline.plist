@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonLevelKind</key>
+	<string>cubitTempleRotation</string>
+	<key>cachePrototypeResponse</key>
+	<string>widgetTempleTransparency</string>
+	<key>gateKindPosition</key>
+	<string>durationInsideInterpreter</string>
+	<key>iterativeIsolateStyle</key>
+	<string>coordinatorSingletonBehavior</string>
+	<key>storageIncludeWork</key>
+	<string>errorFromPrototype</string>
+</dict>
+</plist>

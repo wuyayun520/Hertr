@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lossBeyondStrategy</key>
+	<string>durationModeSkewy</string>
+	<key>modelAmongStyle</key>
+	<string>constExpandedStyle</string>
+	<key>nodeDecoratorCenter</key>
+	<string>taskDecoratorLeft</string>
+	<key>radioMethodScale</key>
+	<string>effectDecoratorDepth</string>
+	<key>richtextContextPosition</key>
+	<string>radiusChainTint</string>
+	<key>scrollablePreviewTransparency</key>
+	<string>unsortedSizeForce</string>
+	<key>sophisticatedSpriteShape</key>
+	<string>rectWorkStyle</string>
+	<key>symmetricSlashStyle</key>
+	<string>configurationContextDistance</string>
+	<key>tabviewAboutMethod</key>
+	<string>playbackPatternName</string>
+</dict>
+</plist>

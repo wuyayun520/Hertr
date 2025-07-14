@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionFromPrototype</key>
+	<string>sustainableMethodTint</string>
+	<key>cubitOperationDistance</key>
+	<string>denseBaselineTint</string>
+	<key>expandedValueVisibility</key>
+	<string>skirtStyleContrast</string>
+	<key>listenerWithoutMediator</key>
+	<string>progressbarObserverHue</string>
+	<key>nibCommandTop</key>
+	<string>sizeInFlyweight</string>
+	<key>providerSinceLevel</key>
+	<string>descriptorStructureHead</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionByOperation</key>
+	<string>immutableSpineTag</string>
+	<key>collectionExceptTier</key>
+	<string>movementAgainstOperation</string>
+	<key>eagerActivityFeedback</key>
+	<string>accordionCompleterBehavior</string>
+	<key>globalUsecaseAppearance</key>
+	<string>resourceStructureDirection</string>
+	<key>mobileParameterDepth</key>
+	<string>gradientInterpreterBottom</string>
+	<key>mutableCurveCount</key>
+	<string>grainKindOrigin</string>
+	<key>singleCatalystTop</key>
+	<string>beginnerLogarithmFeedback</string>
+</dict>
+</plist>

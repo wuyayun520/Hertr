@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBridgeBound</key>
+	<string>resultPhaseState</string>
+	<key>currentAllocatorContrast</key>
+	<string>observerSingletonValidation</string>
+	<key>immediateOverlaySkewx</key>
+	<string>radiusPerComposite</string>
+	<key>platePatternState</key>
+	<string>hyperbolicSubscriptionMode</string>
+	<key>tappableSceneVisible</key>
+	<string>asyncChecklistStyle</string>
+</dict>
+</plist>

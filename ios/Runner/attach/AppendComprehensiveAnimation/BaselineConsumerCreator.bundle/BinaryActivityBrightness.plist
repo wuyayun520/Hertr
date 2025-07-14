@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardScreenScale</key>
+	<string>lossCycleLeft</string>
+	<key>columnTypeShade</key>
+	<string>secondAnchorHead</string>
+	<key>convolutionVersusLevel</key>
+	<string>respectiveTabviewDepth</string>
+	<key>immutableWidgetSpacing</key>
+	<string>scrollFrameworkVisibility</string>
+	<key>lazyStoreFeedback</key>
+	<string>explicitDependencyOrigin</string>
+	<key>respectiveDimensionDelay</key>
+	<string>mediaOutsideTier</string>
+	<key>semanticsBesideEnvironment</key>
+	<string>usedHeroSaturation</string>
+	<key>sustainableServicePadding</key>
+	<string>methodAmongPattern</string>
+	<key>switchEnvironmentRotation</key>
+	<string>unsortedMapStyle</string>
+	<key>textureThroughCommand</key>
+	<string>routerLevelDirection</string>
+</dict>
+</plist>

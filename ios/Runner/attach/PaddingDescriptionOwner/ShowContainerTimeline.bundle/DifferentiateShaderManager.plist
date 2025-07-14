@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncGraphicState</key>
+	<string>rapidTextAcceleration</string>
+	<key>backwardUtilFeedback</key>
+	<string>typicalStateForce</string>
+	<key>displayableRouterOrientation</key>
+	<string>aspectActionSpacing</string>
+	<key>originalBrushName</key>
+	<string>assetContextSpeed</string>
+	<key>relationalStackOpacity</key>
+	<string>statefulGemDepth</string>
+	<key>scrollableTabbarOrientation</key>
+	<string>intuitivePrecisionStyle</string>
+	<key>sliderPhaseBottom</key>
+	<string>gemThanFunction</string>
+	<key>unactivatedDocumentFrequency</key>
+	<string>rectNearPrototype</string>
+	<key>usedSymbolVisible</key>
+	<string>standaloneAlignmentForce</string>
+</dict>
+</plist>

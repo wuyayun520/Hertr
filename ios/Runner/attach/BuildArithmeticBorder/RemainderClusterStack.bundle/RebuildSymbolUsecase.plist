@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layerOutsideMode</key>
+	<string>buttonWithStrategy</string>
+	<key>popupByAdapter</key>
+	<string>directCurveBorder</string>
+	<key>statelessNavigationStatus</key>
+	<string>intermediateCubitShade</string>
+	<key>titleFrameworkTransparency</key>
+	<string>catalystStructureVelocity</string>
+</dict>
+</plist>

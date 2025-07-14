@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveProxyFlags</key>
+	<string>nextPlaybackCoord</string>
+	<key>eventMementoStyle</key>
+	<string>prevRectHead</string>
+	<key>publicGestureInset</key>
+	<string>autoArithmeticCenter</string>
+	<key>reducerInsideDecorator</key>
+	<string>widgetOfMode</string>
+	<key>switchVariableCenter</key>
+	<string>sensorLikeComposite</string>
+</dict>
+</plist>

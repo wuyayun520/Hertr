@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicAwaitAlignment</key>
+	<string>priorityWithoutMode</string>
+	<key>granularRowMomentum</key>
+	<string>loopViaStage</string>
+	<key>resolverViaActivity</key>
+	<string>offsetAroundSingleton</string>
+	<key>responseMediatorHue</key>
+	<string>opaqueMethodBrightness</string>
+	<key>semanticViewVelocity</key>
+	<string>gesturedetectorLevelSize</string>
+	<key>serviceParameterTension</key>
+	<string>histogramTypeAppearance</string>
+	<key>storageNumberOpacity</key>
+	<string>servicePrototypeInteraction</string>
+</dict>
+</plist>

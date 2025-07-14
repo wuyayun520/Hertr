@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedContainerFrequency</key>
+	<string>beginnerInterpolationCount</string>
+	<key>multiCustompaintDelay</key>
+	<string>rapidToolPressure</string>
+	<key>nibTierLeft</key>
+	<string>graphNumberSpeed</string>
+	<key>symmetricContractionInteraction</key>
+	<string>futureBesideAction</string>
+</dict>
+</plist>

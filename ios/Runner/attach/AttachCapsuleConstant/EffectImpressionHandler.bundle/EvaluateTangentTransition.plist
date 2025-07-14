@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityAlongPlatform</key>
+	<string>labelWorkSpacing</string>
+	<key>eventWithState</key>
+	<string>listenerNearBuffer</string>
+	<key>interactorTypeVisible</key>
+	<string>apertureFacadeContrast</string>
+	<key>pointForMode</key>
+	<string>roleAtInterpreter</string>
+	<key>semanticColumnTheme</key>
+	<string>fragmentParameterHue</string>
+</dict>
+</plist>

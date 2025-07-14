@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentModeLocation</key>
+	<string>autoTouchState</string>
+	<key>immediateCaptionForce</key>
+	<string>precisionFacadePadding</string>
+	<key>inkwellExceptMethod</key>
+	<string>alphaAtOperation</string>
+	<key>intermediateSpriteShade</key>
+	<string>configurationFunctionPosition</string>
+	<key>painterAtSingleton</key>
+	<string>routerStrategySkewx</string>
+	<key>retainedStreamDirection</key>
+	<string>permissiveTransitionOffset</string>
+</dict>
+</plist>

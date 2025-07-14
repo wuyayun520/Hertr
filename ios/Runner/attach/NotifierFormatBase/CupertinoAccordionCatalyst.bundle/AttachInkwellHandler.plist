@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainFromProxy</key>
+	<string>requiredParticleDistance</string>
+	<key>metadataSinceObserver</key>
+	<string>allocatorSingletonName</string>
+	<key>primaryCupertinoSaturation</key>
+	<string>easyCurveCenter</string>
+	<key>staticTickerFlags</key>
+	<string>errorFacadeName</string>
+	<key>transformerTempleDelay</key>
+	<string>accordionDelegateSpacing</string>
+</dict>
+</plist>

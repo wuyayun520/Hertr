@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedButtonMode</key>
+	<string>serviceContextTag</string>
+	<key>apertureThanType</key>
+	<string>reductionPlatformTag</string>
+	<key>completerLevelState</key>
+	<string>dropdownbuttonAgainstObserver</string>
+	<key>heapFromFacade</key>
+	<string>animatedLocalizationEdge</string>
+	<key>originalTouchSpeed</key>
+	<string>sinkShapeSpacing</string>
+	<key>sliderInBuffer</key>
+	<string>composableCupertinoTransparency</string>
+</dict>
+</plist>

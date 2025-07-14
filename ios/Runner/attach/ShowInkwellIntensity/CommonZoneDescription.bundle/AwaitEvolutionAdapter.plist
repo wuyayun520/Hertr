@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintPerChain</key>
+	<string>observerValueTop</string>
+	<key>cubitAtBridge</key>
+	<string>largeHandlerPressure</string>
+	<key>delegateTaskDistance</key>
+	<string>statePhaseAppearance</string>
+	<key>drawerSystemMode</key>
+	<string>sampleForPhase</string>
+	<key>largeBaseStyle</key>
+	<string>localizationAdapterShape</string>
+	<key>listviewContainComposite</key>
+	<string>animatedSessionRight</string>
+	<key>queueAlongType</key>
+	<string>rapidReducerDuration</string>
+	<key>resolverParameterAcceleration</key>
+	<string>resultWithShape</string>
+	<key>stepSinceDecorator</key>
+	<string>resilientTweenResponse</string>
+	<key>storeAroundScope</key>
+	<string>diversifiedAllocatorStatus</string>
+</dict>
+</plist>

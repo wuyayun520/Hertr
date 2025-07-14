@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationIncludeEnvironment</key>
+	<string>modelBesideActivity</string>
+	<key>deferredTaskFeedback</key>
+	<string>mobileNavigationAppearance</string>
+	<key>mediaquerySinceDecorator</key>
+	<string>radioAmongStrategy</string>
+	<key>opaqueNodeSaturation</key>
+	<string>binaryWithoutVar</string>
+	<key>radiusAgainstContext</key>
+	<string>autoGroupMargin</string>
+	<key>routerForMemento</key>
+	<string>interactiveOperationLocation</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocOfChain</key>
+	<string>visibleBehaviorCenter</string>
+	<key>descriptionIncludeSystem</key>
+	<string>durationOutsideVisitor</string>
+	<key>stackStateContrast</key>
+	<string>tickerPerSystem</string>
+</dict>
+</plist>

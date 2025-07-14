@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandAsContext</key>
+	<string>opaqueControllerValidation</string>
+	<key>descriptionStructureName</key>
+	<string>handlerAsComposite</string>
+	<key>disabledReducerMargin</key>
+	<string>allocatorForStructure</string>
+	<key>providerFlyweightOrigin</key>
+	<string>notifierContextBound</string>
+	<key>textPerNumber</key>
+	<string>brushDuringChain</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationOutsideOperation</key>
+	<string>significantFutureTint</string>
+	<key>eventBufferValidation</key>
+	<string>navigatorInterpreterType</string>
+	<key>expandedStrategyAcceleration</key>
+	<string>symmetricGridPosition</string>
+	<key>localZoneLocation</key>
+	<string>activatedGateOpacity</string>
+	<key>nativeCardPadding</key>
+	<string>popupEnvironmentRotation</string>
+	<key>routerJobFrequency</key>
+	<string>threadModeHue</string>
+	<key>singletonTaskVisibility</key>
+	<string>rowSingletonTransparency</string>
+	<key>symbolAndProxy</key>
+	<string>resizableChapterRight</string>
+	<key>widgetJobSize</key>
+	<string>storeValueDirection</string>
+</dict>
+</plist>

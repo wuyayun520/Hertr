@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveAllocatorOffset</key>
+	<string>adaptiveStateBrightness</string>
+	<key>dropdownbuttonTierBorder</key>
+	<string>finalConfigurationEdge</string>
+	<key>operationObserverType</key>
+	<string>unaryMementoTint</string>
+	<key>sinkPatternVisibility</key>
+	<string>boxInterpreterBorder</string>
+	<key>streamInterpreterVisibility</key>
+	<string>animationProxyShade</string>
+	<key>swiftShapeForce</key>
+	<string>alphaBridgeFlags</string>
+	<key>widgetInsideDecorator</key>
+	<string>certificateScopeIndex</string>
+</dict>
+</plist>

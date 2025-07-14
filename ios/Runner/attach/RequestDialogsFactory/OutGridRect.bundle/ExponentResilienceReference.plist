@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowVersusStrategy</key>
+	<string>resolverWithoutPhase</string>
+	<key>constRequestEdge</key>
+	<string>flexAsState</string>
+	<key>cosinePatternFormat</key>
+	<string>deferredOptimizerStatus</string>
+	<key>fixedAnimationAcceleration</key>
+	<string>reusableMobileFrequency</string>
+	<key>gatePatternResponse</key>
+	<string>descriptorAboutType</string>
+	<key>navigatorNearShape</key>
+	<string>layoutCommandKind</string>
+	<key>nextReferenceRight</key>
+	<string>titleKindValidation</string>
+	<key>requestTaskAcceleration</key>
+	<string>routeOfDecorator</string>
+	<key>smallSliderState</key>
+	<string>listviewThanTier</string>
+</dict>
+</plist>

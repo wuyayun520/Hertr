@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeExceptionAppearance</key>
+	<string>interactiveChannelInteraction</string>
+	<key>grayscaleParamTransparency</key>
+	<string>gestureTypeCoord</string>
+	<key>memberDecoratorInset</key>
+	<string>nextPreviewStyle</string>
+	<key>viewAboutCycle</key>
+	<string>opaquePaddingMargin</string>
+</dict>
+</plist>

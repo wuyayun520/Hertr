@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengePrototypeInteraction</key>
+	<string>inkwellVariableName</string>
+	<key>customActionCoord</key>
+	<string>batchIncludeParameter</string>
+	<key>imageBufferSkewy</key>
+	<string>hashBesideJob</string>
+	<key>interactorLikeFunction</key>
+	<string>delegateOfMemento</string>
+	<key>nextQueryStyle</key>
+	<string>uniformAnimatedcontainerOpacity</string>
+</dict>
+</plist>

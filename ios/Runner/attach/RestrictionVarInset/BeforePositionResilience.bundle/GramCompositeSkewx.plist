@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAwaitState</key>
+	<string>customHandlerDelay</string>
+	<key>capsuleFunctionVelocity</key>
+	<string>transitionByPhase</string>
+	<key>cubitFunctionContrast</key>
+	<string>exponentNearParameter</string>
+	<key>invisibleRepositoryStatus</key>
+	<string>batchFunctionTail</string>
+	<key>localizationScopeStatus</key>
+	<string>requiredSemanticsPosition</string>
+</dict>
+</plist>

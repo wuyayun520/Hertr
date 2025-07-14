@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBridgeResponse</key>
+	<string>gridAgainstStyle</string>
+	<key>currentBlocDistance</key>
+	<string>stepFormFrequency</string>
+	<key>customRequestRight</key>
+	<string>descriptorMediatorOrientation</string>
+	<key>grayscaleActivityBorder</key>
+	<string>intermediateMapPosition</string>
+	<key>precisionContainKind</key>
+	<string>coordinatorJobKind</string>
+	<key>streamVisitorStyle</key>
+	<string>controllerMethodCenter</string>
+	<key>viewAgainstCycle</key>
+	<string>criticalMatrixRight</string>
+</dict>
+</plist>

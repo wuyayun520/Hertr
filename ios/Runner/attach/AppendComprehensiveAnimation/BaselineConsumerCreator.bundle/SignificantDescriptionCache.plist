@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousStoreFeedback</key>
+	<string>musicStageCount</string>
+	<key>cacheFormDuration</key>
+	<string>elasticTransitionSize</string>
+	<key>elasticStoryboardSkewy</key>
+	<string>segueThanAction</string>
+	<key>graphEnvironmentOrientation</key>
+	<string>localizationPerPlatform</string>
+	<key>modulusBeyondShape</key>
+	<string>brushVersusFunction</string>
+	<key>operationProxySaturation</key>
+	<string>streamProxyCoord</string>
+	<key>pageviewStrategyMargin</key>
+	<string>utilStyleSpeed</string>
+	<key>tabbarAndTemple</key>
+	<string>cubeAmongObserver</string>
+	<key>transitionAboutInterpreter</key>
+	<string>requestThanActivity</string>
+</dict>
+</plist>

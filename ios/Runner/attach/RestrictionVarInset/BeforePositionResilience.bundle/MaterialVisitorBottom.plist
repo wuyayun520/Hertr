@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateDuringBridge</key>
+	<string>logMethodHue</string>
+	<key>dialogsOfAction</key>
+	<string>decorationLevelSpacing</string>
+	<key>dialogsVarFrequency</key>
+	<string>actionAndAdapter</string>
+	<key>resourceFormTransparency</key>
+	<string>loopUntilVisitor</string>
+	<key>tickerMediatorVisibility</key>
+	<string>collectionChainContrast</string>
+	<key>titleIncludeProcess</key>
+	<string>navigationIncludeCycle</string>
+</dict>
+</plist>

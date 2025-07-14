@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopAsyncValidation</key>
+	<string>routeOrTask</string>
+	<key>featureAdapterStyle</key>
+	<string>cartesianSampleHead</string>
+	<key>flexibleCustompaintSize</key>
+	<string>flexibleBoxInteraction</string>
+	<key>operationThroughDecorator</key>
+	<string>popupStructureSize</string>
+	<key>optimizerPhaseRight</key>
+	<string>previewProcessDistance</string>
+	<key>similarDrawerTail</key>
+	<string>utilKindOpacity</string>
+</dict>
+</plist>

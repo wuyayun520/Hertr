@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDespiteAdapter</key>
+	<string>responseThroughKind</string>
+	<key>allocatorPrototypeFrequency</key>
+	<string>callbackAndPlatform</string>
+	<key>associatedFactoryKind</key>
+	<string>discardedActionBottom</string>
+	<key>bulletSystemTension</key>
+	<string>eventInBridge</string>
+	<key>dedicatedSubscriptionOrientation</key>
+	<string>animatedTransformerCoord</string>
+	<key>heroStageContrast</key>
+	<string>coordinatorTempleSize</string>
+	<key>hierarchicalMaterialKind</key>
+	<string>progressbarWithoutMode</string>
+	<key>independentStatefulPosition</key>
+	<string>slashFunctionInterval</string>
+	<key>notificationPlatformAcceleration</key>
+	<string>fragmentLayerMomentum</string>
+</dict>
+</plist>

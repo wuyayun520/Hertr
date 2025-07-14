@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelBufferEdge</key>
+	<string>normalFrameHue</string>
+	<key>entitySingletonAlignment</key>
+	<string>bulletViaCycle</string>
+	<key>lazyDependencySize</key>
+	<string>timerNearPhase</string>
+	<key>observerAroundEnvironment</key>
+	<string>cursorDuringAction</string>
+	<key>rapidHashName</key>
+	<string>hierarchicalTransitionType</string>
+	<key>stampContainComposite</key>
+	<string>decorationChainResponse</string>
+	<key>temporaryMetadataLeft</key>
+	<string>modelLevelFlags</string>
+</dict>
+</plist>

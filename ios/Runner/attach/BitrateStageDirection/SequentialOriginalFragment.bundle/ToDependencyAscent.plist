@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerAxisKind</key>
+	<string>presenterInLevel</string>
+	<key>cellBeyondBuffer</key>
+	<string>loopProxyCenter</string>
+	<key>criticalAwaitTail</key>
+	<string>lazyLayoutTag</string>
+	<key>delegateAgainstJob</key>
+	<string>notifierAsDecorator</string>
+	<key>observerObserverHue</key>
+	<string>providerContainBridge</string>
+	<key>overlayBufferCount</key>
+	<string>layoutMementoDensity</string>
+	<key>significantResponseTension</key>
+	<string>eventDuringMemento</string>
+	<key>skinStyleRate</key>
+	<string>rectVersusStyle</string>
+	<key>subtleIntensityOrientation</key>
+	<string>streamExceptFunction</string>
+	<key>textureSystemContrast</key>
+	<string>permanentTweenFormat</string>
+</dict>
+</plist>

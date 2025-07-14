@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackBufferVisible</key>
+	<string>musicByObserver</string>
+	<key>consultativePresenterDuration</key>
+	<string>visibleCallbackCoord</string>
+	<key>interfaceStyleMode</key>
+	<string>liteSignFormat</string>
+	<key>positionedPrototypeSpacing</key>
+	<string>specifyGrainDistance</string>
+	<key>reducerWithSingleton</key>
+	<string>ternaryPerCommand</string>
+	<key>subscriptionAlongCycle</key>
+	<string>graphVariableVisibility</string>
+	<key>uniformAssetFeedback</key>
+	<string>mediaDespiteVisitor</string>
+</dict>
+</plist>

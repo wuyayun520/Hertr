@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousViewColor</key>
+	<string>asyncOutsideKind</string>
+	<key>delegateCommandBottom</key>
+	<string>radiusAlongStage</string>
+	<key>popupProcessRate</key>
+	<string>commonMenuFormat</string>
+	<key>signAlongDecorator</key>
+	<string>directlyContainerShade</string>
+	<key>sliderMementoSpacing</key>
+	<string>topicVarFlags</string>
+</dict>
+</plist>

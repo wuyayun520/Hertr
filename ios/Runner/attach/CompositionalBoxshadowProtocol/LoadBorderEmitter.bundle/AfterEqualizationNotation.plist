@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerMobileSkewy</key>
+	<string>signOutsideTier</string>
+	<key>composableSliderAppearance</key>
+	<string>loopAgainstType</string>
+	<key>gesturedetectorEnvironmentEdge</key>
+	<string>beginnerTweenDirection</string>
+	<key>resizableHashBorder</key>
+	<string>dedicatedSinkBottom</string>
+	<key>segueOperationRotation</key>
+	<string>pivotalGiftAppearance</string>
+</dict>
+</plist>

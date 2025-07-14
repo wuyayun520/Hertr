@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonStateTension</key>
+	<string>masterWorkCount</string>
+	<key>channelStructureMode</key>
+	<string>taskSingletonVisibility</string>
+	<key>criticalCallbackKind</key>
+	<string>singleSymbolTheme</string>
+	<key>discardedResourceDistance</key>
+	<string>completionDuringAction</string>
+	<key>disparateArithmeticCoord</key>
+	<string>transitionCompositeScale</string>
+	<key>frameNumberAlignment</key>
+	<string>grainActionResponse</string>
+	<key>ternaryContainNumber</key>
+	<string>tensorAccessoryScale</string>
+	<key>usageFunctionSpacing</key>
+	<string>menuStructureIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardResultMargin</key>
+	<string>missionSingletonRotation</string>
+	<key>capsuleWorkScale</key>
+	<string>errorMediatorSkewx</string>
+	<key>draggableViewInteraction</key>
+	<string>requestSinceVariable</string>
+	<key>sliderContainState</key>
+	<string>handlerMethodIndex</string>
+	<key>usedAnchorBottom</key>
+	<string>assetForStructure</string>
+</dict>
+</plist>

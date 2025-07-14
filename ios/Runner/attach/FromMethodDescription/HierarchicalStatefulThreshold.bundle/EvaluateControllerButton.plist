@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeTypeType</key>
+	<string>bulletChainFeedback</string>
+	<key>entityFromBuffer</key>
+	<string>blocFromMode</string>
+	<key>functionalBlocCount</key>
+	<string>cupertinoFutureRate</string>
+	<key>functionalSegmentBottom</key>
+	<string>rapidPresenterForce</string>
+	<key>iconVarDelay</key>
+	<string>responseShapeDensity</string>
+	<key>precisionModeStyle</key>
+	<string>scaleFromMode</string>
+	<key>resolverExceptMethod</key>
+	<string>queryForPattern</string>
+	<key>scrollModeDelay</key>
+	<string>clipperCompositeVelocity</string>
+	<key>synchronousIntensityFormat</key>
+	<string>resolverScopeType</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveIsolateVisible</key>
+	<string>stateActionInteraction</string>
+	<key>arithmeticDecoratorVisibility</key>
+	<string>reducerValueOffset</string>
+	<key>hashAndLayer</key>
+	<string>mediaLikeVar</string>
+	<key>interpolationForPhase</key>
+	<string>methodLikeFlyweight</string>
+	<key>missionWithoutEnvironment</key>
+	<string>keyDependencyOffset</string>
+	<key>paddingLayerBehavior</key>
+	<string>layerWithActivity</string>
+	<key>priorSliderEdge</key>
+	<string>firstObserverSpeed</string>
+	<key>spriteStyleAcceleration</key>
+	<string>mutableResourcePosition</string>
+	<key>tweenNearPattern</key>
+	<string>storeSinceTier</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerAgainstStrategy</key>
+	<string>nodeProcessValidation</string>
+	<key>controllerWithoutJob</key>
+	<string>navigatorMementoIndex</string>
+	<key>dimensionPhaseTheme</key>
+	<string>diffableCatalystColor</string>
+	<key>methodValueAlignment</key>
+	<string>nodeInsideKind</string>
+	<key>vectorScopeTop</key>
+	<string>euclideanBatchFrequency</string>
+</dict>
+</plist>

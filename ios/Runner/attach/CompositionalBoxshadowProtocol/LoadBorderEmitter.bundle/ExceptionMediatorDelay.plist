@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateKindScale</key>
+	<string>optionTierSaturation</string>
+	<key>mediumRadiusValidation</key>
+	<string>statelessIconForce</string>
+	<key>pinchableProviderLeft</key>
+	<string>visibleHeroRate</string>
+	<key>routeTypeDelay</key>
+	<string>aspectNumberInset</string>
+	<key>signFormOrientation</key>
+	<string>basicRadiusDistance</string>
+	<key>significantRadioBrightness</key>
+	<string>precisionPerTier</string>
+	<key>spriteValueBorder</key>
+	<string>factoryPerComposite</string>
+	<key>toolOutsidePlatform</key>
+	<string>graphPlatformScale</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderProcessDirection</key>
+	<string>protocolParameterResponse</string>
+	<key>eventPerTask</key>
+	<string>hardStateCenter</string>
+	<key>interfaceScopeBehavior</key>
+	<string>iterativeResolverAlignment</string>
+	<key>permanentToolMode</key>
+	<string>methodValueName</string>
+	<key>taskObserverContrast</key>
+	<string>functionalBoxMomentum</string>
+</dict>
+</plist>

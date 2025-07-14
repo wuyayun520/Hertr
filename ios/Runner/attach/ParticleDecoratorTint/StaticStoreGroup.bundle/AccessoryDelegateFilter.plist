@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushBySingleton</key>
+	<string>textStateScale</string>
+	<key>buttonAsFlyweight</key>
+	<string>layoutJobInteraction</string>
+	<key>channelInsideActivity</key>
+	<string>typicalNodeOffset</string>
+	<key>firstProviderLeft</key>
+	<string>offsetVisitorOrientation</string>
+	<key>precisionStrategyDensity</key>
+	<string>resolverInterpreterOrigin</string>
+	<key>resizableTextBrightness</key>
+	<string>slashLevelCoord</string>
+	<key>serviceAsParam</key>
+	<string>gradientTaskSkewy</string>
+	<key>significantStampFlags</key>
+	<string>entropyFrameworkDepth</string>
+</dict>
+</plist>

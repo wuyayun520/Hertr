@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorInProxy</key>
+	<string>brushEnvironmentStyle</string>
+	<key>buttonTaskTop</key>
+	<string>sessionActionName</string>
+	<key>controllerOperationVisibility</key>
+	<string>imperativeCallbackPadding</string>
+	<key>heapFromMethod</key>
+	<string>uniformHeapSpacing</string>
+	<key>methodOperationOpacity</key>
+	<string>stackSingletonVisible</string>
+	<key>mobileStreamHead</key>
+	<string>futureLayerPosition</string>
+	<key>radiusOrOperation</key>
+	<string>activatedLossLeft</string>
+	<key>riverpodNearChain</key>
+	<string>touchAmongTier</string>
+	<key>textureContextIndex</key>
+	<string>functionalInteractorKind</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameTierTransparency</key>
+	<string>customizedTweenPadding</string>
+	<key>interactorExceptParam</key>
+	<string>constraintActionSkewx</string>
+	<key>projectThroughProcess</key>
+	<string>queryParamScale</string>
+	<key>singletonSystemColor</key>
+	<string>visibleQueryFormat</string>
+	<key>smartHistogramScale</key>
+	<string>parallelSingletonIndex</string>
+</dict>
+</plist>

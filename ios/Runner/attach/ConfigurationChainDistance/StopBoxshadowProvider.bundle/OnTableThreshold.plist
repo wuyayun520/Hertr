@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertObserverMode</key>
+	<string>modalExceptObserver</string>
+	<key>effectOrContext</key>
+	<string>cupertinoContainerHead</string>
+	<key>gramWithVar</key>
+	<string>hashInsideBuffer</string>
+	<key>loopMediatorAlignment</key>
+	<string>tweenStyleShape</string>
+	<key>progressbarMementoFlags</key>
+	<string>deferredSpotSpacing</string>
+	<key>sequentialExceptionBehavior</key>
+	<string>offsetNearBridge</string>
+	<key>storageBesideCycle</key>
+	<string>normBeyondPrototype</string>
+	<key>toolActivityVelocity</key>
+	<string>similarDecorationRate</string>
+	<key>typicalContainerInterval</key>
+	<string>widgetModeAppearance</string>
+</dict>
+</plist>

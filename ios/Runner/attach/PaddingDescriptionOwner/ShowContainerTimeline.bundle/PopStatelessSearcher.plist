@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureVersusBuffer</key>
+	<string>reducerTaskMode</string>
+	<key>flexibleSpriteVisibility</key>
+	<string>repositoryAndEnvironment</string>
+	<key>gridNearContext</key>
+	<string>batchInsideState</string>
+	<key>interactorFrameworkAlignment</key>
+	<string>mediaEnvironmentDepth</string>
+	<key>respectiveBuilderOffset</key>
+	<string>threadAboutNumber</string>
+	<key>responseObserverVisibility</key>
+	<string>responseOfKind</string>
+	<key>stateActionTail</key>
+	<string>dimensionShapeOpacity</string>
+</dict>
+</plist>

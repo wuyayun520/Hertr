@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationProxyOrigin</key>
+	<string>injectionAroundStructure</string>
+	<key>discardedEntityCoord</key>
+	<string>groupUntilObserver</string>
+	<key>mapCommandLocation</key>
+	<string>navigatorTypeFeedback</string>
+	<key>movementTypeMomentum</key>
+	<string>painterShapeFeedback</string>
+	<key>nibVariableSkewy</key>
+	<string>crudeDurationPadding</string>
+	<key>resourceAroundParameter</key>
+	<string>sliderBufferDepth</string>
+	<key>sortedSkinDelay</key>
+	<string>specifierMediatorFeedback</string>
+	<key>tweenFacadeOffset</key>
+	<string>listenerThroughAction</string>
+</dict>
+</plist>

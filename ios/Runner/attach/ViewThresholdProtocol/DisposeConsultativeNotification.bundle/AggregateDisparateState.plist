@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellExceptTier</key>
+	<string>projectAmongDecorator</string>
+	<key>contractionModeFormat</key>
+	<string>tickerAndVariable</string>
+	<key>grayscaleContextContrast</key>
+	<string>semanticCubitBottom</string>
+	<key>hardLabelHead</key>
+	<string>spriteContainScope</string>
+	<key>previewViaMethod</key>
+	<string>pointTypeKind</string>
+	<key>temporaryBufferCount</key>
+	<string>swiftSinceFunction</string>
+	<key>timerSinceProcess</key>
+	<string>protectedTaskSaturation</string>
+	<key>transitionDuringMethod</key>
+	<string>radiusParamForce</string>
+</dict>
+</plist>

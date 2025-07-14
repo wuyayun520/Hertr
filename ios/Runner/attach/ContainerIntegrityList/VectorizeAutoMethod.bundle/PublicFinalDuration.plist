@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticLayoutStyle</key>
+	<string>beginnerInkwellDelay</string>
+	<key>geometricBoxSpeed</key>
+	<string>logJobAppearance</string>
+	<key>responsiveProfileHue</key>
+	<string>multiplicationParameterDistance</string>
+	<key>skinInsideLevel</key>
+	<string>lazyAssetForce</string>
+	<key>widgetStageForce</key>
+	<string>durationNumberType</string>
+</dict>
+</plist>

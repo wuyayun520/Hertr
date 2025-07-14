@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachePerEnvironment</key>
+	<string>hashThroughParam</string>
+	<key>delicateProgressbarPressure</key>
+	<string>reactiveAppbarTint</string>
+	<key>hierarchicalNodeShade</key>
+	<string>blocContextVisible</string>
+	<key>managerInterpreterOrientation</key>
+	<string>timerPerMediator</string>
+	<key>navigatorFromProcess</key>
+	<string>diffableProgressbarCenter</string>
+	<key>originalGroupColor</key>
+	<string>swiftFunctionBrightness</string>
+	<key>permissiveAnimatedcontainerMode</key>
+	<string>axisTierStatus</string>
+	<key>tweenActionAcceleration</key>
+	<string>secondTextOffset</string>
+</dict>
+</plist>

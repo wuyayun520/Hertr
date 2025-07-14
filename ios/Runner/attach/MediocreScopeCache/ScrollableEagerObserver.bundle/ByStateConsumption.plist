@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionOrFramework</key>
+	<string>binaryAroundStructure</string>
+	<key>cubeAndFunction</key>
+	<string>animatedProgressbarSize</string>
+	<key>curveTempleOpacity</key>
+	<string>commandStyleDelay</string>
+	<key>futureAndShape</key>
+	<string>featureInsideSingleton</string>
+	<key>responsiveStackAlignment</key>
+	<string>associatedReductionOffset</string>
+	<key>shaderObserverCount</key>
+	<string>captionCompositeHue</string>
+	<key>tweenFrameworkBound</key>
+	<string>lazyAsyncDirection</string>
+	<key>usageFormScale</key>
+	<string>hashObserverDirection</string>
+	<key>variantFlyweightTop</key>
+	<string>futureDecoratorContrast</string>
+</dict>
+</plist>

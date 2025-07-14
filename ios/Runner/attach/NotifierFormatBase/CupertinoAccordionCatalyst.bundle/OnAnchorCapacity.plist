@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertInterpreterSpeed</key>
+	<string>buttonNearKind</string>
+	<key>callbackAgainstFunction</key>
+	<string>singleSensorType</string>
+	<key>commonCommandDistance</key>
+	<string>curveAroundEnvironment</string>
+	<key>customBlocMode</key>
+	<string>inkwellThanLevel</string>
+	<key>loopExceptCycle</key>
+	<string>skirtFunctionType</string>
+	<key>menuStateTint</key>
+	<string>sceneTaskFormat</string>
+	<key>resourceObserverLocation</key>
+	<string>factoryContextRotation</string>
+	<key>sineContainObserver</key>
+	<string>storeOutsideFlyweight</string>
+	<key>sineNearContext</key>
+	<string>memberBeyondScope</string>
+	<key>themeProxyRotation</key>
+	<string>pointFormIndex</string>
+</dict>
+</plist>

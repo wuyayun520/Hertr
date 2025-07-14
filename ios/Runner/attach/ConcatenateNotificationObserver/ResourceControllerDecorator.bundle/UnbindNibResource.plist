@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAndStructure</key>
+	<string>switchThroughMemento</string>
+	<key>behaviorPlatformFrequency</key>
+	<string>titleScopeFrequency</string>
+	<key>chartKindPadding</key>
+	<string>paddingStyleAppearance</string>
+	<key>interactiveSliderIndex</key>
+	<string>mobileDurationValidation</string>
+	<key>listenerInStructure</key>
+	<string>routerAndScope</string>
+	<key>routeBufferSkewy</key>
+	<string>granularServiceBehavior</string>
+	<key>utilBufferPosition</key>
+	<string>webMaterialColor</string>
+</dict>
+</plist>

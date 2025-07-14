@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintThanShape</key>
+	<string>statefulControllerResponse</string>
+	<key>consumerAtMethod</key>
+	<string>queryPatternDensity</string>
+	<key>injectionViaLayer</key>
+	<string>localizationAtPrototype</string>
+	<key>metadataForForm</key>
+	<string>gridviewVisitorShape</string>
+	<key>rectAdapterPadding</key>
+	<string>ignoredZoneOffset</string>
+</dict>
+</plist>

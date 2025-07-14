@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstListviewStyle</key>
+	<string>curveInsideScope</string>
+	<key>reducerVisitorBehavior</key>
+	<string>semanticEqualizationInset</string>
+	<key>routeBufferBrightness</key>
+	<string>smartAppbarDensity</string>
+	<key>sizeDuringAdapter</key>
+	<string>unactivatedGateName</string>
+</dict>
+</plist>

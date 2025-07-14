@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoMediaLeft</key>
+	<string>visibleCompleterName</string>
+	<key>draggableCompletionPadding</key>
+	<string>characterWithStructure</string>
+	<key>draggableWidgetOrientation</key>
+	<string>sequentialBaseStyle</string>
+	<key>memberBesideContext</key>
+	<string>skirtVersusScope</string>
+	<key>navigationVersusJob</key>
+	<string>builderPlatformDistance</string>
+	<key>notifierAmongStrategy</key>
+	<string>permissiveOptimizerShade</string>
+	<key>popupEnvironmentRotation</key>
+	<string>desktopPageviewSpacing</string>
+	<key>radiusAdapterDensity</key>
+	<string>concreteMediaBottom</string>
+</dict>
+</plist>

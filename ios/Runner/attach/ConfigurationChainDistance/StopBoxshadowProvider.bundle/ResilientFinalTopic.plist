@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiMobileBorder</key>
+	<string>permissiveScrollInset</string>
+	<key>sceneUntilLayer</key>
+	<string>rectChainOrigin</string>
+	<key>subpixelPrototypeFormat</key>
+	<string>timerFrameworkBorder</string>
+</dict>
+</plist>

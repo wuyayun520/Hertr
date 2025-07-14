@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperModePosition</key>
+	<string>richtextByParameter</string>
+	<key>drawerFromVisitor</key>
+	<string>checkboxValueColor</string>
+	<key>intensityBeyondKind</key>
+	<string>themeFromFlyweight</string>
+	<key>transitionBufferRotation</key>
+	<string>hardTransformerBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerWithPhase</key>
+	<string>lossSinceLevel</string>
+	<key>crucialViewSaturation</key>
+	<string>cellSystemBorder</string>
+	<key>fragmentPlatformMode</key>
+	<string>backwardLoopDensity</string>
+	<key>parallelInstructionBound</key>
+	<string>coordinatorChainDelay</string>
+	<key>prevTernaryTop</key>
+	<string>characterFacadeTheme</string>
+	<key>taskFacadeVelocity</key>
+	<string>reactiveNibTop</string>
+	<key>usecaseByMemento</key>
+	<string>drawerPlatformTheme</string>
+</dict>
+</plist>

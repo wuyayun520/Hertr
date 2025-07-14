@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystTaskMargin</key>
+	<string>slashNearBuffer</string>
+	<key>deferredBuilderPadding</key>
+	<string>gridFromProcess</string>
+	<key>drawerStageShade</key>
+	<string>originalOverlayStyle</string>
+	<key>handlerOutsideMethod</key>
+	<string>immediateCommandEdge</string>
+	<key>ternaryNumberAppearance</key>
+	<string>columnModeSize</string>
+	<key>touchFromParameter</key>
+	<string>sharedAsyncBehavior</string>
+	<key>usecaseCycleType</key>
+	<string>overlayDecoratorName</string>
+	<key>vectorFlyweightLeft</key>
+	<string>deferredTextVisible</string>
+</dict>
+</plist>

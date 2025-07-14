@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionAndBuffer</key>
+	<string>injectionVariableBound</string>
+	<key>consultativeDescriptorMargin</key>
+	<string>standaloneBaseDirection</string>
+	<key>draggableStatelessEdge</key>
+	<string>stateLikeKind</string>
+	<key>dynamicBuilderRight</key>
+	<string>beginnerScaffoldBehavior</string>
+	<key>positionContainScope</key>
+	<string>sharedTouchAcceleration</string>
+	<key>widgetJobTheme</key>
+	<string>popupAwayChain</string>
+</dict>
+</plist>

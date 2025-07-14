@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationAwayTier</key>
+	<string>storageBridgeMode</string>
+	<key>dependencyAwayMediator</key>
+	<string>taskSinceBuffer</string>
+	<key>inheritedTickerFlags</key>
+	<string>interactiveResponseTheme</string>
+	<key>intensityStateBorder</key>
+	<string>channelBufferVisibility</string>
+	<key>mediaIncludeContext</key>
+	<string>custompaintProcessLocation</string>
+	<key>riverpodFormDensity</key>
+	<string>builderOperationSkewy</string>
+	<key>riverpodOfSystem</key>
+	<string>pinchableExpandedAcceleration</string>
+	<key>visibleSinkOffset</key>
+	<string>denseReducerCount</string>
+</dict>
+</plist>

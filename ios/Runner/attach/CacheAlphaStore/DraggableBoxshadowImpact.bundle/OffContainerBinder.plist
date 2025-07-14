@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalSliderAppearance</key>
+	<string>custompaintInsideStrategy</string>
+	<key>equalizationAndFacade</key>
+	<string>materialDimensionHead</string>
+	<key>observerThroughActivity</key>
+	<string>pageviewOrFacade</string>
+</dict>
+</plist>

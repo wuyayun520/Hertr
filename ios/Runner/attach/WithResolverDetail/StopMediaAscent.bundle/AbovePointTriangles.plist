@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finalToolOrientation</key>
+	<string>webListviewRight</string>
+	<key>gridviewShapeDistance</key>
+	<string>contractionCompositeOrigin</string>
+	<key>queryFormSpeed</key>
+	<string>statelessDecoratorBottom</string>
+	<key>smallDependencyStyle</key>
+	<string>durationAboutMethod</string>
+	<key>subscriptionEnvironmentLocation</key>
+	<string>assetStrategyState</string>
+</dict>
+</plist>

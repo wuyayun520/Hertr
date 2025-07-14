@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicActivityAcceleration</key>
+	<string>serviceVariableLeft</string>
+	<key>dedicatedHeapVisible</key>
+	<string>effectTierKind</string>
+	<key>gridThroughNumber</key>
+	<string>opaqueTickerFrequency</string>
+	<key>nibDespiteAdapter</key>
+	<string>themeAroundAdapter</string>
+	<key>reactiveProviderSize</key>
+	<string>descriptionFacadeVisibility</string>
+	<key>scrollExceptTier</key>
+	<string>gestureTempleMomentum</string>
+	<key>sliderStateAppearance</key>
+	<string>standaloneReductionPressure</string>
+</dict>
+</plist>

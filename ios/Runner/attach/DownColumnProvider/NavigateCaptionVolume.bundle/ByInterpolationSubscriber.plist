@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonNearFramework</key>
+	<string>usecaseCommandShade</string>
+	<key>inheritedBaseTransparency</key>
+	<string>lazySingletonAppearance</string>
+	<key>intuitiveZoneEdge</key>
+	<string>constraintContainInterpreter</string>
+	<key>oldUtilOpacity</key>
+	<string>grayscaleAmongFramework</string>
+	<key>reducerSingletonTint</key>
+	<string>pointFromProcess</string>
+	<key>segmentValueTint</key>
+	<string>timerAdapterPadding</string>
+	<key>smartCommandName</key>
+	<string>descriptorSingletonOrigin</string>
+	<key>substantialScaffoldDepth</key>
+	<string>factoryNumberBrightness</string>
+</dict>
+</plist>

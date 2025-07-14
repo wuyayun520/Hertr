@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionSingletonRight</key>
+	<string>aspectExceptMemento</string>
+	<key>factoryInFacade</key>
+	<string>interactorSingletonVisible</string>
+	<key>fusedInterfacePressure</key>
+	<string>activeCompleterBehavior</string>
+	<key>granularResponseDuration</key>
+	<string>layerTierAppearance</string>
+	<key>gridLikeInterpreter</key>
+	<string>layoutStateOrientation</string>
+	<key>lazyTransformerAcceleration</key>
+	<string>statefulFactorySpeed</string>
+</dict>
+</plist>

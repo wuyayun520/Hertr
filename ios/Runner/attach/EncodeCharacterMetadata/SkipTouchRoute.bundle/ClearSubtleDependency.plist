@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoGroupSkewy</key>
+	<string>localizationForNumber</string>
+	<key>menuDespiteContext</key>
+	<string>awaitLayerDepth</string>
+	<key>musicOrSingleton</key>
+	<string>variantPerAction</string>
+	<key>routeStageInteraction</key>
+	<string>providerStateDirection</string>
+	<key>secondScaffoldBrightness</key>
+	<string>canvasContextPosition</string>
+</dict>
+</plist>

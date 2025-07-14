@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerObserverTheme</key>
+	<string>particleBesideTask</string>
+	<key>gradientSingletonRight</key>
+	<string>inkwellWithoutComposite</string>
+	<key>interpolationLikeMode</key>
+	<string>seamlessShaderDuration</string>
+	<key>listenerLikeState</key>
+	<string>primaryLabelInterval</string>
+	<key>missedSkirtShade</key>
+	<string>sequentialModelStatus</string>
+	<key>musicStateRate</key>
+	<string>radioAgainstNumber</string>
+	<key>overlayContainProxy</key>
+	<string>streamValueSkewx</string>
+	<key>popupContainPlatform</key>
+	<string>stateInterpreterSpacing</string>
+	<key>sliderKindDuration</key>
+	<string>usageWorkDirection</string>
+</dict>
+</plist>

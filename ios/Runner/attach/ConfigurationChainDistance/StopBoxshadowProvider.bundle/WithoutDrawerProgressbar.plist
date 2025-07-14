@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>methodViaLevel</key>
+	<string>entityAroundLayer</string>
+	<key>momentumExceptDecorator</key>
+	<string>entityAroundChain</string>
+	<key>temporaryObserverAlignment</key>
+	<string>reductionInValue</string>
+	<key>timerExceptAction</key>
+	<string>localizationMethodAppearance</string>
+</dict>
+</plist>

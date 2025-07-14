@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoViewOrientation</key>
+	<string>activePositionCenter</string>
+	<key>gateDuringVisitor</key>
+	<string>coordinatorExceptShape</string>
+	<key>heroCycleAlignment</key>
+	<string>viewCycleLocation</string>
+	<key>inheritedAlertState</key>
+	<string>densePointTransparency</string>
+	<key>observerJobFeedback</key>
+	<string>brushSystemTransparency</string>
+	<key>swiftDuringBuffer</key>
+	<string>alphaFrameworkType</string>
+	<key>titleIncludeValue</key>
+	<string>channelsFlyweightInset</string>
+	<key>widgetInPattern</key>
+	<string>presenterCompositeRate</string>
+</dict>
+</plist>

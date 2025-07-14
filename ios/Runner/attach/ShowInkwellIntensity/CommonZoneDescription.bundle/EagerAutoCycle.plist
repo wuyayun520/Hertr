@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheDecoratorTint</key>
+	<string>groupTypeEdge</string>
+	<key>constResultState</key>
+	<string>activeFrameTheme</string>
+	<key>featurePrototypeValidation</key>
+	<string>callbackSinceComposite</string>
+	<key>gesturedetectorTaskVelocity</key>
+	<string>cupertinoAdapterDirection</string>
+	<key>heroAwayJob</key>
+	<string>stackAgainstBridge</string>
+	<key>integerWithKind</key>
+	<string>mobxValueTheme</string>
+	<key>navigationAndAction</key>
+	<string>streamBridgeMode</string>
+	<key>requestCycleOffset</key>
+	<string>stampContextOrigin</string>
+	<key>sceneTempleAlignment</key>
+	<string>futureThanNumber</string>
+	<key>skirtStateTheme</key>
+	<string>interpolationActionRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionSystemMode</key>
+	<string>cartesianStoreFeedback</string>
+	<key>customizedOperationState</key>
+	<string>permanentQueueTop</string>
+	<key>directAnimationMode</key>
+	<string>disparateCallbackLocation</string>
+	<key>effectVersusShape</key>
+	<string>responsiveSizedboxScale</string>
+	<key>marginAndWork</key>
+	<string>providerStateRate</string>
+	<key>mediaqueryMethodAcceleration</key>
+	<string>diffableResourceAppearance</string>
+	<key>retainedExpandedTransparency</key>
+	<string>cartesianListenerMode</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeStorageRotation</key>
+	<string>blocWithoutSingleton</string>
+	<key>dynamicChallengeOffset</key>
+	<string>textfieldTempleDuration</string>
+	<key>gridModeRate</key>
+	<string>viewObserverBrightness</string>
+	<key>inheritedStoryboardScale</key>
+	<string>effectFormFeedback</string>
+	<key>localExceptionPosition</key>
+	<string>featureKindInset</string>
+	<key>previewStateMomentum</key>
+	<string>expandedBeyondLevel</string>
+	<key>textExceptState</key>
+	<string>resizableGemKind</string>
+</dict>
+</plist>

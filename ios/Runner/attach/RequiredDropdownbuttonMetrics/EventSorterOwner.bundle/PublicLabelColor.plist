@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDependencyTint</key>
+	<string>workflowThroughFunction</string>
+	<key>chartUntilCommand</key>
+	<string>frameNumberRate</string>
+	<key>durationSinceVariable</key>
+	<string>stateContainShape</string>
+	<key>iterativeSpecifierType</key>
+	<string>denseMemberFrequency</string>
+	<key>zonePhaseCenter</key>
+	<string>mainProgressbarType</string>
+</dict>
+</plist>

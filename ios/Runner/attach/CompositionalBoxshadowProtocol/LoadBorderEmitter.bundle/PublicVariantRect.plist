@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitOrPrototype</key>
+	<string>graphInsideState</string>
+	<key>disabledTopicColor</key>
+	<string>taskOfNumber</string>
+	<key>explicitCubeShape</key>
+	<string>retainedDecorationOffset</string>
+	<key>imageForMode</key>
+	<string>playbackPrototypeTheme</string>
+	<key>inheritedReducerStatus</key>
+	<string>gridCompositeInteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedRiverpodTransparency</key>
+	<string>sliderInVariable</string>
+	<key>heroDuringJob</key>
+	<string>callbackAsComposite</string>
+	<key>localizationSinceSystem</key>
+	<string>graphPlatformSpeed</string>
+	<key>progressbarPhaseVisibility</key>
+	<string>accordionLayerDuration</string>
+	<key>timerPrototypeStyle</key>
+	<string>mutableVectorEdge</string>
+</dict>
+</plist>

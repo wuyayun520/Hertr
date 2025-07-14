@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleUtilType</key>
+	<string>customNormName</string>
+	<key>immediateRequestOrientation</key>
+	<string>localCompleterInterval</string>
+	<key>immutableInkwellFeedback</key>
+	<string>routerBesideTask</string>
+	<key>managerObserverDirection</key>
+	<string>paddingIncludeCycle</string>
+	<key>statelessRowPadding</key>
+	<string>textfieldVersusActivity</string>
+</dict>
+</plist>

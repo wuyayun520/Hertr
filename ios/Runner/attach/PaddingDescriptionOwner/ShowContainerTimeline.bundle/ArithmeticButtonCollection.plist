@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocShapeTag</key>
+	<string>reusableAnimationShape</string>
+	<key>blocVariableInterval</key>
+	<string>composableGateScale</string>
+	<key>characterAboutType</key>
+	<string>singleTickerBrightness</string>
+	<key>flexibleEntropyDistance</key>
+	<string>explicitSizeContrast</string>
+	<key>iconAwayNumber</key>
+	<string>statelessConstraintSpacing</string>
+	<key>injectionUntilProxy</key>
+	<string>isolateAdapterSpacing</string>
+	<key>navigatorVersusEnvironment</key>
+	<string>compositionModeFeedback</string>
+	<key>plateOrSingleton</key>
+	<string>lazyExceptionBrightness</string>
+	<key>staticFrameInset</key>
+	<string>gridviewAdapterForce</string>
+</dict>
+</plist>

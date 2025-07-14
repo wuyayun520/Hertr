@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerByFacade</key>
+	<string>euclideanAnimationOrigin</string>
+	<key>apertureKindLeft</key>
+	<string>controllerAmongPrototype</string>
+	<key>cubitProcessFeedback</key>
+	<string>missionAtOperation</string>
+	<key>gridParameterPosition</key>
+	<string>sessionByNumber</string>
+	<key>lossVersusDecorator</key>
+	<string>dimensionBesideScope</string>
+	<key>pivotalModelStyle</key>
+	<string>managerSingletonSaturation</string>
+	<key>reducerCycleBound</key>
+	<string>statefulExceptStructure</string>
+	<key>secondCycleShape</key>
+	<string>granularSpotFlags</string>
+	<key>skirtAtVisitor</key>
+	<string>delegateFlyweightName</string>
+	<key>viewAroundScope</key>
+	<string>scrollableAwaitValidation</string>
+</dict>
+</plist>

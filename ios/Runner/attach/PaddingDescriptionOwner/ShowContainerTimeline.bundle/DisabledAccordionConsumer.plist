@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxByMemento</key>
+	<string>coordinatorOfJob</string>
+	<key>constraintDecoratorVelocity</key>
+	<string>durationSystemPressure</string>
+	<key>constraintInPrototype</key>
+	<string>requestAgainstSingleton</string>
+	<key>geometricClipperEdge</key>
+	<string>associatedDimensionAlignment</string>
+	<key>interfaceParamValidation</key>
+	<string>presenterAndState</string>
+	<key>newestExtensionDistance</key>
+	<string>associatedGrayscaleDelay</string>
+	<key>resourceContextTransparency</key>
+	<string>blocInsidePrototype</string>
+	<key>transformerBeyondStyle</key>
+	<string>giftForObserver</string>
+</dict>
+</plist>

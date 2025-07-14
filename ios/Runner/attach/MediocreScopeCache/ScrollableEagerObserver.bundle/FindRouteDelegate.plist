@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customPreviewMargin</key>
+	<string>sequentialMobileIndex</string>
+	<key>independentOperationStyle</key>
+	<string>custompaintActivityRotation</string>
+	<key>indicatorStageDistance</key>
+	<string>metadataAndPlatform</string>
+	<key>keyZoneFrequency</key>
+	<string>callbackInterpreterShape</string>
+	<key>specifyAspectratioHead</key>
+	<string>gesturedetectorOperationMomentum</string>
+</dict>
+</plist>

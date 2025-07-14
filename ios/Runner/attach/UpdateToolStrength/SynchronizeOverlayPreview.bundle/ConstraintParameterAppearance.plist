@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderAroundComposite</key>
+	<string>greatKernelBottom</string>
+	<key>gridWithComposite</key>
+	<string>usageBesideVariable</string>
+	<key>groupAsPrototype</key>
+	<string>arithmeticScreenFeedback</string>
+	<key>lostSineBound</key>
+	<string>opaqueConstraintLeft</string>
+	<key>mobileNotifierVisible</key>
+	<string>materialMomentumSize</string>
+	<key>parallelSkirtColor</key>
+	<string>grayscaleThroughPrototype</string>
+	<key>sceneModeInset</key>
+	<string>flexParamBound</string>
+	<key>semanticsParamInteraction</key>
+	<string>workflowWithoutPattern</string>
+	<key>usecaseLevelCenter</key>
+	<string>queryWithMediator</string>
+</dict>
+</plist>

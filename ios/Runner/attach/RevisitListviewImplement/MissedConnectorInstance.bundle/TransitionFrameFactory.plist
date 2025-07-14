@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicDecorationFeedback</key>
+	<string>boxAmongJob</string>
+	<key>chapterProcessCoord</key>
+	<string>denseGestureVisibility</string>
+	<key>dedicatedLogStyle</key>
+	<string>transformerScopeCoord</string>
+	<key>enabledDecorationContrast</key>
+	<string>layoutWithoutVisitor</string>
+	<key>repositoryInsideDecorator</key>
+	<string>routeProxyTheme</string>
+	<key>routeMethodSpacing</key>
+	<string>positionedLevelRate</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorWithoutCycle</key>
+	<string>transitionPlatformTint</string>
+	<key>asyncTextAcceleration</key>
+	<string>builderFlyweightBehavior</string>
+	<key>movementAgainstTask</key>
+	<string>typicalMatrixResponse</string>
+	<key>requiredNavigatorColor</key>
+	<string>resolverViaType</string>
+	<key>sortedScaffoldTheme</key>
+	<string>constDependencyBrightness</string>
+	<key>textInsidePrototype</key>
+	<string>injectionScopeHead</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedTangentAlignment</key>
+	<string>viewJobTint</string>
+	<key>gestureStateType</key>
+	<string>standaloneResourceSkewx</string>
+	<key>optimizerThroughNumber</key>
+	<string>interpolationPerOperation</string>
+	<key>painterAtVisitor</key>
+	<string>completerSystemTag</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentPerSingleton</key>
+	<string>retainedRepositoryRight</string>
+	<key>mobxVersusComposite</key>
+	<string>behaviorProcessBottom</string>
+	<key>priorColumnIndex</key>
+	<string>commandMementoPadding</string>
+	<key>rapidScaleSpacing</key>
+	<string>euclideanUtilCoord</string>
+	<key>resourceTierIndex</key>
+	<string>directlyAllocatorLeft</string>
+	<key>smallMethodVelocity</key>
+	<string>resourceIncludeKind</string>
+	<key>statelessAroundBridge</key>
+	<string>awaitOfForm</string>
+</dict>
+</plist>

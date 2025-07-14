@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCallbackAcceleration</key>
+	<string>tensorResponseIndex</string>
+	<key>alignmentAdapterAcceleration</key>
+	<string>viewViaSingleton</string>
+	<key>dependencyFacadeFormat</key>
+	<string>animationForSystem</string>
+	<key>globalDecorationInterval</key>
+	<string>remainderVersusVar</string>
+	<key>globalLayoutPadding</key>
+	<string>bulletProxyFeedback</string>
+	<key>heapOutsidePattern</key>
+	<string>arithmeticAwayActivity</string>
+	<key>methodJobAcceleration</key>
+	<string>baseActionDirection</string>
+	<key>shaderChainContrast</key>
+	<string>viewProcessDelay</string>
+	<key>spriteParameterMomentum</key>
+	<string>sequentialStreamDensity</string>
+	<key>textFlyweightCount</key>
+	<string>resultOrStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentSingletonFeedback</key>
+	<string>playbackFrameworkRotation</string>
+	<key>requestStageShape</key>
+	<string>musicUntilTier</string>
+	<key>taskStructureHue</key>
+	<string>unactivatedConsumerAcceleration</string>
+</dict>
+</plist>

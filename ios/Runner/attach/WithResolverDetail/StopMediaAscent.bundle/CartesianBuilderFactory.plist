@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPlatformBrightness</key>
+	<string>cupertinoOfMode</string>
+	<key>cellEnvironmentBorder</key>
+	<string>toolFormValidation</string>
+	<key>hardAsyncOffset</key>
+	<string>invisibleRectInteraction</string>
+	<key>projectionStageLocation</key>
+	<string>bitrateBufferTop</string>
+	<key>unactivatedSizeVelocity</key>
+	<string>expandedNearAdapter</string>
+	<key>visibleLogarithmShade</key>
+	<string>storeAgainstFacade</string>
+</dict>
+</plist>

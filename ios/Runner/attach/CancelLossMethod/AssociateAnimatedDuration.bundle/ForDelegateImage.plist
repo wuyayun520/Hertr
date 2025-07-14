@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionWithLayer</key>
+	<string>viewScopeDistance</string>
+	<key>currentStorageLeft</key>
+	<string>deferredPrecisionDistance</string>
+	<key>interactiveLayoutFeedback</key>
+	<string>alphaLevelAppearance</string>
+	<key>metadataPhaseVisible</key>
+	<string>commandBridgePadding</string>
+	<key>staticCoordinatorAppearance</key>
+	<string>arithmeticLayerVisibility</string>
+	<key>uniqueRemainderRight</key>
+	<string>multiplicationFrameworkDirection</string>
+	<key>viewScopeShade</key>
+	<string>convolutionCommandLocation</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackInsideCycle</key>
+	<string>widgetAtPrototype</string>
+	<key>certificateLayerInset</key>
+	<string>alertStrategyInset</string>
+	<key>cupertinoEffectCenter</key>
+	<string>assetAtState</string>
+	<key>resultFromScope</key>
+	<string>tweenVisitorTop</string>
+</dict>
+</plist>

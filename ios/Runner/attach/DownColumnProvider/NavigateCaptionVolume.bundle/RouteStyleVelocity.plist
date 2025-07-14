@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertProcessDuration</key>
+	<string>checklistAdapterRate</string>
+	<key>aspectBridgeBrightness</key>
+	<string>sizedboxPerAdapter</string>
+	<key>borderViaCycle</key>
+	<string>groupOutsideEnvironment</string>
+	<key>commandVersusCommand</key>
+	<string>graphAtInterpreter</string>
+	<key>graphLevelShape</key>
+	<string>smallStampMargin</string>
+	<key>numericalObserverName</key>
+	<string>appbarInterpreterFrequency</string>
+	<key>optionOrMediator</key>
+	<string>entropyInterpreterBorder</string>
+</dict>
+</plist>

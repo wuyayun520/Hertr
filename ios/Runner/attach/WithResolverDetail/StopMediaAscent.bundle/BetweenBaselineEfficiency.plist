@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryViaInterpreter</key>
+	<string>interactorAsBridge</string>
+	<key>buttonDespiteCycle</key>
+	<string>curveAndSingleton</string>
+	<key>fragmentCompositeValidation</key>
+	<string>mapAmongObserver</string>
+	<key>interpolationProcessShape</key>
+	<string>compositionalPaddingValidation</string>
+	<key>matrixContainParam</key>
+	<string>diffableSliderScale</string>
+	<key>progressbarSingletonOffset</key>
+	<string>sliderFromParam</string>
+</dict>
+</plist>

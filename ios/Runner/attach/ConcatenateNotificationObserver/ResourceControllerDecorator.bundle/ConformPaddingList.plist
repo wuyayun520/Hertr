@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvePrototypeIndex</key>
+	<string>gridAmongLevel</string>
+	<key>draggableDecorationStyle</key>
+	<string>mobxStyleShape</string>
+	<key>eventEnvironmentMargin</key>
+	<string>themeBesideObserver</string>
+	<key>largeControllerSize</key>
+	<string>utilExceptStyle</string>
+	<key>liteEquipmentFrequency</key>
+	<string>normTaskHead</string>
+	<key>musicMementoState</key>
+	<string>topicTierMargin</string>
+	<key>otherCubitScale</key>
+	<string>smartProjectionRate</string>
+	<key>rapidListenerTension</key>
+	<string>crucialConfigurationFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveStateValidation</key>
+	<string>factoryNumberRotation</string>
+	<key>brushVisitorBound</key>
+	<string>cursorBridgeShape</string>
+	<key>builderStateAcceleration</key>
+	<string>intensityIncludeTier</string>
+	<key>customPetFlags</key>
+	<string>globalTransitionSkewx</string>
+	<key>promiseSinceProxy</key>
+	<string>flexibleResponseDistance</string>
+	<key>smartEventMargin</key>
+	<string>sinkAtCommand</string>
+	<key>tabviewSinceBridge</key>
+	<string>ternarySingletonState</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRowBrightness</key>
+	<string>utilPerProcess</string>
+	<key>hashFromParameter</key>
+	<string>requestVarAppearance</string>
+	<key>menuMethodBottom</key>
+	<string>layoutPlatformHue</string>
+	<key>reactiveIsolateRight</key>
+	<string>listenerViaMode</string>
+</dict>
+</plist>

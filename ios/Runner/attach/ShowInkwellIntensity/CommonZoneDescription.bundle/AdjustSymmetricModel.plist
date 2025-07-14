@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionFormSize</key>
+	<string>easyPreviewValidation</string>
+	<key>alphaMethodIndex</key>
+	<string>similarSceneTransparency</string>
+	<key>collectionParamTint</key>
+	<string>iconWithoutFlyweight</string>
+	<key>gridviewAmongPhase</key>
+	<string>reducerViaChain</string>
+	<key>hardCompleterLocation</key>
+	<string>offsetByBuffer</string>
+	<key>mutableAlphaMomentum</key>
+	<string>routeViaInterpreter</string>
+	<key>resolverAndPlatform</key>
+	<string>consumerChainFlags</string>
+	<key>tickerVarSkewy</key>
+	<string>missionAmongParam</string>
+</dict>
+</plist>

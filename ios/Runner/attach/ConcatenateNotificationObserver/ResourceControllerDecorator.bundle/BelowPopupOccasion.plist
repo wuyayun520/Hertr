@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorTypeEdge</key>
+	<string>logTempleMode</string>
+	<key>assetFlyweightSaturation</key>
+	<string>invisibleServiceDepth</string>
+	<key>cupertinoListviewStyle</key>
+	<string>interactorFlyweightSaturation</string>
+	<key>notificationWithAction</key>
+	<string>storeOfAction</string>
+	<key>overlayParameterHead</key>
+	<string>callbackAsObserver</string>
+	<key>sessionCommandSaturation</key>
+	<string>directlyChallengeBehavior</string>
+	<key>spotInShape</key>
+	<string>responseSinceScope</string>
+	<key>webSubpixelSkewx</key>
+	<string>enabledResultShape</string>
+</dict>
+</plist>

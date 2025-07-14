@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDelegateTint</key>
+	<string>prismaticRectRate</string>
+	<key>consultativeUsageTransparency</key>
+	<string>missedImageContrast</string>
+	<key>expandedShapeRight</key>
+	<string>mediumBufferFlags</string>
+	<key>logarithmWithContext</key>
+	<string>localizationProcessInterval</string>
+	<key>notifierCycleTint</key>
+	<string>mobileAspectScale</string>
+	<key>offsetValueInterval</key>
+	<string>diffableThreadLocation</string>
+	<key>projectAroundProcess</key>
+	<string>queryPrototypeLocation</string>
+	<key>promiseCompositeFrequency</key>
+	<string>paddingOfValue</string>
+	<key>requiredTouchScale</key>
+	<string>exponentOfPattern</string>
+	<key>storageBufferOrigin</key>
+	<string>listenerVisitorPosition</string>
+</dict>
+</plist>

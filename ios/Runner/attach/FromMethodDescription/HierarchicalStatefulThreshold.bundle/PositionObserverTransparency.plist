@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletParameterState</key>
+	<string>builderParamFormat</string>
+	<key>cursorWithComposite</key>
+	<string>futureBufferShade</string>
+	<key>decorationAmongCycle</key>
+	<string>asyncProcessDelay</string>
+	<key>deferredTextureBorder</key>
+	<string>asyncInContext</string>
+	<key>equalizationSinceProxy</key>
+	<string>mobileEntityResponse</string>
+	<key>storeStrategyLeft</key>
+	<string>synchronousLoopBound</string>
+	<key>variantStructureLeft</key>
+	<string>blocInInterpreter</string>
+</dict>
+</plist>

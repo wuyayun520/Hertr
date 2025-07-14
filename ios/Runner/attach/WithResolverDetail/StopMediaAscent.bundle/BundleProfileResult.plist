@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoResultFormat</key>
+	<string>stackAtFunction</string>
+	<key>columnDecoratorTheme</key>
+	<string>hierarchicalFutureSaturation</string>
+	<key>decorationProxyBottom</key>
+	<string>canvasOperationOrigin</string>
+	<key>delicateSineVisible</key>
+	<string>dependencyJobFeedback</string>
+	<key>documentUntilType</key>
+	<string>rapidAnchorPressure</string>
+	<key>effectBufferFlags</key>
+	<string>providerBridgeScale</string>
+	<key>pinchableSemanticsSkewx</key>
+	<string>bulletNumberInset</string>
+	<key>queueContainCommand</key>
+	<string>effectTierDepth</string>
+	<key>retainedLocalizationDelay</key>
+	<string>segmentDespiteState</string>
+	<key>spritePlatformSkewx</key>
+	<string>delegateKindDirection</string>
+</dict>
+</plist>

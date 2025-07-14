@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorFrameworkIndex</key>
+	<string>scrollableChartOffset</string>
+	<key>displayableLabelTheme</key>
+	<string>viewPerType</string>
+	<key>flexAmongState</key>
+	<string>aspectratioObserverContrast</string>
+	<key>graphForMediator</key>
+	<string>cosineOutsideShape</string>
+	<key>normByActivity</key>
+	<string>mapUntilType</string>
+	<key>originalDecorationRate</key>
+	<string>adaptiveResourceStyle</string>
+	<key>timerStructureShape</key>
+	<string>requestLayerMomentum</string>
+	<key>titleContextColor</key>
+	<string>optimizerAsObserver</string>
+</dict>
+</plist>

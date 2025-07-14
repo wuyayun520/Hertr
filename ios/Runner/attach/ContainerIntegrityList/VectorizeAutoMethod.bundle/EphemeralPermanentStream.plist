@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletPrototypeDistance</key>
+	<string>swiftThroughPrototype</string>
+	<key>coordinatorBesideParameter</key>
+	<string>disabledCurveDelay</string>
+	<key>discardedPrioritySaturation</key>
+	<string>nibFromAction</string>
+	<key>interfaceBesideFacade</key>
+	<string>accordionTextForce</string>
+	<key>playbackExceptFramework</key>
+	<string>optionDespiteState</string>
+	<key>providerAdapterLocation</key>
+	<string>awaitMediatorOrientation</string>
+	<key>similarSpriteMode</key>
+	<string>entityPatternBottom</string>
+	<key>storageActionShape</key>
+	<string>numericalControllerDirection</string>
+	<key>tickerAwayShape</key>
+	<string>semanticBlocMomentum</string>
+</dict>
+</plist>

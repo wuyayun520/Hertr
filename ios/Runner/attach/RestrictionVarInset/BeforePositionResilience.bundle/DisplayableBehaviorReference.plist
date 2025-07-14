@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackJobSpacing</key>
+	<string>blocProcessInterval</string>
+	<key>easyNotificationSkewy</key>
+	<string>indicatorLikeTask</string>
+	<key>geometricConfigurationBorder</key>
+	<string>reductionPatternContrast</string>
+	<key>inactiveFrameState</key>
+	<string>methodAgainstSystem</string>
+	<key>multiplicationBridgeTransparency</key>
+	<string>comprehensiveConfigurationName</string>
+	<key>offsetThroughForm</key>
+	<string>priorIsolateHead</string>
+	<key>previewActivityTint</key>
+	<string>checkboxNearFramework</string>
+</dict>
+</plist>

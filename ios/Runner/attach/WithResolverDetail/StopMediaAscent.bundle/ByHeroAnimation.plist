@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorStatePosition</key>
+	<string>marginPatternInteraction</string>
+	<key>inactiveBlocForce</key>
+	<string>transitionThroughFlyweight</string>
+	<key>queryActivityPadding</key>
+	<string>labelBeyondVar</string>
+	<key>segmentAlongMode</key>
+	<string>directCoordinatorEdge</string>
+	<key>segueNumberLeft</key>
+	<string>disabledResultType</string>
+	<key>singleHashAcceleration</key>
+	<string>particleLikeType</string>
+	<key>smartLabelVelocity</key>
+	<string>rectContextTag</string>
+	<key>taskAsStructure</key>
+	<string>grainSingletonBorder</string>
+</dict>
+</plist>

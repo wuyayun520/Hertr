@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonCacheStyle</key>
+	<string>normalMarginSaturation</string>
+	<key>cursorCompositeOpacity</key>
+	<string>spineSinceBridge</string>
+	<key>dependencyFunctionSkewx</key>
+	<string>canvasMethodSpeed</string>
+	<key>materialAsyncLocation</key>
+	<string>borderFromPlatform</string>
+	<key>observerContextTransparency</key>
+	<string>queueNearProcess</string>
+	<key>sensorOfMethod</key>
+	<string>clipperStyleContrast</string>
+	<key>sliderPlatformType</key>
+	<string>substantialFactoryStyle</string>
+</dict>
+</plist>

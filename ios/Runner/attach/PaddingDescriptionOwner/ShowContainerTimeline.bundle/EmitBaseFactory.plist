@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonThroughFramework</key>
+	<string>materialBufferVisibility</string>
+	<key>containerFunctionStatus</key>
+	<string>animationBeyondComposite</string>
+	<key>diffableAnimationSpeed</key>
+	<string>fixedUsecaseFeedback</string>
+	<key>hyperbolicAsyncSpacing</key>
+	<string>commonObserverDensity</string>
+	<key>interactorWithStyle</key>
+	<string>anchorAgainstActivity</string>
+	<key>methodVisitorVisibility</key>
+	<string>apertureActivityShape</string>
+	<key>pinchableContractionTransparency</key>
+	<string>deferredPopupTag</string>
+	<key>widgetStageLeft</key>
+	<string>backwardSinkAppearance</string>
+</dict>
+</plist>

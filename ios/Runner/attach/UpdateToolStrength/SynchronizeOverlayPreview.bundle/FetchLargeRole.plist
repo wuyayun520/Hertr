@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStructurePressure</key>
+	<string>singleTransitionKind</string>
+	<key>equipmentChainBorder</key>
+	<string>radiusAtKind</string>
+	<key>hierarchicalStatefulLeft</key>
+	<string>compositionAsPlatform</string>
+	<key>immutableViewCenter</key>
+	<string>isolateCycleMargin</string>
+	<key>navigatorJobState</key>
+	<string>rectBesideWork</string>
+	<key>normalRoleInset</key>
+	<string>accessibleInteractorStyle</string>
+	<key>queueStateRight</key>
+	<string>statefulPhaseInteraction</string>
+	<key>timerBridgeValidation</key>
+	<string>navigatorMethodKind</string>
+	<key>visibleNavigatorCenter</key>
+	<string>modulusExceptFunction</string>
+</dict>
+</plist>

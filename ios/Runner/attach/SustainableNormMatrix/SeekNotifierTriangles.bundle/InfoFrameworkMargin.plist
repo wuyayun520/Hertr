@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorySystemVisible</key>
+	<string>sceneTierSaturation</string>
+	<key>brushBesideAction</key>
+	<string>durationWorkShade</string>
+	<key>explicitCapsuleVisible</key>
+	<string>publicTableContrast</string>
+	<key>isolateStateCount</key>
+	<string>apertureAtNumber</string>
+	<key>menuMementoType</key>
+	<string>desktopSliderStyle</string>
+	<key>plateCycleVisibility</key>
+	<string>composableUnaryColor</string>
+	<key>remainderVersusStrategy</key>
+	<string>delicateFragmentSpeed</string>
+	<key>requestTaskType</key>
+	<string>queryLayerType</string>
+</dict>
+</plist>

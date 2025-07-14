@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSlashDuration</key>
+	<string>semanticServiceValidation</string>
+	<key>cacheFromLevel</key>
+	<string>exceptionBeyondPrototype</string>
+	<key>certificateStyleInterval</key>
+	<string>documentBufferSkewx</string>
+	<key>clipperPerProcess</key>
+	<string>completionForBuffer</string>
+	<key>dimensionStageFrequency</key>
+	<string>frameTypeInteraction</string>
+	<key>interactorNearShape</key>
+	<string>unsortedShaderMomentum</string>
+	<key>pageviewSinceStrategy</key>
+	<string>normalRowCoord</string>
+	<key>primaryMobileTag</key>
+	<string>buttonProxyAppearance</string>
+	<key>routerActivityKind</key>
+	<string>transitionFromEnvironment</string>
+	<key>widgetStyleBrightness</key>
+	<string>featureLikeType</string>
+</dict>
+</plist>

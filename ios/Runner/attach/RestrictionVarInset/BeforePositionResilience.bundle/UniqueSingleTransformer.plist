@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCubitStatus</key>
+	<string>activityTaskFormat</string>
+	<key>completionPlatformAcceleration</key>
+	<string>cupertinoTableVisibility</string>
+	<key>gramValueRate</key>
+	<string>behaviorDuringPrototype</string>
+	<key>mobileUsecaseSaturation</key>
+	<string>singleCubitBrightness</string>
+	<key>parallelClipperValidation</key>
+	<string>operationPhaseType</string>
+	<key>presenterSingletonAlignment</key>
+	<string>transitionCommandFeedback</string>
+	<key>segmentStateVelocity</key>
+	<string>symmetricAllocatorScale</string>
+	<key>tableDecoratorDirection</key>
+	<string>interfaceWithoutPrototype</string>
+	<key>taskUntilAction</key>
+	<string>currentUtilRotation</string>
+	<key>tensorCompletionKind</key>
+	<string>opaqueStoreInterval</string>
+</dict>
+</plist>

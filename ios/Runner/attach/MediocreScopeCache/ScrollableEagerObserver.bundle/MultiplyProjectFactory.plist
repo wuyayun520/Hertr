@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoStorageType</key>
+	<string>immediateMetadataResponse</string>
+	<key>callbackVariableMargin</key>
+	<string>sinkWithoutPhase</string>
+	<key>grayscaleAsActivity</key>
+	<string>normContextCount</string>
+	<key>heapMementoOpacity</key>
+	<string>fragmentAndMediator</string>
+	<key>retainedTableType</key>
+	<string>chartLevelTheme</string>
+	<key>textureThroughVar</key>
+	<string>positionAboutBuffer</string>
+</dict>
+</plist>

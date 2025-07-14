@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartVarDelay</key>
+	<string>workflowLikeSingleton</string>
+	<key>concurrentGestureState</key>
+	<string>intensityAdapterOpacity</string>
+	<key>denseIntensityMargin</key>
+	<string>cubitThroughAdapter</string>
+	<key>offsetExceptFramework</key>
+	<string>referenceBeyondObserver</string>
+	<key>popupNumberBottom</key>
+	<string>pageviewThroughFlyweight</string>
+	<key>sensorBesideChain</key>
+	<string>sineTypeIndex</string>
+	<key>topicThanObserver</key>
+	<string>commandAmongTask</string>
+</dict>
+</plist>

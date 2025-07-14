@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorShapeOffset</key>
+	<string>boxAgainstProxy</string>
+	<key>queryOrJob</key>
+	<string>ignoredAsyncAcceleration</string>
+	<key>stepLikeVariable</key>
+	<string>fusedProtocolDelay</string>
+	<key>textAsKind</key>
+	<string>isolateParameterPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorPatternStatus</key>
+	<string>vectorVersusLevel</string>
+	<key>asynchronousCupertinoEdge</key>
+	<string>fusedChartDistance</string>
+	<key>granularTransitionTransparency</key>
+	<string>firstTweenOrientation</string>
+	<key>heroParamRotation</key>
+	<string>textureCommandTheme</string>
+	<key>interfaceNearParameter</key>
+	<string>binaryShapeInterval</string>
+	<key>listenerIncludePattern</key>
+	<string>catalystAgainstWork</string>
+	<key>localCommandInterval</key>
+	<string>compositionKindOffset</string>
+	<key>signBridgeEdge</key>
+	<string>subscriptionUntilStyle</string>
+	<key>symbolScopeDepth</key>
+	<string>actionVersusPlatform</string>
+</dict>
+</plist>

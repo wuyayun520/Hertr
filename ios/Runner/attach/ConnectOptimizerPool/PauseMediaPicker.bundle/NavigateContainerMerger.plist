@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interfaceThroughTask</key>
+	<string>actionLevelScale</string>
+	<key>resizableMovementValidation</key>
+	<string>decorationAmongContext</string>
+	<key>secondCubitStyle</key>
+	<string>histogramAmongMethod</string>
+	<key>segmentMediatorTag</key>
+	<string>painterNumberFormat</string>
+	<key>signIncludeSingleton</key>
+	<string>routeAndValue</string>
+	<key>signOutsideAction</key>
+	<string>unactivatedAsyncCount</string>
+	<key>sophisticatedSceneInterval</key>
+	<string>nextCompositionFormat</string>
+	<key>tensorDependencyBehavior</key>
+	<string>declarativeRouterVelocity</string>
+	<key>tweenInsideProxy</key>
+	<string>significantArithmeticInset</string>
+	<key>usedCompositionSkewy</key>
+	<string>originalMultiplicationSkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorStrategyRate</key>
+	<string>usedTopicIndex</string>
+	<key>graphActionInset</key>
+	<string>tabbarContextPosition</string>
+	<key>mediumTickerVisible</key>
+	<string>appbarShapeScale</string>
+	<key>progressbarStateTheme</key>
+	<string>capacitiesJobFeedback</string>
+</dict>
+</plist>

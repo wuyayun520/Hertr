@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMobileFormat</key>
+	<string>cupertinoPresenterHue</string>
+	<key>controllerWithoutMemento</key>
+	<string>pageviewVersusAdapter</string>
+	<key>dependencyCompositeAcceleration</key>
+	<string>liteMobxResponse</string>
+	<key>disparateLabelOrigin</key>
+	<string>delegatePerPhase</string>
+	<key>enabledResolverCenter</key>
+	<string>builderLevelPadding</string>
+	<key>heroExceptMethod</key>
+	<string>sinkOfMediator</string>
+	<key>offsetAsPattern</key>
+	<string>instructionAwayBuffer</string>
+	<key>routerShapeBrightness</key>
+	<string>consultativeChallengeTop</string>
+	<key>signatureShapeCount</key>
+	<string>effectThroughTask</string>
+</dict>
+</plist>

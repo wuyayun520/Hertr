@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectIncludeLevel</key>
+	<string>descriptionTaskKind</string>
+	<key>globalQueueVisibility</key>
+	<string>cellEnvironmentScale</string>
+	<key>independentControllerMargin</key>
+	<string>cubitDecoratorRate</string>
+	<key>loopOrPattern</key>
+	<string>scrollBridgeRight</string>
+	<key>methodForForm</key>
+	<string>declarativeStatefulDistance</string>
+	<key>modelOperationInterval</key>
+	<string>uniqueTechniquePressure</string>
+	<key>statefulTangentPadding</key>
+	<string>assetContextLocation</string>
+</dict>
+</plist>

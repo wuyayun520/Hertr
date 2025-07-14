@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncMetadataInteraction</key>
+	<string>hyperbolicSpriteTop</string>
+	<key>capacitiesDecoratorType</key>
+	<string>textureVarForce</string>
+	<key>cubitBufferInteraction</key>
+	<string>loopCycleType</string>
+	<key>navigatorMementoOrientation</key>
+	<string>scaleSinceStage</string>
+	<key>repositoryJobColor</key>
+	<string>popupBridgeInteraction</string>
+	<key>roleLayerAlignment</key>
+	<string>borderBridgeBound</string>
+	<key>routerMethodOffset</key>
+	<string>pivotalSpriteTension</string>
+	<key>scaleSinceStyle</key>
+	<string>touchScopeType</string>
+</dict>
+</plist>

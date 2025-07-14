@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerFunctionShape</key>
+	<string>matrixShapeTheme</string>
+	<key>ignoredSlashMomentum</key>
+	<string>intuitiveMapDelay</string>
+	<key>inactiveConvolutionShape</key>
+	<string>nibViaInterpreter</string>
+	<key>resizableHistogramBrightness</key>
+	<string>methodTypeEdge</string>
+	<key>resizableLabelScale</key>
+	<string>kernelKindInset</string>
+	<key>resourceVisitorPadding</key>
+	<string>unactivatedHandlerBorder</string>
+	<key>routeWorkScale</key>
+	<string>pinchableSinkFeedback</string>
+	<key>storyboardAgainstSingleton</key>
+	<string>tweenAgainstLevel</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerValueFrequency</key>
+	<string>pinchableAnchorVisible</string>
+	<key>keyHandlerDensity</key>
+	<string>desktopProgressbarDistance</string>
+	<key>materialByActivity</key>
+	<string>mobxShapeBottom</string>
+	<key>primaryPopupDensity</key>
+	<string>indicatorNearSystem</string>
+	<key>progressbarTierMargin</key>
+	<string>segueThanWork</string>
+	<key>rectObserverCoord</key>
+	<string>screenWithStrategy</string>
+	<key>subtleActionTension</key>
+	<string>viewDecoratorHead</string>
+	<key>topicParamStatus</key>
+	<string>singleTimerTop</string>
+	<key>transitionWithChain</key>
+	<string>pointFormSpacing</string>
+</dict>
+</plist>

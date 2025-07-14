@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopNotifierStatus</key>
+	<string>rowAgainstFacade</string>
+	<key>lostBinaryResponse</key>
+	<string>interactiveUsageTop</string>
+	<key>optimizerIncludeActivity</key>
+	<string>presenterEnvironmentBottom</string>
+	<key>pinchableCommandFeedback</key>
+	<string>durationSystemValidation</string>
+	<key>playbackByScope</key>
+	<string>textureBufferColor</string>
+	<key>resizablePresenterDistance</key>
+	<string>sharedNavigatorResponse</string>
+	<key>routeDespiteContext</key>
+	<string>opaqueSingletonFeedback</string>
+	<key>semanticConstraintContrast</key>
+	<string>errorOperationPressure</string>
+	<key>textureKindPadding</key>
+	<string>semanticsAdapterCenter</string>
+</dict>
+</plist>

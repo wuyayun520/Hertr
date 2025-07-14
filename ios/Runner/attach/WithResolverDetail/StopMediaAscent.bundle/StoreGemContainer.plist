@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBesideObserver</key>
+	<string>mobileConfigurationAcceleration</string>
+	<key>characterDuringPlatform</key>
+	<string>scrollableDelegateName</string>
+	<key>overlayWithoutPhase</key>
+	<string>completionFromOperation</string>
+	<key>statePerTask</key>
+	<string>animationInMemento</string>
+	<key>stateStructurePressure</key>
+	<string>scaleByMemento</string>
+	<key>statelessRouteBehavior</key>
+	<string>movementAwayValue</string>
+	<key>toolStageCoord</key>
+	<string>metadataTierMomentum</string>
+</dict>
+</plist>

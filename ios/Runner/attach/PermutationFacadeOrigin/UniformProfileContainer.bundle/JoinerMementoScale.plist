@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasUntilJob</key>
+	<string>buttonPerOperation</string>
+	<key>enabledHeapState</key>
+	<string>euclideanFutureMomentum</string>
+	<key>navigatorAlongJob</key>
+	<string>threadActivityLocation</string>
+	<key>progressbarByPrototype</key>
+	<string>menuIncludeSingleton</string>
+	<key>resolverAgainstCycle</key>
+	<string>isolateInPlatform</string>
+</dict>
+</plist>

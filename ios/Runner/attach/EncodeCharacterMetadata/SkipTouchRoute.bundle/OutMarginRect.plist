@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyContainCycle</key>
+	<string>checkboxProcessTheme</string>
+	<key>gesturedetectorContainSingleton</key>
+	<string>coordinatorThanParam</string>
+	<key>heapBeyondPrototype</key>
+	<string>disparateDurationFrequency</string>
+	<key>lastCanvasDirection</key>
+	<string>kernelFlyweightSaturation</string>
+	<key>lastNavigatorBrightness</key>
+	<string>richtextOutsideStyle</string>
+	<key>mediocreSegmentIndex</key>
+	<string>localImageShape</string>
+	<key>sliderStageBehavior</key>
+	<string>buttonThanMemento</string>
+	<key>visibleBinaryHead</key>
+	<string>mediocreCommandBorder</string>
+	<key>visibleLogSize</key>
+	<string>precisionStyleBound</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveLevelMode</key>
+	<string>routeAtVariable</string>
+	<key>dependencyOrFacade</key>
+	<string>arithmeticRouteDuration</string>
+	<key>marginAlongJob</key>
+	<string>collectionWorkSpacing</string>
+	<key>topicInterpreterMomentum</key>
+	<string>flexibleSizedboxColor</string>
+</dict>
+</plist>

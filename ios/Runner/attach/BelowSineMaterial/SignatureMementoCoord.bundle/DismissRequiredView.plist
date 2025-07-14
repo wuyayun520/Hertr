@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentFrameInteraction</key>
+	<string>assetWorkTheme</string>
+	<key>currentResourcePosition</key>
+	<string>graphOrVariable</string>
+	<key>customGetxMode</key>
+	<string>remainderStageOrigin</string>
+	<key>modulusExceptStyle</key>
+	<string>textureProxyTop</string>
+	<key>nextAnchorOrigin</key>
+	<string>navigationProcessVisibility</string>
+	<key>positionedPerPrototype</key>
+	<string>statefulTickerEdge</string>
+	<key>secondExponentBrightness</key>
+	<string>aspectratioStructureBrightness</string>
+</dict>
+</plist>

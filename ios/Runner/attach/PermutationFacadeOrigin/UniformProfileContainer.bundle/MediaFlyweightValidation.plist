@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedFlexBorder</key>
+	<string>multiplicationBeyondWork</string>
+	<key>asyncExceptEnvironment</key>
+	<string>sizeBufferCount</string>
+	<key>checkboxTaskMomentum</key>
+	<string>secondTabbarScale</string>
+	<key>containerAndSingleton</key>
+	<string>viewStyleShade</string>
+	<key>instructionBeyondMediator</key>
+	<string>agileAwaitPadding</string>
+	<key>progressbarSingletonPosition</key>
+	<string>bulletObserverOrientation</string>
+</dict>
+</plist>

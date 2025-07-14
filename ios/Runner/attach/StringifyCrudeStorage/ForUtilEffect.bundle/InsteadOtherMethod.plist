@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaDecoratorOrigin</key>
+	<string>rowStructureDirection</string>
+	<key>collectionParameterSpacing</key>
+	<string>layoutAroundStrategy</string>
+	<key>delegateAndVar</key>
+	<string>viewBeyondFunction</string>
+	<key>desktopViewTint</key>
+	<string>normalGraphValidation</string>
+	<key>lastPaddingAlignment</key>
+	<string>dynamicResponseDelay</string>
+	<key>managerNearShape</key>
+	<string>commandFacadePadding</string>
+	<key>mutableRadioDuration</key>
+	<string>specifierProxyTension</string>
+	<key>pointVarStatus</key>
+	<string>resolverAboutFramework</string>
+	<key>transitionContainVisitor</key>
+	<string>cellAroundAction</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetThroughObserver</key>
+	<string>singleNavigatorSaturation</string>
+	<key>disabledButtonTransparency</key>
+	<string>graphPerWork</string>
+	<key>featureFunctionStatus</key>
+	<string>profileFlyweightFeedback</string>
+	<key>mobileStrategyType</key>
+	<string>declarativeQueryTag</string>
+	<key>streamAboutLayer</key>
+	<string>frameTaskForce</string>
+	<key>subpixelActivitySkewx</key>
+	<string>alignmentOfType</string>
+	<key>substantialTableDelay</key>
+	<string>effectAmongType</string>
+	<key>unactivatedAwaitVisibility</key>
+	<string>reducerTempleTop</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarScopeDepth</key>
+	<string>handlerParamColor</string>
+	<key>completerNumberAppearance</key>
+	<string>numericalConfigurationOrientation</string>
+	<key>currentMobxOffset</key>
+	<string>managerAtPhase</string>
+	<key>persistentMatrixFormat</key>
+	<string>topicForObserver</string>
+	<key>progressbarNumberOrigin</key>
+	<string>frameOperationSaturation</string>
+</dict>
+</plist>

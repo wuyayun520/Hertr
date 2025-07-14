@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellIncludeOperation</key>
+	<string>asynchronousAccessoryDuration</string>
+	<key>channelValueTheme</key>
+	<string>themeTypeType</string>
+	<key>compositionalLabelSize</key>
+	<string>finalLayoutInset</string>
+	<key>intensityAroundPlatform</key>
+	<string>granularCubeBehavior</string>
+	<key>spotBridgeHue</key>
+	<string>listenerVersusNumber</string>
+</dict>
+</plist>

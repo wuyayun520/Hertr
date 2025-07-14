@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSingletonRight</key>
+	<string>switchSingletonLocation</string>
+	<key>constraintMethodAppearance</key>
+	<string>immutableSubscriptionIndex</string>
+	<key>errorDecoratorKind</key>
+	<string>specifierTaskForce</string>
+	<key>ignoredStepRotation</key>
+	<string>mediumProgressbarLeft</string>
+</dict>
+</plist>

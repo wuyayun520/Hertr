@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionProcessDuration</key>
+	<string>liteLayoutContrast</string>
+	<key>adaptiveRouterIndex</key>
+	<string>tappablePlateRight</string>
+	<key>blocNearVar</key>
+	<string>lastDecorationMode</string>
+	<key>buttonFromProxy</key>
+	<string>threadScopeBehavior</string>
+	<key>crudeTernaryDepth</key>
+	<string>indicatorAwayForm</string>
+	<key>curveVarTransparency</key>
+	<string>interactiveEntropyFeedback</string>
+	<key>localWidgetFrequency</key>
+	<string>smartLoopOpacity</string>
+	<key>storageAndStructure</key>
+	<string>resolverShapeOrientation</string>
+	<key>tickerLayerInterval</key>
+	<string>contractionSincePhase</string>
+</dict>
+</plist>

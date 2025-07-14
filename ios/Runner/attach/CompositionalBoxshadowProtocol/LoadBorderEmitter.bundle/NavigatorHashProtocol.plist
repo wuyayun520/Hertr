@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonStructureSpeed</key>
+	<string>appbarTypeName</string>
+	<key>cupertinoModeRate</key>
+	<string>sizeOrAdapter</string>
+	<key>descriptionContainPhase</key>
+	<string>localizationByBuffer</string>
+	<key>symmetricCacheStyle</key>
+	<string>allocatorAsWork</string>
+</dict>
+</plist>

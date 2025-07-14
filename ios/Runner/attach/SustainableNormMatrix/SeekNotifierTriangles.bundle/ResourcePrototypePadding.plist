@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowCycleDistance</key>
+	<string>notifierVariableTop</string>
+	<key>buttonPerOperation</key>
+	<string>queryContainOperation</string>
+	<key>firstInjectionFormat</key>
+	<string>webParticleOrientation</string>
+	<key>gridContainStyle</key>
+	<string>scaleAroundSingleton</string>
+	<key>musicDecoratorRight</key>
+	<string>topicBesideFunction</string>
+	<key>resourceJobTag</key>
+	<string>textOrTemple</string>
+	<key>secondZoneDirection</key>
+	<string>transformerStageLocation</string>
+</dict>
+</plist>

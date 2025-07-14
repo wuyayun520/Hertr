@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianPriorityRate</key>
+	<string>borderAroundPlatform</string>
+	<key>fusedManagerCenter</key>
+	<string>modulusAsObserver</string>
+	<key>indicatorWithoutMediator</key>
+	<string>autoAnimationDepth</string>
+	<key>lazyLocalizationRotation</key>
+	<string>specifyButtonSpacing</string>
+	<key>requiredNodeContrast</key>
+	<string>spriteOfFunction</string>
+	<key>resilientProjectCoord</key>
+	<string>movementVisitorSize</string>
+	<key>taskAwayBuffer</key>
+	<string>progressbarStructureTag</string>
+</dict>
+</plist>

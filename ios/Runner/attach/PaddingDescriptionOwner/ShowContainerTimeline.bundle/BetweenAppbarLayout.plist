@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintWorkRotation</key>
+	<string>intensityContainCycle</string>
+	<key>graphStrategyRight</key>
+	<string>allocatorThroughFlyweight</string>
+	<key>handlerVersusComposite</key>
+	<string>consumerAtAction</string>
+	<key>offsetLevelTint</key>
+	<string>criticalStatelessBorder</string>
+	<key>priorityFromTask</key>
+	<string>reactiveIndicatorType</string>
+	<key>retainedDurationValidation</key>
+	<string>gemActionTint</string>
+</dict>
+</plist>

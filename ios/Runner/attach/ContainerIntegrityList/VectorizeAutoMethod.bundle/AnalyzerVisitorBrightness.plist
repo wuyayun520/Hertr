@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentContainFunction</key>
+	<string>utilOrChain</string>
+	<key>cellAwayStrategy</key>
+	<string>stepSingletonVelocity</string>
+	<key>curvePlatformMode</key>
+	<string>consumerLevelVisible</string>
+	<key>layoutFormRotation</key>
+	<string>constraintBridgeLocation</string>
+	<key>normThroughVariable</key>
+	<string>rectSystemDistance</string>
+	<key>queueByVariable</key>
+	<string>lossStateLocation</string>
+</dict>
+</plist>

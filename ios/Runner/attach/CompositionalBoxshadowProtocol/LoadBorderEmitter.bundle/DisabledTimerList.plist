@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureViaStyle</key>
+	<string>finalOffsetMargin</string>
+	<key>characterOutsideMethod</key>
+	<string>cupertinoTransformerSize</string>
+	<key>disabledConfigurationResponse</key>
+	<string>spritePrototypeForce</string>
+	<key>multiplicationLevelPadding</key>
+	<string>gesturedetectorAwayShape</string>
+	<key>sceneContainInterpreter</key>
+	<string>denseAlertOrientation</string>
+	<key>stateCommandValidation</key>
+	<string>queryIncludeVar</string>
+	<key>unactivatedTransformerForce</key>
+	<string>prismaticNavigatorFlags</string>
+</dict>
+</plist>

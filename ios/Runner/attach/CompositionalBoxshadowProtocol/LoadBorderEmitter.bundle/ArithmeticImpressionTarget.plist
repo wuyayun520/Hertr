@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletForJob</key>
+	<string>normalZoneDistance</string>
+	<key>mobileInterpolationTail</key>
+	<string>progressbarParamPressure</string>
+	<key>segueWorkBound</key>
+	<string>stackCompositeTheme</string>
+	<key>touchThanWork</key>
+	<string>dependencyPhaseAcceleration</string>
+	<key>widgetCycleShape</key>
+	<string>scaleParameterSize</string>
+</dict>
+</plist>

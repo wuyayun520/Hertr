@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicExtensionDistance</key>
+	<string>associatedTopicDistance</string>
+	<key>fragmentFormOrientation</key>
+	<string>sliderPerVariable</string>
+	<key>previewOperationContrast</key>
+	<string>groupBridgeOpacity</string>
+	<key>routerBeyondOperation</key>
+	<string>descriptorStateVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentAllocatorHue</key>
+	<string>multiplicationStyleBrightness</string>
+	<key>curveOfSystem</key>
+	<string>collectionSingletonAcceleration</string>
+	<key>materialPerParam</key>
+	<string>fixedPaddingInterval</string>
+	<key>modalStateContrast</key>
+	<string>referenceDespiteCycle</string>
+	<key>tangentViaLevel</key>
+	<string>unactivatedServiceState</string>
+</dict>
+</plist>

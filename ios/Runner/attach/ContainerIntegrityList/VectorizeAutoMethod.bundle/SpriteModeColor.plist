@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseAsParameter</key>
+	<string>expandedThroughForm</string>
+	<key>draggableGradientFrequency</key>
+	<string>pageviewStateTint</string>
+	<key>interactiveStoreFlags</key>
+	<string>aspectratioMediatorDelay</string>
+	<key>modelVersusTask</key>
+	<string>inactiveStorageOrientation</string>
+	<key>sensorNearStrategy</key>
+	<string>permanentCompleterBrightness</string>
+	<key>sizeNearState</key>
+	<string>callbackProcessTransparency</string>
+	<key>ternaryAwayValue</key>
+	<string>listviewDespiteBridge</string>
+	<key>textfieldOutsideOperation</key>
+	<string>sessionDuringOperation</string>
+</dict>
+</plist>

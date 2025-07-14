@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentExceptSingleton</key>
+	<string>equipmentValueTail</string>
+	<key>certificateOutsideState</key>
+	<string>sharedRadiusOffset</string>
+	<key>euclideanEquipmentSize</key>
+	<string>asyncAlphaLocation</string>
+	<key>modelCycleIndex</key>
+	<string>directlyProviderAppearance</string>
+	<key>multiResourceBottom</key>
+	<string>flexAtComposite</string>
+	<key>nodeValueInset</key>
+	<string>localizationCompositeTag</string>
+	<key>resilientManagerVisibility</key>
+	<string>pageviewPhaseInterval</string>
+	<key>resourceTempleDirection</key>
+	<string>positionShapeSaturation</string>
+	<key>tappableErrorCount</key>
+	<string>normBufferInterval</string>
+	<key>usedResponseShade</key>
+	<string>newestOptionDepth</string>
+</dict>
+</plist>

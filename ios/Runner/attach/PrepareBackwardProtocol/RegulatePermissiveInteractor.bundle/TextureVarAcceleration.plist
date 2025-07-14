@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarIncludeInterpreter</key>
+	<string>cubeSystemBrightness</string>
+	<key>elasticWidgetMode</key>
+	<string>associatedLabelAcceleration</string>
+	<key>publicTableLocation</key>
+	<string>oldBatchDelay</string>
+	<key>sizedboxByVar</key>
+	<string>borderOperationLeft</string>
+	<key>typicalAnimatedcontainerName</key>
+	<string>interfaceContainBuffer</string>
+</dict>
+</plist>

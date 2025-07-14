@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletExceptMediator</key>
+	<string>cardInsideParam</string>
+	<key>gemParameterFormat</key>
+	<string>staticPresenterCenter</string>
+	<key>heapLikeEnvironment</key>
+	<string>blocVarTint</string>
+	<key>heroPhaseIndex</key>
+	<string>layerCycleCoord</string>
+	<key>interactiveInstructionAlignment</key>
+	<string>autoProviderSpeed</string>
+	<key>localSkinFormat</key>
+	<string>resizableChapterOpacity</string>
+	<key>otherMemberSkewy</key>
+	<string>transitionThroughTemple</string>
+	<key>protectedIndicatorResponse</key>
+	<string>segueAsVar</string>
+	<key>textWorkLocation</key>
+	<string>capacitiesPhaseShape</string>
+</dict>
+</plist>

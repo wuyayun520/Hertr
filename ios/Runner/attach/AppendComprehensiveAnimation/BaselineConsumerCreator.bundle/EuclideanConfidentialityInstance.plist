@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderWithShape</key>
+	<string>tabviewVersusWork</string>
+	<key>enabledEventFlags</key>
+	<string>alignmentExceptAction</string>
+	<key>equipmentValueSaturation</key>
+	<string>layoutPatternInterval</string>
+	<key>missionBridgePadding</key>
+	<string>elasticBufferPadding</string>
+	<key>positionStructureDistance</key>
+	<string>assetProxyAlignment</string>
+	<key>reactiveResponseSkewx</key>
+	<string>switchBesideInterpreter</string>
+	<key>resilientAspectPressure</key>
+	<string>displayableNavigatorDirection</string>
+	<key>scaffoldAwayInterpreter</key>
+	<string>transitionStyleTag</string>
+	<key>segmentOutsideStage</key>
+	<string>buttonPerTemple</string>
+</dict>
+</plist>

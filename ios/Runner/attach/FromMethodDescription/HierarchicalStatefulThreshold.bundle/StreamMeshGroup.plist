@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorBesideActivity</key>
+	<string>easyBitrateBottom</string>
+	<key>eagerAnchorTop</key>
+	<string>mobileTierTail</string>
+	<key>intensityAdapterAlignment</key>
+	<string>pivotalSpriteFeedback</string>
+	<key>lazyScrollBottom</key>
+	<string>resourceMediatorTop</string>
+	<key>materialAndLayer</key>
+	<string>diversifiedCharacterInset</string>
+	<key>usageUntilLayer</key>
+	<string>consumerForNumber</string>
+</dict>
+</plist>

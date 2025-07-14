@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentNumberCount</key>
+	<string>concurrentStampIndex</string>
+	<key>elasticTextureShade</key>
+	<string>interfaceSystemEdge</string>
+	<key>intuitiveOverlayTop</key>
+	<string>resizableIconDelay</string>
+	<key>isolateFromFacade</key>
+	<string>visibleSkinCount</string>
+	<key>reusableGraphicVisible</key>
+	<string>ignoredStreamType</string>
+	<key>serviceOutsideValue</key>
+	<string>textInsideLayer</string>
+	<key>sustainableHandlerShape</key>
+	<string>responseCommandKind</string>
+	<key>transitionVariableStyle</key>
+	<string>semanticFutureOrientation</string>
+</dict>
+</plist>

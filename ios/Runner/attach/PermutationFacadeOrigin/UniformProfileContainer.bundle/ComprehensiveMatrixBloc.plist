@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellShapeAppearance</key>
+	<string>semanticMasterSkewy</string>
+	<key>groupChainBound</key>
+	<string>bitrateOutsideLevel</string>
+	<key>isolateVisitorSaturation</key>
+	<string>eagerEntropyFeedback</string>
+	<key>labelLayerTail</key>
+	<string>zoneFacadeLocation</string>
+	<key>resilientDocumentForce</key>
+	<string>nextFrameTag</string>
+</dict>
+</plist>

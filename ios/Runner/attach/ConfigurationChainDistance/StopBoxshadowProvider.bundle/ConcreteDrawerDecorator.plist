@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedViewBehavior</key>
+	<string>mobileChartCoord</string>
+	<key>buttonLevelVisibility</key>
+	<string>zoneVariableFeedback</string>
+	<key>localRichtextTheme</key>
+	<string>capacitiesVarSize</string>
+	<key>navigatorAndVar</key>
+	<string>observerContainPattern</string>
+	<key>statelessStateRotation</key>
+	<string>sequentialPositionedState</string>
+	<key>storageThanStrategy</key>
+	<string>primaryPresenterInteraction</string>
+</dict>
+</plist>

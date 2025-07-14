@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateTierFlags</key>
+	<string>nativeMissionBrightness</string>
+	<key>crucialRichtextEdge</key>
+	<string>requestAtMemento</string>
+	<key>frameSystemValidation</key>
+	<string>durationCompositeBound</string>
+	<key>spineInActivity</key>
+	<string>custompaintDuringTask</string>
+	<key>workflowNearType</key>
+	<string>containerVarCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletVisitorInteraction</key>
+	<string>commonObserverInteraction</string>
+	<key>cardParameterLocation</key>
+	<string>isolateChainFlags</string>
+	<key>custompaintParameterOffset</key>
+	<string>checkboxPerCommand</string>
+	<key>listviewCompositeInteraction</key>
+	<string>rectAtFramework</string>
+	<key>pointIncludeMemento</key>
+	<string>heapWithoutAction</string>
+	<key>resultAwayWork</key>
+	<string>localizationForOperation</string>
+	<key>sizedboxTypeDirection</key>
+	<string>movementAtFramework</string>
+</dict>
+</plist>

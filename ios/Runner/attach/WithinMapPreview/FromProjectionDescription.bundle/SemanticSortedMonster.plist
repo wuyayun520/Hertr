@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainAlignmentLeft</key>
+	<string>globalVariantDirection</string>
+	<key>modulusContainShape</key>
+	<string>adaptiveVariantRotation</string>
+	<key>stampWithSystem</key>
+	<string>transitionModeBottom</string>
+	<key>streamFrameworkTail</key>
+	<string>tabviewMethodInterval</string>
+</dict>
+</plist>

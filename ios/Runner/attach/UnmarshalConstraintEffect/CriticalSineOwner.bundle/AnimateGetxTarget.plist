@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledViewLeft</key>
+	<string>channelByForm</string>
+	<key>futureAgainstBridge</key>
+	<string>bulletThroughFunction</string>
+	<key>geometricFrameDuration</key>
+	<string>popupStateAcceleration</string>
+	<key>pointDecoratorTint</key>
+	<string>positionCycleLeft</string>
+	<key>significantCaptionSkewy</key>
+	<string>pivotalProgressbarStatus</string>
+</dict>
+</plist>

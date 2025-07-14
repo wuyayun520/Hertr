@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityKindPosition</key>
+	<string>interactiveStreamSpeed</string>
+	<key>activityViaPattern</key>
+	<string>webConstraintSkewx</string>
+	<key>heapExceptStage</key>
+	<string>scaleByDecorator</string>
+	<key>resilientAlignmentDistance</key>
+	<string>declarativeTableState</string>
+</dict>
+</plist>

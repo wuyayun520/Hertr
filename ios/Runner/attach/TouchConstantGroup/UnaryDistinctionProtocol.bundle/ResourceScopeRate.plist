@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationTaskTension</key>
+	<string>screenAgainstObserver</string>
+	<key>effectSinceCycle</key>
+	<string>sequentialOptimizerRotation</string>
+	<key>grayscaleByMode</key>
+	<string>configurationByJob</string>
+	<key>persistentKernelColor</key>
+	<string>channelParamFeedback</string>
+	<key>promisePerProcess</key>
+	<string>assetPlatformTransparency</string>
+	<key>skinBufferCoord</key>
+	<string>storeWithFunction</string>
+</dict>
+</plist>

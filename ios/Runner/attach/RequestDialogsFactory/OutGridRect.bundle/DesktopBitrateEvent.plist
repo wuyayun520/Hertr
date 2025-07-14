@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardCubeAcceleration</key>
+	<string>arithmeticAssetTheme</string>
+	<key>callbackByInterpreter</key>
+	<string>queryExceptCommand</string>
+	<key>discardedCapsuleColor</key>
+	<string>pinchableQueuePosition</string>
+	<key>fixedRequestMargin</key>
+	<string>mediocreEffectFeedback</string>
+	<key>spriteFacadeLocation</key>
+	<string>resultAdapterBorder</string>
+	<key>storyboardFromCycle</key>
+	<string>asyncTimerBottom</string>
+</dict>
+</plist>

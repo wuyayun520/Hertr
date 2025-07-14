@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandAndScope</key>
+	<string>navigatorAboutOperation</string>
+	<key>coordinatorPatternVelocity</key>
+	<string>channelKindForce</string>
+	<key>coordinatorWithAction</key>
+	<string>getxAdapterShape</string>
+	<key>interactorFrameworkTail</key>
+	<string>sizeOfStage</string>
+	<key>movementFromValue</key>
+	<string>utilAsJob</string>
+	<key>sensorCycleEdge</key>
+	<string>rowPrototypeInterval</string>
+	<key>sinkFromCommand</key>
+	<string>loopDespitePrototype</string>
+</dict>
+</plist>

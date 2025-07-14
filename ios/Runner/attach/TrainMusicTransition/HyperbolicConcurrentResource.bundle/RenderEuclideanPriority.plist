@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorParameterScale</key>
+	<string>mainGroupAppearance</string>
+	<key>cycleShapePressure</key>
+	<string>persistentResourcePressure</string>
+	<key>dependencyStructureTag</key>
+	<string>entityInPattern</string>
+	<key>directlyConsumerOffset</key>
+	<string>temporaryActivityRate</string>
+	<key>imperativeConstraintIndex</key>
+	<string>taskTypeBehavior</string>
+	<key>integerAwayBuffer</key>
+	<string>priorProjectOrientation</string>
+	<key>interfaceTierOpacity</key>
+	<string>basicGrayscaleFrequency</string>
+	<key>iterativePointTop</key>
+	<string>consumerObserverVisible</string>
+	<key>modelParamPosition</key>
+	<string>rowViaChain</string>
+	<key>nodeForTask</key>
+	<string>responseVisitorBound</string>
+</dict>
+</plist>

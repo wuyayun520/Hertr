@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityBeyondComposite</key>
+	<string>rowWithoutWork</string>
+	<key>modulusStageDensity</key>
+	<string>resultStageBrightness</string>
+	<key>notifierCycleOffset</key>
+	<string>intensityBufferTail</string>
+	<key>popupTaskOrientation</key>
+	<string>mutableThemeTail</string>
+	<key>resultOfFramework</key>
+	<string>mediumMetadataValidation</string>
+	<key>scenePatternSize</key>
+	<string>protectedOffsetSpacing</string>
+	<key>secondEquipmentSkewx</key>
+	<string>standaloneAnchorMargin</string>
+</dict>
+</plist>

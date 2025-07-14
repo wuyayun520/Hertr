@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionTaskEdge</key>
+	<string>gestureEnvironmentDelay</string>
+	<key>channelDuringAction</key>
+	<string>primaryBuilderDuration</string>
+	<key>cosineParameterStyle</key>
+	<string>textStrategyTail</string>
+	<key>globalColumnMomentum</key>
+	<string>asynchronousMetadataFrequency</string>
+	<key>immediateReducerFrequency</key>
+	<string>denseNormFrequency</string>
+	<key>labelInterpreterPressure</key>
+	<string>rectDuringAdapter</string>
+	<key>promiseWithCommand</key>
+	<string>assetTypeOrigin</string>
+</dict>
+</plist>

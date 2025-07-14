@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>menuTempleSaturation</key>
+	<string>channelWithStyle</string>
+	<key>paddingFromBuffer</key>
+	<string>requiredAwaitBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedMediatorDepth</key>
+	<string>cursorBesideLayer</string>
+	<key>imageMethodDensity</key>
+	<string>aspectFunctionBrightness</string>
+	<key>newestLayerRotation</key>
+	<string>coordinatorNumberRotation</string>
+	<key>priorGrainMargin</key>
+	<string>entropyContextDirection</string>
+	<key>queryIncludeMediator</key>
+	<string>visibleReductionMode</string>
+	<key>queryPerTier</key>
+	<string>textureModePadding</string>
+	<key>responsiveAlertResponse</key>
+	<string>activatedGraphicValidation</string>
+</dict>
+</plist>

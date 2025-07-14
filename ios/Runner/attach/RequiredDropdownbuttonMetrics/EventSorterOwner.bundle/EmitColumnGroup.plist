@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderPhaseKind</key>
+	<string>resilientAspectShade</string>
+	<key>featureMediatorType</key>
+	<string>unactivatedTextPadding</string>
+	<key>gridDespiteForm</key>
+	<string>disabledToolBehavior</string>
+	<key>permissiveRouteDepth</key>
+	<string>pointDuringOperation</string>
+	<key>resizableDialogsHue</key>
+	<string>promiseCompositeTail</string>
+	<key>signFrameworkOffset</key>
+	<string>accessibleDescriptionStatus</string>
+</dict>
+</plist>

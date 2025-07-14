@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCompositionFormat</key>
+	<string>topicValueDelay</string>
+	<key>alignmentForInterpreter</key>
+	<string>flexCompositeLocation</string>
+	<key>apertureTaskDelay</key>
+	<string>multiSensorDuration</string>
+	<key>graphLikeFlyweight</key>
+	<string>layoutAmongAction</string>
+	<key>managerBufferInteraction</key>
+	<string>resilientBorderLocation</string>
+	<key>mobxOfProxy</key>
+	<string>documentProcessInterval</string>
+	<key>providerWithoutVariable</key>
+	<string>usedFlexAcceleration</string>
+	<key>segueStructureShade</key>
+	<string>concreteProtocolFormat</string>
+	<key>zoneBeyondBridge</key>
+	<string>sceneThroughParam</string>
+	<key>zoneOfTask</key>
+	<string>usecaseMethodBrightness</string>
+</dict>
+</plist>

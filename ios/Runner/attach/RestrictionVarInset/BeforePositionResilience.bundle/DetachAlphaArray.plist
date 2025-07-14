@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticWorkflowTint</key>
+	<string>sortedTaskFrequency</string>
+	<key>futureIncludeFacade</key>
+	<string>hierarchicalAppbarStyle</string>
+	<key>globalProgressbarInset</key>
+	<string>permanentControllerTheme</string>
+	<key>navigatorStageColor</key>
+	<string>nextEntityDensity</string>
+	<key>optimizerForEnvironment</key>
+	<string>granularResourceFlags</string>
+	<key>precisionAboutContext</key>
+	<string>layoutWithLayer</string>
+	<key>tweenSinceFramework</key>
+	<string>cellInMode</string>
+</dict>
+</plist>

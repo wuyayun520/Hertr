@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineJobDirection</key>
+	<string>priorityDespiteAction</string>
+	<key>dependencyExceptFramework</key>
+	<string>usecaseFromTask</string>
+	<key>gesturedetectorStructureRight</key>
+	<string>modulusOfLayer</string>
+	<key>textureOfActivity</key>
+	<string>stepWorkName</string>
+	<key>toolOutsideAdapter</key>
+	<string>protectedCompletionFrequency</string>
+</dict>
+</plist>

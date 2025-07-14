@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintVarCount</key>
+	<string>substantialEffectInteraction</string>
+	<key>deferredEventOrigin</key>
+	<string>subsequentStreamTransparency</string>
+	<key>diffableRowAppearance</key>
+	<string>mobileLabelFormat</string>
+	<key>directlyLayoutDelay</key>
+	<string>exceptionInsideStyle</string>
+	<key>largeStorageFeedback</key>
+	<string>desktopReductionDirection</string>
+	<key>layoutFacadeDuration</key>
+	<string>delegateDecoratorPadding</string>
+	<key>observerAboutWork</key>
+	<string>mediaqueryInterpreterTag</string>
+</dict>
+</plist>

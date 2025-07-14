@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>screenAsStrategy</key>
+	<string>collectionSinceObserver</string>
+	<key>textTierValidation</key>
+	<string>seamlessActionValidation</string>
+</dict>
+</plist>

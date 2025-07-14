@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeArithmeticSaturation</key>
+	<string>cubeContainStrategy</string>
+	<key>coordinatorMethodDensity</key>
+	<string>primaryOperationDensity</string>
+	<key>curveAmongOperation</key>
+	<string>sineLayerFeedback</string>
+	<key>directlySingletonForce</key>
+	<string>interfaceParameterSpacing</string>
+	<key>permanentSkinEdge</key>
+	<string>providerAboutStrategy</string>
+	<key>standaloneGrainResponse</key>
+	<string>transitionDecoratorRate</string>
+</dict>
+</plist>

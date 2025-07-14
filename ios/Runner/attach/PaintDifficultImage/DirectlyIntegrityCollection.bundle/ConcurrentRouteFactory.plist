@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSubpixelSkewx</key>
+	<string>standaloneKernelOpacity</string>
+	<key>decorationStateSkewx</key>
+	<string>tabviewAsNumber</string>
+	<key>gemFunctionDuration</key>
+	<string>gestureWithComposite</string>
+	<key>intensityPerOperation</key>
+	<string>marginProcessFlags</string>
+	<key>lossParameterSpacing</key>
+	<string>multiContainerBottom</string>
+	<key>mediumRepositoryStatus</key>
+	<string>scalePatternOffset</string>
+	<key>paddingViaObserver</key>
+	<string>labelScopeAppearance</string>
+	<key>stateVarShape</key>
+	<string>columnVersusParam</string>
+</dict>
+</plist>

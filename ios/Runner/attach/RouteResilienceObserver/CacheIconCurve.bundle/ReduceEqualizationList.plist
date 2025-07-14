@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iconDecoratorBottom</key>
+	<string>sharedSegmentLeft</string>
+	<key>lazyAsyncForce</key>
+	<string>repositoryFacadeVisibility</string>
+	<key>liteSizeOrigin</key>
+	<string>heapScopeBorder</string>
+	<key>localizationAndNumber</key>
+	<string>futureValueDuration</string>
+	<key>mutableReducerValidation</key>
+	<string>subpixelStateBottom</string>
+	<key>particleWithFunction</key>
+	<string>buttonStageInterval</string>
+	<key>positionedFromObserver</key>
+	<string>segmentNearMethod</string>
+	<key>scaffoldAboutComposite</key>
+	<string>sliderVersusCycle</string>
+	<key>zoneSingletonOrigin</key>
+	<string>dynamicRectFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionOutsideContext</key>
+	<string>asyncFlyweightBound</string>
+	<key>gradientUntilComposite</key>
+	<string>dropdownbuttonCycleKind</string>
+	<key>independentSegueFeedback</key>
+	<string>bufferDecoratorAcceleration</string>
+	<key>liteEntityTheme</key>
+	<string>promiseValueAppearance</string>
+	<key>segueEnvironmentSaturation</key>
+	<string>difficultConstraintName</string>
+	<key>synchronousMediaInteraction</key>
+	<string>masterProcessSaturation</string>
+</dict>
+</plist>

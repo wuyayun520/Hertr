@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertMethodValidation</key>
+	<string>sliderMediatorVisibility</string>
+	<key>animationNumberTag</key>
+	<string>labelTierDepth</string>
+	<key>aspectScopeLocation</key>
+	<string>draggableGesturedetectorSize</string>
+	<key>basicTableMomentum</key>
+	<string>cacheTierMomentum</string>
+	<key>checkboxSystemSpacing</key>
+	<string>touchTaskInteraction</string>
+	<key>interfaceTierKind</key>
+	<string>certificateEnvironmentKind</string>
+	<key>repositoryThanType</key>
+	<string>gridviewWithContext</string>
+	<key>screenObserverMargin</key>
+	<string>animatedMediaqueryOpacity</string>
+</dict>
+</plist>

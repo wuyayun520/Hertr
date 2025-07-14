@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapOrStrategy</key>
+	<string>exceptionAboutBuffer</string>
+	<key>integerStructureAlignment</key>
+	<string>observerStyleFormat</string>
+	<key>navigatorScopeAcceleration</key>
+	<string>playbackNumberBorder</string>
+	<key>positionActionCoord</key>
+	<string>hardMobxCoord</string>
+	<key>statefulPointKind</key>
+	<string>concurrentExceptionOrigin</string>
+</dict>
+</plist>

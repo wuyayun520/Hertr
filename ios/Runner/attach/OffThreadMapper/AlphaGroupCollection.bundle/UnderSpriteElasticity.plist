@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerBeyondMethod</key>
+	<string>tappableEqualizationCount</string>
+	<key>curveAmongStyle</key>
+	<string>inkwellFromAction</string>
+	<key>extensionIncludeMemento</key>
+	<string>localizationSingletonEdge</string>
+	<key>localizationScopeLocation</key>
+	<string>uniqueDescriptionMomentum</string>
+	<key>musicCommandResponse</key>
+	<string>containerFromType</string>
+	<key>operationValueAcceleration</key>
+	<string>agileSampleVelocity</string>
+</dict>
+</plist>

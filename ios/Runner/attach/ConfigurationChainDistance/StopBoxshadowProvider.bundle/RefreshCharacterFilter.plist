@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousChartOrigin</key>
+	<string>nativeAwaitTail</string>
+	<key>riverpodLevelValidation</key>
+	<string>riverpodFromPhase</string>
+	<key>rowExceptStrategy</key>
+	<string>agilePrecisionBrightness</string>
+	<key>serviceDespiteMethod</key>
+	<string>positionThanEnvironment</string>
+	<key>slashOperationPosition</key>
+	<string>rowOutsideOperation</string>
+	<key>subscriptionTempleHue</key>
+	<string>persistentIntensityDepth</string>
+</dict>
+</plist>

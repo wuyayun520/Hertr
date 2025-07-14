@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterAndFunction</key>
+	<string>completerAgainstFunction</string>
+	<key>desktopConstraintDelay</key>
+	<string>staticDrawerHead</string>
+	<key>groupAndMethod</key>
+	<string>resolverTaskInterval</string>
+	<key>inkwellFormRotation</key>
+	<string>elasticChallengeContrast</string>
+	<key>lostTextureSize</key>
+	<string>singleCompleterPosition</string>
+	<key>protocolUntilContext</key>
+	<string>sizedboxPatternLeft</string>
+	<key>requiredRowTransparency</key>
+	<string>buttonContainStage</string>
+	<key>resourcePrototypeState</key>
+	<string>actionJobRate</string>
+	<key>statelessThroughStrategy</key>
+	<string>taskInsideFunction</string>
+</dict>
+</plist>

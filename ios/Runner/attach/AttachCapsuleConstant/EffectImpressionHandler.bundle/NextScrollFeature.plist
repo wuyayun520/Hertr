@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushIncludeStyle</key>
+	<string>explicitAlphaTag</string>
+	<key>controllerOutsideVisitor</key>
+	<string>cycleWithoutFramework</string>
+	<key>gemForProcess</key>
+	<string>staticEventResponse</string>
+	<key>mediaqueryFlyweightInset</key>
+	<string>mutableCoordinatorLeft</string>
+	<key>missedAlphaIndex</key>
+	<string>cosineObserverBehavior</string>
+	<key>modalStyleKind</key>
+	<string>globalMobileDepth</string>
+	<key>nodeOutsideStructure</key>
+	<string>heapEnvironmentKind</string>
+	<key>specifierVisitorTail</key>
+	<string>tappableFeaturePressure</string>
+	<key>textStyleIndex</key>
+	<string>textStateEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationAlongJob</key>
+	<string>flexProcessStyle</string>
+	<key>multiCommandStyle</key>
+	<string>streamStateShape</string>
+	<key>parallelScrollSize</key>
+	<string>publicBufferOrientation</string>
+	<key>scrollTaskSpacing</key>
+	<string>layerInPlatform</string>
+	<key>serviceEnvironmentCenter</key>
+	<string>mobileAgainstPlatform</string>
+	<key>taskUntilBuffer</key>
+	<string>heroJobBrightness</string>
+</dict>
+</plist>

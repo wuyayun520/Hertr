@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocForFramework</key>
+	<string>usageVisitorLeft</string>
+	<key>channelsInTier</key>
+	<string>featureStateKind</string>
+	<key>handlerInComposite</key>
+	<string>tickerBridgeBehavior</string>
+	<key>hashPhaseResponse</key>
+	<string>radiusPhaseResponse</string>
+	<key>inheritedPopupResponse</key>
+	<string>webBrushStyle</string>
+	<key>labelBeyondState</key>
+	<string>navigatorInterpreterTint</string>
+	<key>methodAsFunction</key>
+	<string>alphaAndFacade</string>
+</dict>
+</plist>

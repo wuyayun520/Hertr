@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedEqualizationStyle</key>
+	<string>containerUntilStructure</string>
+	<key>builderStageAppearance</key>
+	<string>asyncIncludeCycle</string>
+	<key>capsuleValueDirection</key>
+	<string>taskBeyondCommand</string>
+	<key>concurrentSceneMargin</key>
+	<string>eagerZoneType</string>
+	<key>effectAndLayer</key>
+	<string>queryDuringObserver</string>
+	<key>granularContainerRight</key>
+	<string>positionPlatformSkewy</string>
+	<key>mainInterfaceVisible</key>
+	<string>curveVarOrigin</string>
+	<key>richtextEnvironmentTop</key>
+	<string>animatedcontainerStructurePosition</string>
+	<key>sophisticatedSubscriptionPosition</key>
+	<string>equalizationAndForm</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyOrParameter</key>
+	<string>stepMethodOpacity</string>
+	<key>opaqueControllerAcceleration</key>
+	<string>tickerActivityTheme</string>
+	<key>taskActionResponse</key>
+	<string>numericalAnimationStatus</string>
+</dict>
+</plist>

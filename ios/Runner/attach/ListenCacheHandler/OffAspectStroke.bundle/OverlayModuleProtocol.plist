@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandModeFormat</key>
+	<string>kernelInsideInterpreter</string>
+	<key>effectInNumber</key>
+	<string>comprehensivePreviewLeft</string>
+	<key>interpolationContainStage</key>
+	<string>cubitPhaseSpacing</string>
+	<key>opaqueCacheShade</key>
+	<string>persistentEntityHead</string>
+	<key>robustPositionedBehavior</key>
+	<string>playbackThroughEnvironment</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncViewCount</key>
+	<string>dependencyActivityPressure</string>
+	<key>configurationForPattern</key>
+	<string>curveParamIndex</string>
+	<key>grainIncludeStructure</key>
+	<string>mobileCosineBrightness</string>
+	<key>histogramContextState</key>
+	<string>staticHeapStatus</string>
+	<key>serviceMediatorSpeed</key>
+	<string>completerSinceVariable</string>
+	<key>webAnchorAppearance</key>
+	<string>capacitiesExceptForm</string>
+</dict>
+</plist>

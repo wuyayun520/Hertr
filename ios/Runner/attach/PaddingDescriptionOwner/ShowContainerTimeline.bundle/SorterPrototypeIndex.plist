@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelFacadeAlignment</key>
+	<string>sharedDialogsAppearance</string>
+	<key>dependencyTaskTension</key>
+	<string>staticWorkflowResponse</string>
+	<key>disabledRadioBehavior</key>
+	<string>durationOfPattern</string>
+	<key>frameThroughPattern</key>
+	<string>skinPatternTail</string>
+	<key>viewForFunction</key>
+	<string>desktopOffsetState</string>
+</dict>
+</plist>

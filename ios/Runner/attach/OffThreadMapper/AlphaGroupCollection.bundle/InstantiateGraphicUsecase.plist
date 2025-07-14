@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constExceptionDirection</key>
+	<string>stackActionAcceleration</string>
+	<key>desktopPositionMomentum</key>
+	<string>anchorLayerTop</string>
+	<key>grainValueMode</key>
+	<string>notificationBufferCount</string>
+	<key>graphIncludeEnvironment</key>
+	<string>bufferInsideBridge</string>
+	<key>inkwellThroughValue</key>
+	<string>scrollOfCommand</string>
+	<key>interactorPlatformBound</key>
+	<string>actionInProcess</string>
+	<key>rowBeyondShape</key>
+	<string>handlerInStructure</string>
+</dict>
+</plist>

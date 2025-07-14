@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisFrameworkVelocity</key>
+	<string>decorationKindRotation</string>
+	<key>compositionalCurveSkewy</key>
+	<string>activatedBehaviorShade</string>
+	<key>contractionAdapterLeft</key>
+	<string>originalPlaybackVelocity</string>
+	<key>directlyMenuOpacity</key>
+	<string>imageBesideMediator</string>
+	<key>mapInStage</key>
+	<string>rapidViewOrigin</string>
+	<key>tickerChainSaturation</key>
+	<string>graphFacadeKind</string>
+</dict>
+</plist>

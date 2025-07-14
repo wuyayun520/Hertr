@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletPlatformVisible</key>
+	<string>coordinatorAroundAdapter</string>
+	<key>modulusOrChain</key>
+	<string>animatedcontainerProxyCount</string>
+	<key>newestAppbarMode</key>
+	<string>nativeSkinType</string>
+	<key>optionStyleFlags</key>
+	<string>actionAsContext</string>
+	<key>scrollAndOperation</key>
+	<string>activityInDecorator</string>
+	<key>statelessAtKind</key>
+	<string>reductionActivityAppearance</string>
+</dict>
+</plist>

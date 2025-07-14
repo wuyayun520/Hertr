@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferBeyondTask</key>
+	<string>declarativeTaskOrigin</string>
+	<key>containerUntilFlyweight</key>
+	<string>animationShapeFrequency</string>
+	<key>fixedPageviewInteraction</key>
+	<string>navigationStrategyVisibility</string>
+	<key>hierarchicalPlateResponse</key>
+	<string>utilInterpreterOffset</string>
+	<key>iconExceptParameter</key>
+	<string>rapidProviderVisibility</string>
+	<key>inheritedPositionedTop</key>
+	<string>tableVisitorStatus</string>
+	<key>observerViaStage</key>
+	<string>radiusOfContext</string>
+	<key>radioProcessType</key>
+	<string>actionAsKind</string>
+	<key>semanticsPatternTension</key>
+	<string>activatedScreenMomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileArithmeticLocation</key>
+	<string>smartCursorSpacing</string>
+	<key>asyncDependencyBottom</key>
+	<string>decorationDuringPhase</string>
+	<key>gridviewAsPlatform</key>
+	<string>statelessStructureLocation</string>
+	<key>mapSingletonForce</key>
+	<string>usecaseMethodBorder</string>
+	<key>screenCompositeAlignment</key>
+	<string>resolverNumberColor</string>
+	<key>staticDescriptorInterval</key>
+	<string>singletonAmongLayer</string>
+</dict>
+</plist>

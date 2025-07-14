@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerUsecaseVelocity</key>
+	<string>utilEnvironmentPressure</string>
+	<key>imageDecoratorDelay</key>
+	<string>activityDecoratorBehavior</string>
+	<key>imageModeShade</key>
+	<string>interactorFacadeShade</string>
+	<key>listenerProcessCoord</key>
+	<string>capsuleChainDelay</string>
+	<key>painterBeyondScope</key>
+	<string>precisionCompositeBehavior</string>
+	<key>profileAndPhase</key>
+	<string>cupertinoUsecaseSaturation</string>
+	<key>sequentialLogBehavior</key>
+	<string>bufferOrPlatform</string>
+	<key>textfieldBridgeTheme</key>
+	<string>resizableKernelName</string>
+	<key>timerDuringCycle</key>
+	<string>hashAgainstProxy</string>
+	<key>uniformModulusEdge</key>
+	<string>popupStrategyStatus</string>
+</dict>
+</plist>

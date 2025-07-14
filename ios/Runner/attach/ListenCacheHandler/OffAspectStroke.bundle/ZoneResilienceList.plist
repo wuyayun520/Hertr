@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalPresenterVelocity</key>
+	<string>oldBlocDistance</string>
+	<key>missedTextPressure</key>
+	<string>asyncStepForce</string>
+	<key>responsivePositionedInteraction</key>
+	<string>significantButtonTransparency</string>
+	<key>reusableEffectLeft</key>
+	<string>vectorStructureForce</string>
+	<key>sophisticatedPositionFrequency</key>
+	<string>kernelPerPhase</string>
+</dict>
+</plist>

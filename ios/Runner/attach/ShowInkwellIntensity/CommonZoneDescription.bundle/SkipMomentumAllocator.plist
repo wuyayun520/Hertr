@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonCycleValidation</key>
+	<string>certificateIncludePhase</string>
+	<key>chapterFacadeDistance</key>
+	<string>resizableCommandTail</string>
+	<key>labelVariablePadding</key>
+	<string>scrollUntilState</string>
+	<key>spotProcessTail</key>
+	<string>layoutInFacade</string>
+	<key>touchDuringForm</key>
+	<string>optimizerChainCoord</string>
+</dict>
+</plist>

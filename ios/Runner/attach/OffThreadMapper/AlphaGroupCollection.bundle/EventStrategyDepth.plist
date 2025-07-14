@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentStateOpacity</key>
+	<string>blocOutsideLayer</string>
+	<key>columnAboutPhase</key>
+	<string>columnForNumber</string>
+	<key>completionThroughBuffer</key>
+	<string>animationDuringComposite</string>
+	<key>disparateRectIndex</key>
+	<string>protectedMobxOpacity</string>
+	<key>effectIncludeMode</key>
+	<string>delegateAtPattern</string>
+	<key>ephemeralFactoryDelay</key>
+	<string>desktopVariantVisible</string>
+	<key>originalLocalizationHue</key>
+	<string>tappableTextureStatus</string>
+	<key>semanticServiceDuration</key>
+	<string>transformerFromLayer</string>
+	<key>streamSinceObserver</key>
+	<string>zoneSinceShape</string>
+</dict>
+</plist>

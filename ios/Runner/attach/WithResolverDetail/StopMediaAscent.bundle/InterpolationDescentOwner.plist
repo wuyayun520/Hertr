@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentChainDelay</key>
+	<string>temporaryMonsterCenter</string>
+	<key>asyncHandlerMode</key>
+	<string>capsuleActionStatus</string>
+	<key>coordinatorTierHead</key>
+	<string>disabledThreadBrightness</string>
+	<key>mobileDelegateAcceleration</key>
+	<string>graphLayerShade</string>
+	<key>textureOrInterpreter</key>
+	<string>resilientProviderSpacing</string>
+</dict>
+</plist>

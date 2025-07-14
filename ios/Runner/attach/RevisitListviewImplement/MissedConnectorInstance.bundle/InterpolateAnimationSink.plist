@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerThroughObserver</key>
+	<string>delegateByParameter</string>
+	<key>grainAndCycle</key>
+	<string>progressbarProcessHue</string>
+	<key>gridActionDistance</key>
+	<string>richtextAwayState</string>
+	<key>hyperbolicSignatureCount</key>
+	<string>sustainableDescriptionDepth</string>
+	<key>iterativeBrushVisible</key>
+	<string>immutableImageBrightness</string>
+	<key>logOfLevel</key>
+	<string>prismaticUtilOrigin</string>
+	<key>permissiveBuilderState</key>
+	<string>subtleContainerAcceleration</string>
+	<key>semanticBuilderFrequency</key>
+	<string>fixedConstraintForce</string>
+	<key>swiftAndProxy</key>
+	<string>mobxStrategyBehavior</string>
+</dict>
+</plist>

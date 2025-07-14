@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderStyleRight</key>
+	<string>sizedboxAwayState</string>
+	<key>completerAdapterContrast</key>
+	<string>statefulCubeSize</string>
+	<key>invisibleProgressbarPosition</key>
+	<string>otherResourceMode</string>
+	<key>reducerAtBridge</key>
+	<string>fusedHeapKind</string>
+	<key>rowAlongMemento</key>
+	<string>lazyGraphicVisibility</string>
+</dict>
+</plist>

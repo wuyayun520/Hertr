@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityNumberFeedback</key>
+	<string>globalMemberInterval</string>
+	<key>enabledExceptionDepth</key>
+	<string>grainExceptWork</string>
+	<key>groupAmongMode</key>
+	<string>isolateModeState</string>
+	<key>groupPerBridge</key>
+	<string>statefulSizedboxCoord</string>
+	<key>kernelActivityTag</key>
+	<string>tangentAdapterSpeed</string>
+	<key>mediocreLoopState</key>
+	<string>allocatorKindMode</string>
+	<key>resourceTaskPosition</key>
+	<string>fusedProjectCoord</string>
+	<key>sequentialDelegateState</key>
+	<string>taskThanWork</string>
+</dict>
+</plist>

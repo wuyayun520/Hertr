@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCallbackType</key>
+	<string>statefulProviderShape</string>
+	<key>alphaDespiteStyle</key>
+	<string>liteStorageAcceleration</string>
+	<key>decorationAgainstFacade</key>
+	<string>sequentialAnimationDensity</string>
+	<key>hashInMediator</key>
+	<string>delicateSliderBorder</string>
+	<key>layerInKind</key>
+	<string>resourceLikeBuffer</string>
+	<key>parallelConfigurationName</key>
+	<string>resultShapeFlags</string>
+	<key>positionFrameworkEdge</key>
+	<string>previewBesideTask</string>
+	<key>priorTransitionFlags</key>
+	<string>independentClipperContrast</string>
+	<key>tickerStructurePosition</key>
+	<string>spineWithShape</string>
+</dict>
+</plist>

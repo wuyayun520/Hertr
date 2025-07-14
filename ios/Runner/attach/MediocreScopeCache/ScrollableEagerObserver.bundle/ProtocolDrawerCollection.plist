@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeBufferDuration</key>
+	<string>movementBufferMode</string>
+	<key>delegateParamTag</key>
+	<string>compositionOrMediator</string>
+	<key>enabledGiftType</key>
+	<string>nodeBufferPressure</string>
+	<key>observerOutsideStage</key>
+	<string>brushPhaseVisible</string>
+	<key>providerPlatformBehavior</key>
+	<string>methodEnvironmentOrigin</string>
+	<key>roleTypeAlignment</key>
+	<string>materialNodeBound</string>
+	<key>standaloneDescriptorHead</key>
+	<string>spriteObserverOffset</string>
+	<key>timerBeyondWork</key>
+	<string>stampViaState</string>
+</dict>
+</plist>

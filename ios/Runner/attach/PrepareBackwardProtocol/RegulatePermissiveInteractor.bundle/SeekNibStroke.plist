@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticHashDirection</key>
+	<string>sequentialNibFlags</string>
+	<key>interpolationInContext</key>
+	<string>dependencyStrategyBehavior</string>
+	<key>painterStrategyPadding</key>
+	<string>mainTextureName</string>
+	<key>routerTierOffset</key>
+	<string>singleIsolateContrast</string>
+	<key>semanticsParameterMode</key>
+	<string>stackPerProcess</string>
+	<key>symbolFunctionRate</key>
+	<string>flexibleSwiftFeedback</string>
+</dict>
+</plist>

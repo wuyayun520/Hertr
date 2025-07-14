@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderAwayWork</key>
+	<string>hyperbolicCanvasDuration</string>
+	<key>builderAdapterBorder</key>
+	<string>notificationShapeMargin</string>
+	<key>completionFromFramework</key>
+	<string>cupertinoExceptActivity</string>
+	<key>frameBridgeType</key>
+	<string>chartThroughStrategy</string>
+	<key>lossAndStage</key>
+	<string>shaderStructureInset</string>
+	<key>paddingObserverTag</key>
+	<string>numericalAlphaMode</string>
+	<key>temporaryTextTheme</key>
+	<string>roleAmongPrototype</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationMediatorMode</key>
+	<string>allocatorPerFlyweight</string>
+	<key>extensionThroughPattern</key>
+	<string>pointBeyondOperation</string>
+	<key>methodInterpreterTheme</key>
+	<string>asyncWithoutMethod</string>
+	<key>presenterAlongPlatform</key>
+	<string>tableVersusParam</string>
+	<key>reductionAndBuffer</key>
+	<string>grainNearTemple</string>
+	<key>repositoryAsCycle</key>
+	<string>visibleShaderHue</string>
+	<key>screenCommandSkewx</key>
+	<string>interpolationForChain</string>
+	<key>tensorDocumentName</key>
+	<string>largeInteractorFormat</string>
+	<key>transformerThroughProcess</key>
+	<string>disabledChartAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesAtContext</key>
+	<string>giftAndType</string>
+	<key>concurrentSizedboxMode</key>
+	<string>symmetricTransformerTop</string>
+	<key>eagerProgressbarInteraction</key>
+	<string>controllerBeyondPattern</string>
+	<key>screenAroundCommand</key>
+	<string>constraintTempleOrigin</string>
+</dict>
+</plist>

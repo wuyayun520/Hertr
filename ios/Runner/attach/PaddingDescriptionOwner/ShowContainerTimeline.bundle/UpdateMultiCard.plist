@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>persistentSizeMomentum</key>
+	<string>subscriptionMementoBehavior</string>
+	<key>popupFromObserver</key>
+	<string>promiseVersusVariable</string>
+	<key>responseForPlatform</key>
+	<string>alignmentChainPosition</string>
+</dict>
+</plist>

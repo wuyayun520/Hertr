@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicHandlerPressure</key>
+	<string>geometricDimensionCoord</string>
+	<key>navigatorObserverFeedback</key>
+	<string>intermediateHeapTop</string>
+	<key>pageviewSinceFramework</key>
+	<string>symbolExceptForm</string>
+	<key>positionFunctionTail</key>
+	<string>respectiveCatalystVelocity</string>
+</dict>
+</plist>

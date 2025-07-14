@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customResolverRotation</key>
+	<string>resourceVisitorDirection</string>
+	<key>effectStrategyForce</key>
+	<string>intermediateAnchorMode</string>
+	<key>hashOrInterpreter</key>
+	<string>enabledSingletonAcceleration</string>
+	<key>singlePreviewTop</key>
+	<string>isolateViaActivity</string>
+</dict>
+</plist>

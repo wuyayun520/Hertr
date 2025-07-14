@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCurveInterval</key>
+	<string>actionBridgeBrightness</string>
+	<key>constraintSinceProxy</key>
+	<string>localizationWithoutEnvironment</string>
+	<key>decorationDuringProxy</key>
+	<string>beginnerCurveDelay</string>
+	<key>elasticCupertinoInset</key>
+	<string>batchActionDuration</string>
+	<key>entityCommandOrientation</key>
+	<string>dynamicResponseShape</string>
+	<key>normSinceLayer</key>
+	<string>displayableMobxResponse</string>
+	<key>sustainableSubscriptionName</key>
+	<string>streamNearChain</string>
+	<key>taskStyleHead</key>
+	<string>certificateExceptWork</string>
+	<key>tweenContainVisitor</key>
+	<string>permissiveGradientShade</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateViaStyle</key>
+	<string>robustSingletonCoord</string>
+	<key>equalizationOfPhase</key>
+	<string>subscriptionNearStage</string>
+	<key>multiplicationFrameworkHue</key>
+	<string>decorationByFacade</string>
+	<key>oldPresenterPressure</key>
+	<string>storyboardFlyweightVisible</string>
+	<key>routerPerState</key>
+	<string>canvasAroundObserver</string>
+	<key>scrollStageSkewy</key>
+	<string>intuitiveSubscriptionOrientation</string>
+</dict>
+</plist>

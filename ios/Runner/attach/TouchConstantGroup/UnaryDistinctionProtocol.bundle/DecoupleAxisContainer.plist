@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityAndPattern</key>
+	<string>boxFlyweightTheme</string>
+	<key>functionalChartDepth</key>
+	<string>batchOfStructure</string>
+	<key>loopSinceShape</key>
+	<string>offsetDecoratorShape</string>
+	<key>petOrProcess</key>
+	<string>allocatorProxyFeedback</string>
+	<key>serviceAtJob</key>
+	<string>reductionBufferBehavior</string>
+	<key>topicProxyInteraction</key>
+	<string>rectActionColor</string>
+	<key>unaryOfWork</key>
+	<string>viewContextAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTextfieldOrientation</key>
+	<string>animatedSlashSkewy</string>
+	<key>concurrentWidgetFlags</key>
+	<string>statefulRoleTail</string>
+	<key>constraintAwayFunction</key>
+	<string>responseTaskOrigin</string>
+	<key>interactorNumberStyle</key>
+	<string>lastListenerTint</string>
+</dict>
+</plist>

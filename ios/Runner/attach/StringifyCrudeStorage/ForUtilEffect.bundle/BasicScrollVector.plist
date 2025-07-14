@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableDialogsOpacity</key>
+	<string>resourceBeyondLayer</string>
+	<key>eventCommandScale</key>
+	<string>synchronousCaptionFlags</string>
+	<key>imperativeBufferSkewy</key>
+	<string>nibVarMargin</string>
+	<key>interactorTypeFrequency</key>
+	<string>characterFrameworkDelay</string>
+	<key>interfaceBesideFlyweight</key>
+	<string>crudeConstraintTail</string>
+	<key>logarithmContextHue</key>
+	<string>custompaintScopeFlags</string>
+	<key>permissiveLabelDepth</key>
+	<string>skinAdapterLeft</string>
+	<key>progressbarObserverVisible</key>
+	<string>backwardViewBehavior</string>
+	<key>taskViaComposite</key>
+	<string>descriptionInsideScope</string>
+	<key>tickerObserverDirection</key>
+	<string>plateWorkOffset</string>
+</dict>
+</plist>

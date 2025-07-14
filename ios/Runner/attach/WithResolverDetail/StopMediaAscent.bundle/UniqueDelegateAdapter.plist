@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowBufferInterval</key>
+	<string>completionLevelContrast</string>
+	<key>bufferOfFunction</key>
+	<string>staticPopupName</string>
+	<key>extensionScopeDistance</key>
+	<string>iterativeSpriteRotation</string>
+	<key>kernelScopeStyle</key>
+	<string>draggableSegmentDistance</string>
+	<key>keyIntensityDepth</key>
+	<string>webModelVisibility</string>
+	<key>responsiveSampleTint</key>
+	<string>explicitTextLeft</string>
+	<key>semanticsPatternFlags</key>
+	<string>bitrateVariableTail</string>
+	<key>singletonDespiteMediator</key>
+	<string>modulusForFramework</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaAlongMethod</key>
+	<string>usedBorderTop</string>
+	<key>binaryLevelPadding</key>
+	<string>cupertinoPainterPadding</string>
+	<key>controllerCompositeTransparency</key>
+	<string>largeTopicOrientation</string>
+	<key>lazyConvolutionStyle</key>
+	<string>observerNearFlyweight</string>
+	<key>previewAboutMemento</key>
+	<string>loopVersusFramework</string>
+	<key>resizableWidgetBehavior</key>
+	<string>crucialReducerStatus</string>
+	<key>responseAmongPattern</key>
+	<string>criticalTouchCenter</string>
+	<key>sineFlyweightVelocity</key>
+	<string>storyboardThroughObserver</string>
+	<key>statelessAndParameter</key>
+	<string>hardWorkflowName</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>integerTypeStatus</key>
+	<string>uniqueSliderTop</string>
+	<key>mediumCommandRate</key>
+	<string>delegateAsVariable</string>
+	<key>positionTempleSpeed</key>
+	<string>metadataChainCoord</string>
+	<key>requestStateTransparency</key>
+	<string>intuitiveObserverState</string>
+	<key>responseShapeFeedback</key>
+	<string>usageCycleOrientation</string>
+</dict>
+</plist>

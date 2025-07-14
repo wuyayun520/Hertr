@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTransitionFrequency</key>
+	<string>unactivatedAsyncRate</string>
+	<key>cubeParamCoord</key>
+	<string>zoneParamValidation</string>
+	<key>easyPainterRate</key>
+	<string>checkboxNumberName</string>
+	<key>mediaqueryBeyondPrototype</key>
+	<string>sizeCommandCount</string>
+	<key>reducerIncludeStructure</key>
+	<string>lazyExponentMargin</string>
+	<key>reductionVersusVariable</key>
+	<string>completionForTask</string>
+	<key>resourceOutsideMediator</key>
+	<string>clipperStrategyShade</string>
+</dict>
+</plist>

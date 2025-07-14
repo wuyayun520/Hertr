@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationFacadeDelay</key>
+	<string>nibLikeProxy</string>
+	<key>constraintWithoutProxy</key>
+	<string>bufferBesideProxy</string>
+	<key>delicateChannelForce</key>
+	<string>independentResponseStyle</string>
+	<key>multiplicationBufferAcceleration</key>
+	<string>anchorAlongWork</string>
+	<key>observerBufferSpacing</key>
+	<string>webMonsterDepth</string>
+	<key>pointTierPadding</key>
+	<string>statefulStreamFlags</string>
+	<key>sessionPatternRate</key>
+	<string>stepTierRate</string>
+	<key>spotThroughTier</key>
+	<string>dynamicGroupBorder</string>
+	<key>sustainableOperationForce</key>
+	<string>lostAssetKind</string>
+	<key>usedAssetIndex</key>
+	<string>seamlessServiceRate</string>
+</dict>
+</plist>

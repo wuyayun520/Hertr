@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderSingletonFlags</key>
+	<string>deferredBlocLeft</string>
+	<key>chartTempleState</key>
+	<string>delegateBySingleton</string>
+	<key>integerContextRotation</key>
+	<string>positionedDespiteVariable</string>
+	<key>mediumTweenInteraction</key>
+	<string>singletonAdapterMode</string>
+	<key>positionBesideFlyweight</key>
+	<string>positionedIncludePrototype</string>
+	<key>retainedNavigationBehavior</key>
+	<string>numericalDecorationVelocity</string>
+	<key>roleParamInset</key>
+	<string>intermediateControllerBorder</string>
+	<key>semanticDescriptionEdge</key>
+	<string>momentumLikeMode</string>
+	<key>sliderStrategyVisibility</key>
+	<string>textureInMethod</string>
+</dict>
+</plist>

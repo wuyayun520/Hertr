@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorPerBuffer</key>
+	<string>transformerExceptDecorator</string>
+	<key>directWidgetMargin</key>
+	<string>denseConstraintAcceleration</string>
+	<key>euclideanListenerInterval</key>
+	<string>tweenPhaseAppearance</string>
+	<key>gridAgainstStrategy</key>
+	<string>zoneThroughLayer</string>
+	<key>modelAlongProcess</key>
+	<string>timerDuringMediator</string>
+	<key>resourcePhasePosition</key>
+	<string>zoneAmongVisitor</string>
+	<key>tickerAwayContext</key>
+	<string>texturePerPlatform</string>
+</dict>
+</plist>

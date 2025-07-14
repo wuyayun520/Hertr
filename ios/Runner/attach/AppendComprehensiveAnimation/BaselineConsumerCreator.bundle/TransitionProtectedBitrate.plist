@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerSystemCenter</key>
+	<string>cupertinoIndicatorSaturation</string>
+	<key>cursorAlongForm</key>
+	<string>metadataActivityPadding</string>
+	<key>histogramProxySize</key>
+	<string>navigatorWithLayer</string>
+	<key>observerVariableRight</key>
+	<string>screenShapeTheme</string>
+	<key>reactiveGraphSpeed</key>
+	<string>firstPlateDistance</string>
+	<key>toolNearMemento</key>
+	<string>presenterAmongBridge</string>
+</dict>
+</plist>

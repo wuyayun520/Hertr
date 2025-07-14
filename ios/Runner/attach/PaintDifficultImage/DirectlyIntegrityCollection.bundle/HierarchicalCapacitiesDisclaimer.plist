@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentPreviewRate</key>
+	<string>richtextOutsideMode</string>
+	<key>coordinatorVersusBuffer</key>
+	<string>globalPetSkewy</string>
+	<key>desktopAppbarKind</key>
+	<string>responseInMode</string>
+	<key>immediateSignatureTint</key>
+	<string>similarLocalizationCoord</string>
+	<key>largeConsumerTail</key>
+	<string>sharedRoleHue</string>
+	<key>navigatorAtScope</key>
+	<string>diversifiedInterfaceOrientation</string>
+	<key>stampTaskShade</key>
+	<string>indicatorPatternOffset</string>
+	<key>temporaryBuilderTop</key>
+	<string>sinkOutsideKind</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocMediatorRotation</key>
+	<string>statelessProxyFeedback</string>
+	<key>diffableBatchRotation</key>
+	<string>logAroundEnvironment</string>
+	<key>groupSystemPadding</key>
+	<string>independentBitrateMargin</string>
+	<key>nibAtPhase</key>
+	<string>fusedCompletionEdge</string>
+	<key>routerFlyweightFeedback</key>
+	<string>cubitFacadeCenter</string>
+	<key>signatureFromFacade</key>
+	<string>storeNearProcess</string>
+	<key>tappableCompositionResponse</key>
+	<string>ternaryDecoratorTheme</string>
+	<key>tappableMovementTransparency</key>
+	<string>eventMethodForce</string>
+	<key>usedCubitCenter</key>
+	<string>slashOrOperation</string>
+</dict>
+</plist>

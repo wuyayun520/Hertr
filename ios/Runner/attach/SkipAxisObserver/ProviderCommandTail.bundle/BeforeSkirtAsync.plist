@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionDecoratorFrequency</key>
+	<string>animatedcontainerAndComposite</string>
+	<key>functionalRouteFormat</key>
+	<string>advancedFrameRate</string>
+	<key>functionalScrollOrigin</key>
+	<string>sensorPlatformAcceleration</string>
+	<key>gradientMementoTheme</key>
+	<string>completerForChain</string>
+	<key>topicAndStage</key>
+	<string>resourceTypeColor</string>
+	<key>transitionSinceBridge</key>
+	<string>catalystMediatorAcceleration</string>
+</dict>
+</plist>

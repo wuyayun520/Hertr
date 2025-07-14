@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetFormShade</key>
+	<string>futureUntilContext</string>
+	<key>buttonOrKind</key>
+	<string>animatedcontainerFromFlyweight</string>
+	<key>canvasLayerInteraction</key>
+	<string>widgetBufferBorder</string>
+	<key>chartPerState</key>
+	<string>hierarchicalEventFormat</string>
+	<key>lossFromObserver</key>
+	<string>memberLevelFlags</string>
+	<key>newestMonsterStyle</key>
+	<string>beginnerViewTheme</string>
+	<key>observerOperationPadding</key>
+	<string>animatedTransitionOrigin</string>
+	<key>reusableHistogramTop</key>
+	<string>behaviorOrBuffer</string>
+	<key>streamPhaseSpeed</key>
+	<string>buttonInContext</string>
+</dict>
+</plist>

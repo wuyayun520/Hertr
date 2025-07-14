@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterPerTier</key>
+	<string>compositionInMode</string>
+	<key>dynamicCallbackBehavior</key>
+	<string>primaryTechniqueTail</string>
+	<key>intuitiveCallbackShape</key>
+	<string>operationNumberMomentum</string>
+	<key>lastUsecaseFormat</key>
+	<string>optimizerFunctionOrientation</string>
+	<key>mediaLayerKind</key>
+	<string>baselineProcessFeedback</string>
+	<key>missedStoreFeedback</key>
+	<string>invisibleHandlerValidation</string>
+	<key>overlayParamBrightness</key>
+	<string>arithmeticMethodAcceleration</string>
+	<key>streamCommandRate</key>
+	<string>boxshadowVariableSize</string>
+	<key>titleAboutContext</key>
+	<string>widgetParamState</string>
+	<key>uniformCanvasAlignment</key>
+	<string>cubitJobDelay</string>
+</dict>
+</plist>

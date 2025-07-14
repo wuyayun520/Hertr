@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheFormBrightness</key>
+	<string>stateAgainstTask</string>
+	<key>channelsWithProcess</key>
+	<string>subscriptionProcessEdge</string>
+	<key>configurationFlyweightPosition</key>
+	<string>boxByFlyweight</string>
+	<key>draggableCubitPadding</key>
+	<string>multiGroupShade</string>
+	<key>notificationWithoutNumber</key>
+	<string>subscriptionOfBuffer</string>
+	<key>protocolFacadeDirection</key>
+	<string>graphicAsMemento</string>
+	<key>specifyMenuShape</key>
+	<string>concreteStorageForce</string>
+	<key>specifyUsecaseLeft</key>
+	<string>lastEffectFrequency</string>
+</dict>
+</plist>

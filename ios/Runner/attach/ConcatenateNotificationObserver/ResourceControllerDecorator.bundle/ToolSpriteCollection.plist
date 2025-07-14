@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeActionName</key>
+	<string>indicatorAdapterFormat</string>
+	<key>animationDuringLayer</key>
+	<string>touchProcessStyle</string>
+	<key>columnAsState</key>
+	<string>permanentScaleStyle</string>
+	<key>constraintAboutActivity</key>
+	<string>nativeModulusEdge</string>
+	<key>denseAllocatorValidation</key>
+	<string>lostSwiftCoord</string>
+	<key>discardedLayerResponse</key>
+	<string>grainPrototypeValidation</string>
+	<key>exceptionScopeType</key>
+	<string>webAsyncIndex</string>
+	<key>primaryAccessorySkewy</key>
+	<string>usedAxisBorder</string>
+	<key>semanticBinarySaturation</key>
+	<string>sequentialProviderTail</string>
+	<key>ternaryInsideOperation</key>
+	<string>inactiveStatefulPadding</string>
+</dict>
+</plist>

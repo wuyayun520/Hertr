@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorViaMethod</key>
+	<string>callbackActionOrientation</string>
+	<key>binaryDespiteAdapter</key>
+	<string>entityKindOrientation</string>
+	<key>coordinatorAmongFlyweight</key>
+	<string>progressbarDecoratorFeedback</string>
+	<key>difficultContractionDensity</key>
+	<string>graphLikeAdapter</string>
+	<key>frameKindDelay</key>
+	<string>backwardDurationDelay</string>
+	<key>listenerFlyweightBottom</key>
+	<string>cupertinoEntityAppearance</string>
+	<key>routeProxyCount</key>
+	<string>sequentialMasterLeft</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalQueueFormat</key>
+	<string>priorityByVar</string>
+	<key>delegateCompositeName</key>
+	<string>buttonInsidePhase</string>
+	<key>directNavigationDensity</key>
+	<string>touchPrototypeMargin</string>
+	<key>largePresenterFrequency</key>
+	<string>activePromiseVisibility</string>
+	<key>robustDecorationHead</key>
+	<string>grainAtStrategy</string>
+	<key>sinkOperationForce</key>
+	<string>channelValueDensity</string>
+	<key>streamStrategyDepth</key>
+	<string>inkwellOperationSkewy</string>
+	<key>titleFlyweightAcceleration</key>
+	<string>skirtLayerAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorScopeRotation</key>
+	<string>zoneVariableCenter</string>
+	<key>cellWithoutSingleton</key>
+	<string>routerChainSpacing</string>
+	<key>heroNearType</key>
+	<string>currentUtilEdge</string>
+	<key>imageObserverBottom</key>
+	<string>riverpodAndStage</string>
+	<key>interactorContainState</key>
+	<string>cubitPlatformFrequency</string>
+	<key>loopForVisitor</key>
+	<string>offsetOfActivity</string>
+	<key>managerFlyweightFrequency</key>
+	<string>metadataAsMethod</string>
+	<key>spriteAdapterShade</key>
+	<string>similarChannelHead</string>
+</dict>
+</plist>

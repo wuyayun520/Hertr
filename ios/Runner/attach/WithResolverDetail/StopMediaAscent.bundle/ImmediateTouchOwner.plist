@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPresenterShade</key>
+	<string>mediumViewInteraction</string>
+	<key>callbackCycleRotation</key>
+	<string>seamlessHeapName</string>
+	<key>giftAgainstPattern</key>
+	<string>sceneBufferMode</string>
+	<key>intuitiveCursorBehavior</key>
+	<string>referenceKindVisible</string>
+	<key>originalLocalizationOrigin</key>
+	<string>gemInsideWork</string>
+	<key>scrollForMethod</key>
+	<string>immediateExponentLocation</string>
+	<key>sequentialLayoutBorder</key>
+	<string>hierarchicalSineBehavior</string>
+	<key>storeFromTier</key>
+	<string>aspectratioOfState</string>
+	<key>vectorFlyweightBorder</key>
+	<string>aspectInProcess</string>
+</dict>
+</plist>

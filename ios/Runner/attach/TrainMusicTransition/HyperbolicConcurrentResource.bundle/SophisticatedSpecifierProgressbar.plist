@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderProxyShade</key>
+	<string>roleInsideStage</string>
+	<key>concurrentProviderStyle</key>
+	<string>containerAroundProxy</string>
+	<key>smartZoneName</key>
+	<string>rowForJob</string>
+</dict>
+</plist>

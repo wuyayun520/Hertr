@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAnimationStyle</key>
+	<string>sequentialParticleVelocity</string>
+	<key>deferredToolSkewy</key>
+	<string>routerOperationDirection</string>
+	<key>displayableSkirtHue</key>
+	<string>subscriptionOrType</string>
+	<key>exceptionOrPhase</key>
+	<string>specifyBuilderShape</string>
+	<key>gesturePhaseTint</key>
+	<string>shaderWithoutStructure</string>
+	<key>mobileObserverStyle</key>
+	<string>chartInsideProcess</string>
+	<key>projectLevelForce</key>
+	<string>scaleAtContext</string>
+	<key>publicInterfaceLocation</key>
+	<string>displayableTickerOrientation</string>
+	<key>relationalStateFlags</key>
+	<string>activatedScaleKind</string>
+	<key>semanticDependencyIndex</key>
+	<string>roleOperationCount</string>
+</dict>
+</plist>

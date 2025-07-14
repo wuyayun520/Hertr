@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoWorkflowTheme</key>
+	<string>ternaryPatternAlignment</string>
+	<key>checklistViaDecorator</key>
+	<string>nativeResponseValidation</string>
+	<key>interactiveChallengeTheme</key>
+	<string>swiftBeyondTemple</string>
+	<key>scaffoldAwayInterpreter</key>
+	<string>segueCommandSaturation</string>
+	<key>singleCapsuleAcceleration</key>
+	<string>textureInsideParameter</string>
+</dict>
+</plist>

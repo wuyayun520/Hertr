@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletByComposite</key>
+	<string>taskChainDensity</string>
+	<key>intermediateCacheDelay</key>
+	<string>crucialPaddingInterval</string>
+	<key>localizationStageOpacity</key>
+	<string>usecaseUntilTier</string>
+	<key>queueModeShape</key>
+	<string>effectEnvironmentSpeed</string>
+	<key>significantRadioOpacity</key>
+	<string>agileInterpolationOrientation</string>
+	<key>subtleBufferTransparency</key>
+	<string>substantialBinaryAcceleration</string>
+	<key>temporaryButtonLocation</key>
+	<string>reducerLikePhase</string>
+	<key>themeProxyHue</key>
+	<string>inkwellNumberDensity</string>
+</dict>
+</plist>

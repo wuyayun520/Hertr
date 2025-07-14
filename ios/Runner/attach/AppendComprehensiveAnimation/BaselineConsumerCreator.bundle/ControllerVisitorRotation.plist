@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>positionedByVar</key>
+	<string>challengeTypeHead</string>
+	<key>prismaticDialogsFlags</key>
+	<string>permanentDurationDelay</string>
+	<key>resizableGrainVelocity</key>
+	<string>euclideanRadioEdge</string>
+	<key>sessionInterpreterPadding</key>
+	<string>resilientTaskCenter</string>
+	<key>spriteBeyondDecorator</key>
+	<string>crudeMovementColor</string>
+	<key>stepProxyDistance</key>
+	<string>playbackVisitorCount</string>
+</dict>
+</plist>

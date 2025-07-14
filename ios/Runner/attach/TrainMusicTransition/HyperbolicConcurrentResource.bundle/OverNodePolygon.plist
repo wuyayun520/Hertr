@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintCycleCount</key>
+	<string>stampValueCoord</string>
+	<key>decorationContextRotation</key>
+	<string>modelNearBridge</string>
+	<key>interactorEnvironmentCount</key>
+	<string>resolverExceptInterpreter</string>
+	<key>resolverWithValue</key>
+	<string>graphAtPrototype</string>
+	<key>routerJobPosition</key>
+	<string>composableBrushCount</string>
+	<key>standaloneSliderEdge</key>
+	<string>constraintPatternScale</string>
+	<key>tappableChannelsSpacing</key>
+	<string>immutableBaselineColor</string>
+	<key>unactivatedMetadataScale</key>
+	<string>notifierFlyweightInteraction</string>
+</dict>
+</plist>

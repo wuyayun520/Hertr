@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintInsideActivity</key>
+	<string>serviceAroundValue</string>
+	<key>fixedNotificationBrightness</key>
+	<string>sortedBlocPosition</string>
+	<key>interpolationModeSkewx</key>
+	<string>layoutAsTask</string>
+	<key>scrollableBoxshadowInterval</key>
+	<string>checkboxObserverHue</string>
+	<key>stepPerMethod</key>
+	<string>queueContextPadding</string>
+	<key>textfieldVisitorDelay</key>
+	<string>elasticPresenterSpeed</string>
+</dict>
+</plist>

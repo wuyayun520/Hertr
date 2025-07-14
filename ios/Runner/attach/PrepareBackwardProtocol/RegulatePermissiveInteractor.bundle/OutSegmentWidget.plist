@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyAlongAction</key>
+	<string>workflowCommandCount</string>
+	<key>eventSinceMediator</key>
+	<string>unaryLikeSingleton</string>
+	<key>queryAmongStyle</key>
+	<string>offsetMementoCoord</string>
+</dict>
+</plist>

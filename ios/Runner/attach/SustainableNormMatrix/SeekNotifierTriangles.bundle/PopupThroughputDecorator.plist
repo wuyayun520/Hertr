@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileProgressbarScale</key>
+	<string>currentCompleterDepth</string>
+	<key>specifierShapeSaturation</key>
+	<string>streamOfPhase</string>
+	<key>stackCycleShape</key>
+	<string>particleProxyTag</string>
+</dict>
+</plist>

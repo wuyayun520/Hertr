@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveAwayParam</key>
+	<string>playbackFrameworkTint</string>
+	<key>dynamicOverlaySize</key>
+	<string>stackNearPattern</string>
+	<key>priorityDuringJob</key>
+	<string>accessibleContainerAcceleration</string>
+	<key>segueNumberOffset</key>
+	<string>repositoryActivityShade</string>
+	<key>usecaseViaVisitor</key>
+	<string>subtleArithmeticSkewy</string>
+</dict>
+</plist>

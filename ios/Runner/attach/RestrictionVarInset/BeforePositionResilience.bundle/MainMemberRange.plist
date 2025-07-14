@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorDuringTask</key>
+	<string>workflowFacadeShape</string>
+	<key>documentWithContext</key>
+	<string>sineStageTension</string>
+	<key>exceptionTaskStyle</key>
+	<string>lostEventDirection</string>
+	<key>intermediateBatchDistance</key>
+	<string>dependencySystemValidation</string>
+</dict>
+</plist>

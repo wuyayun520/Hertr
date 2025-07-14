@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionOperationFrequency</key>
+	<string>largeConvolutionCount</string>
+	<key>disabledTransitionInterval</key>
+	<string>containerInOperation</string>
+	<key>gridviewAroundComposite</key>
+	<string>lastConstraintSaturation</string>
+	<key>logarithmTypeVisible</key>
+	<string>routerStageAcceleration</string>
+	<key>lostButtonDistance</key>
+	<string>signatureJobPadding</string>
+	<key>menuStageVelocity</key>
+	<string>positionAlongStructure</string>
+	<key>statefulBeyondFunction</key>
+	<string>cellUntilShape</string>
+	<key>transitionActionScale</key>
+	<string>callbackParamRotation</string>
+	<key>usagePatternShade</key>
+	<string>listenerShapeAppearance</string>
+</dict>
+</plist>

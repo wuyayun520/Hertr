@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableActionInterval</key>
+	<string>injectionVisitorIndex</string>
+	<key>enabledCaptionDistance</key>
+	<string>disabledMediaqueryInset</string>
+	<key>entityFromFlyweight</key>
+	<string>getxMediatorTint</string>
+	<key>inactiveTouchDepth</key>
+	<string>coordinatorSingletonOffset</string>
+	<key>independentPositionDistance</key>
+	<string>fixedAssetTint</string>
+	<key>metadataAroundBuffer</key>
+	<string>hyperbolicUnaryBehavior</string>
+	<key>mutableStepMode</key>
+	<string>listenerPerPattern</string>
+	<key>segmentPhaseOpacity</key>
+	<string>statelessEntropyMomentum</string>
+	<key>singletonAboutJob</key>
+	<string>managerAroundPlatform</string>
+</dict>
+</plist>

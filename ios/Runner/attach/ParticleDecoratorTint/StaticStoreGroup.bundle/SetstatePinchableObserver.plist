@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricReductionOrientation</key>
+	<string>monsterFrameworkOrigin</string>
+	<key>managerProxyBehavior</key>
+	<string>effectAndPlatform</string>
+	<key>queryByObserver</key>
+	<string>materialGramTop</string>
+	<key>rapidCursorInteraction</key>
+	<string>coordinatorViaSingleton</string>
+</dict>
+</plist>

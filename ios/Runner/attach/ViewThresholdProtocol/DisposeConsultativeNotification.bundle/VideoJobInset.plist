@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocMementoMode</key>
+	<string>operationNearState</string>
+	<key>handlerAmongKind</key>
+	<string>checkboxContainMemento</string>
+	<key>heroContainPattern</key>
+	<string>cacheNearProcess</string>
+	<key>injectionTaskPressure</key>
+	<string>richtextFacadeDistance</string>
+	<key>interactiveEntityPressure</key>
+	<string>groupOfForm</string>
+	<key>isolateChainRate</key>
+	<string>chapterBufferSize</string>
+</dict>
+</plist>

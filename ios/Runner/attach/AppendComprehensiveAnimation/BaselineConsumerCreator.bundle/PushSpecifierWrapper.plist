@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureAmongDecorator</key>
+	<string>permanentReferenceTransparency</string>
+	<key>boxSystemInterval</key>
+	<string>fusedTextBehavior</string>
+	<key>channelInsideValue</key>
+	<string>presenterOutsideStage</string>
+	<key>gridIncludeTask</key>
+	<string>originalViewCount</string>
+	<key>groupActivityInset</key>
+	<string>viewParamDensity</string>
+	<key>localizationDespiteComposite</key>
+	<string>greatLogDistance</string>
+	<key>otherBufferDuration</key>
+	<string>scaffoldNearStyle</string>
+	<key>reactiveBitrateInset</key>
+	<string>compositionDespitePrototype</string>
+	<key>tweenFunctionFlags</key>
+	<string>layoutBeyondDecorator</string>
+</dict>
+</plist>

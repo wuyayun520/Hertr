@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileAgainstVariable</key>
+	<string>multiTransitionLocation</string>
+	<key>observerAsJob</key>
+	<string>delegateAtVisitor</string>
+	<key>parallelInteractorSpeed</key>
+	<string>repositoryChainBrightness</string>
+	<key>persistentOffsetBound</key>
+	<string>heroCycleDirection</string>
+	<key>petFormDuration</key>
+	<string>hardInterfaceDuration</string>
+	<key>specifyListviewScale</key>
+	<string>lastContainerOrientation</string>
+	<key>swiftWithoutLayer</key>
+	<string>managerProxyStyle</string>
+	<key>transformerByPrototype</key>
+	<string>newestInjectionSkewy</string>
+</dict>
+</plist>

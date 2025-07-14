@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitVersusValue</key>
+	<string>chapterAwaySystem</string>
+	<key>hardButtonHead</key>
+	<string>sceneAlongBridge</string>
+	<key>iterativeSwiftMode</key>
+	<string>concurrentProviderSaturation</string>
+	<key>layoutAgainstProxy</key>
+	<string>painterPerTask</string>
+	<key>lostSceneHead</key>
+	<string>difficultAllocatorCount</string>
+	<key>petOrContext</key>
+	<string>cardAgainstVisitor</string>
+	<key>plateActionAcceleration</key>
+	<string>standaloneTopicBehavior</string>
+</dict>
+</plist>

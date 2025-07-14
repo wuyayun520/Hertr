@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterLevelMargin</key>
+	<string>gateAndCommand</string>
+	<key>comprehensiveMetadataBorder</key>
+	<string>primaryCompositionBorder</string>
+	<key>elasticResolverOrigin</key>
+	<string>cellSystemBorder</string>
+	<key>presenterOrComposite</key>
+	<string>positionThanVariable</string>
+	<key>standaloneModalResponse</key>
+	<string>callbackInsidePrototype</string>
+</dict>
+</plist>

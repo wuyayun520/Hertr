@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventActivityOffset</key>
+	<string>exceptionCompositeDuration</string>
+	<key>firstResponseVisible</key>
+	<string>listviewTierShape</string>
+	<key>flexLayerStyle</key>
+	<string>memberObserverScale</string>
+	<key>flexibleExpandedState</key>
+	<string>textureStructureSkewx</string>
+	<key>globalStoryboardRotation</key>
+	<string>radiusOutsidePlatform</string>
+	<key>hardCurveTension</key>
+	<string>sliderWithoutScope</string>
+	<key>sizedboxStageVisible</key>
+	<string>tableWithOperation</string>
+</dict>
+</plist>

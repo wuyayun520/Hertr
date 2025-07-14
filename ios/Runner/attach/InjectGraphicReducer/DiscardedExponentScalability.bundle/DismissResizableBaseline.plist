@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerInsideMemento</key>
+	<string>completionUntilStrategy</string>
+	<key>drawerWithoutOperation</key>
+	<string>progressbarWithMediator</string>
+	<key>interfaceAwayFacade</key>
+	<string>statelessConstraintDensity</string>
+	<key>modelFacadeIndex</key>
+	<string>binaryMediatorPosition</string>
+	<key>reductionPerProcess</key>
+	<string>comprehensiveHeapEdge</string>
+	<key>taskAndValue</key>
+	<string>interactiveMediaPadding</string>
+	<key>toolOfChain</key>
+	<string>screenStructureSpacing</string>
+	<key>usecaseStyleBorder</key>
+	<string>enabledCardType</string>
+</dict>
+</plist>

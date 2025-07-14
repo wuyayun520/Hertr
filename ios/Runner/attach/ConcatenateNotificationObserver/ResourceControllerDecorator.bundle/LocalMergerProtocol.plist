@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedQueueDistance</key>
+	<string>logarithmOutsideNumber</string>
+	<key>captionDuringMode</key>
+	<string>callbackAgainstActivity</string>
+	<key>featureBridgeFormat</key>
+	<string>standaloneNavigatorRight</string>
+	<key>featureMethodMargin</key>
+	<string>nodeParameterVisible</string>
+	<key>largeFeatureState</key>
+	<string>associatedQueueSpeed</string>
+	<key>layoutVisitorLocation</key>
+	<string>statefulKindStyle</string>
+	<key>pinchableCosineRate</key>
+	<string>vectorCompositeFrequency</string>
+	<key>subscriptionNumberInteraction</key>
+	<string>gemUntilVar</string>
+	<key>unaryTaskOffset</key>
+	<string>spriteFunctionKind</string>
+</dict>
+</plist>

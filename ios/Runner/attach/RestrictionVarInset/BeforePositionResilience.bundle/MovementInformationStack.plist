@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binarySingletonMargin</key>
+	<string>intuitiveDecorationSpeed</string>
+	<key>hardResponseStyle</key>
+	<string>explicitBinarySpacing</string>
+	<key>independentConstraintLeft</key>
+	<string>integerDecoratorOffset</string>
+	<key>injectionJobName</key>
+	<string>positionModeInset</string>
+	<key>localizationNearVariable</key>
+	<string>mainPainterShade</string>
+	<key>managerPatternTag</key>
+	<string>enabledProtocolRight</string>
+	<key>streamContainPrototype</key>
+	<string>globalWidgetDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedSegmentRate</key>
+	<string>presenterByVariable</string>
+	<key>equipmentStageSkewy</key>
+	<string>buttonVersusPrototype</string>
+	<key>heroFromActivity</key>
+	<string>challengeViaVar</string>
+	<key>semanticTransitionSkewy</key>
+	<string>allocatorStateCenter</string>
+	<key>streamDuringAction</key>
+	<string>hierarchicalIndicatorIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerOrForm</key>
+	<string>groupMementoFormat</string>
+	<key>consumerFormFormat</key>
+	<string>titleInPhase</string>
+	<key>descriptorViaTier</key>
+	<string>subtleCubitMargin</string>
+	<key>desktopShaderDepth</key>
+	<string>basicMenuVisible</string>
+	<key>interactiveTransitionCenter</key>
+	<string>statelessValueValidation</string>
+	<key>textureAtVar</key>
+	<string>singleCosineDirection</string>
+</dict>
+</plist>

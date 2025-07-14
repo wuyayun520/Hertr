@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionViaMemento</key>
+	<string>behaviorDespiteParam</string>
+	<key>displayableContainerPadding</key>
+	<string>completerExceptState</string>
+	<key>durationTaskFlags</key>
+	<string>activeGradientOpacity</string>
+	<key>ignoredMaterialSaturation</key>
+	<string>providerObserverContrast</string>
+	<key>mobileContainNumber</key>
+	<string>geometricCompositionState</string>
+	<key>paddingForLevel</key>
+	<string>localizationProcessHead</string>
+	<key>persistentDocumentFlags</key>
+	<string>resultPerParam</string>
+	<key>sharedRiverpodPosition</key>
+	<string>curveAmongLevel</string>
+	<key>unsortedCacheBrightness</key>
+	<string>sessionForVariable</string>
+	<key>vectorMediatorAlignment</key>
+	<string>resizableGramPosition</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerFunctionEdge</key>
+	<string>routerAdapterCoord</string>
+	<key>rowWithObserver</key>
+	<string>stateAlongDecorator</string>
+	<key>semanticDescriptionDuration</key>
+	<string>spineProcessSaturation</string>
+	<key>variantAsObserver</key>
+	<string>inactiveRadiusLeft</string>
+</dict>
+</plist>

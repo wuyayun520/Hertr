@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterOutsideBuffer</key>
+	<string>customRectRotation</string>
+	<key>checklistLevelPadding</key>
+	<string>hierarchicalInterfaceRotation</string>
+	<key>coordinatorAlongMemento</key>
+	<string>similarTaskCount</string>
+	<key>expandedProcessDepth</key>
+	<string>beginnerSubscriptionDirection</string>
+	<key>interactiveCallbackMomentum</key>
+	<string>cellSinceLevel</string>
+	<key>protocolWithoutMemento</key>
+	<string>managerDecoratorValidation</string>
+	<key>resourceVarVisible</key>
+	<string>widgetOrPlatform</string>
+	<key>signatureInState</key>
+	<string>subscriptionActionForce</string>
+	<key>sustainableDelegateOffset</key>
+	<string>cubitLikeState</string>
+</dict>
+</plist>

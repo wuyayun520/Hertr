@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorContainKind</key>
+	<string>mutablePageviewKind</string>
+	<key>commonTaskDuration</key>
+	<string>agileRouteVelocity</string>
+	<key>effectStyleColor</key>
+	<string>normalCommandStatus</string>
+	<key>inactiveWorkflowFeedback</key>
+	<string>ternaryLayerVisibility</string>
+	<key>normalViewDepth</key>
+	<string>hardGridScale</string>
+	<key>pinchableCompleterFormat</key>
+	<string>groupWithForm</string>
+	<key>retainedSliderResponse</key>
+	<string>primaryToolMode</string>
+	<key>signatureCommandState</key>
+	<string>desktopRiverpodBottom</string>
+	<key>sizeSingletonBehavior</key>
+	<string>notificationViaBuffer</string>
+</dict>
+</plist>

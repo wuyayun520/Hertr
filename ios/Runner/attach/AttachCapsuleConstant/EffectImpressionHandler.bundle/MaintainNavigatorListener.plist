@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseShapeValidation</key>
+	<string>gradientOutsideFramework</string>
+	<key>hashModeAppearance</key>
+	<string>commandOrMemento</string>
+	<key>interactiveGradientFlags</key>
+	<string>euclideanSliderBrightness</string>
+	<key>otherIsolateShape</key>
+	<string>materialObserverVelocity</string>
+	<key>petParameterContrast</key>
+	<string>slashVarShade</string>
+	<key>tableNearStructure</key>
+	<string>prevFragmentSpacing</string>
+</dict>
+</plist>

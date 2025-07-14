@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledNodeDuration</key>
+	<string>curveFacadeResponse</string>
+	<key>gridBeyondStrategy</key>
+	<string>routeWithoutProxy</string>
+	<key>hardOptimizerInteraction</key>
+	<string>permissiveEventStatus</string>
+	<key>resizableStackTag</key>
+	<string>displayableApertureDepth</string>
+	<key>richtextAsChain</key>
+	<string>decorationSystemOrientation</string>
+	<key>significantRouteSaturation</key>
+	<string>textThroughCommand</string>
+</dict>
+</plist>

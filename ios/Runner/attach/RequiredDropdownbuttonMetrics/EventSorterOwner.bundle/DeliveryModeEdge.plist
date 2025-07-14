@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryInterpreterAlignment</key>
+	<string>lastConvolutionVisibility</string>
+	<key>buttonBridgeTransparency</key>
+	<string>decorationPhaseStyle</string>
+	<key>diffableIsolateTop</key>
+	<string>geometricGrainBound</string>
+	<key>disparateScaleBound</key>
+	<string>widgetCycleShade</string>
+	<key>grayscaleSystemRate</key>
+	<string>smartPrecisionCoord</string>
+	<key>positionIncludeActivity</key>
+	<string>rowLayerSize</string>
+</dict>
+</plist>

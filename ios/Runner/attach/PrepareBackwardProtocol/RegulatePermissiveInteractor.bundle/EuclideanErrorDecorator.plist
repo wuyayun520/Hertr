@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentMediatorPadding</key>
+	<string>sizeThanSingleton</string>
+	<key>exceptionOutsideMethod</key>
+	<string>resolverForCycle</string>
+	<key>keyStoreBehavior</key>
+	<string>binaryAtProxy</string>
+	<key>liteInterfaceSkewy</key>
+	<string>tweenPrototypeIndex</string>
+	<key>methodOfVariable</key>
+	<string>singleSubscriptionCount</string>
+	<key>positionedVariableBehavior</key>
+	<string>tweenAroundContext</string>
+	<key>rectCycleDuration</key>
+	<string>actionFormTheme</string>
+	<key>responseStrategySpacing</key>
+	<string>finalMobilePadding</string>
+	<key>tableAroundScope</key>
+	<string>sizedboxCycleTheme</string>
+	<key>topicOfCommand</key>
+	<string>declarativeTitleTension</string>
+</dict>
+</plist>

@@ -1,0 +1,1243 @@
+{
+  "plant_collections": [
+    {
+      "id": "collection_001",
+      "name": "Romantic Mixed Bouquet",
+      "image_reference": "assets/home/code_1.jpg",
+      "description": "A romantic mixed bouquet with pink and purple as the main color tones, creating a warm and elegant atmosphere.",
+      "main_flowers": [
+        {
+          "name": "Pink Rose",
+          "scientific_name": "Rosa × damascena",
+          "color": "Light pink",
+          "symbolism": "Gentle love, gratitude, elegance",
+          "care_tips": "Keep well-watered, trim stems regularly, avoid direct sunlight"
+        },
+        {
+          "name": "Purple Small Flowers",
+          "scientific_name": "Limonium sinuatum",
+          "color": "Deep purple",
+          "symbolism": "Eternal love, memories, loyalty",
+          "care_tips": "Drought-tolerant plant, suitable for dry environments, can be dried"
+        },
+        {
+          "name": "Red Lily",
+          "scientific_name": "Lilium",
+          "color": "Deep red",
+          "symbolism": "Passion, purity, rebirth",
+          "care_tips": "Needs plenty of sunlight, keep soil moist but not waterlogged"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Eucalyptus Leaves",
+          "scientific_name": "Eucalyptus",
+          "description": "Silver-green round leaves with fragrant aroma",
+          "care_tips": "Drought-tolerant, likes sunlight, can be used as decorative greenery"
+        },
+        {
+          "name": "Ivy",
+          "scientific_name": "Hedera helix",
+          "description": "Dark green vine-like leaves, adds layering",
+          "care_tips": "Prefers shady environment, maintain moderate moisture"
+        }
+      ],
+      "arrangement_style": "European mixed style",
+      "occasion": "Valentine's Day, anniversaries, proposals",
+      "color_palette": ["Pink", "Purple", "Green", "Red"],
+      "care_instructions": "Change water daily, trim stems, maintain 15-20°C room temperature, avoid direct sunlight",
+      "longevity": "7-10 days",
+      "fragrance": "Elegant floral scent"
+    },
+    {
+      "id": "collection_002",
+      "name": "Pure White Bouquet",
+      "image_reference": "assets/home/code_2.jpg",
+      "description": "An elegant bouquet dominated by white tones, symbolizing purity and new beginnings, suitable for various formal occasions.",
+      "main_flowers": [
+        {
+          "name": "White Rose",
+          "scientific_name": "Rosa × alba",
+          "color": "Pure white",
+          "symbolism": "Purity, new beginnings, respect",
+          "care_tips": "Keep water clean, change vase water regularly"
+        },
+        {
+          "name": "White Lisianthus",
+          "scientific_name": "Eustoma grandiflorum",
+          "color": "White",
+          "symbolism": "Eternal love, gratitude, elegance",
+          "care_tips": "Prefers cool environment, avoid high temperatures"
+        },
+        {
+          "name": "White Chrysanthemum",
+          "scientific_name": "Chrysanthemum",
+          "color": "White",
+          "symbolism": "Honesty, loyalty, innocence",
+          "care_tips": "Needs plenty of water, regular pruning"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Dusty Miller",
+          "scientific_name": "Senecio cineraria",
+          "description": "Silver-white fuzzy leaves with unique texture",
+          "care_tips": "Drought-tolerant, likes sunlight, suitable for dry environments"
+        },
+        {
+          "name": "Fern",
+          "scientific_name": "Pteridophyta",
+          "description": "Dark green feathery leaves, adds natural feel",
+          "care_tips": "Prefers shady, humid environment, maintain high humidity"
+        }
+      ],
+      "arrangement_style": "Modern minimalist style",
+      "occasion": "Weddings, baptisms, graduations, housewarming",
+      "color_palette": ["White", "Silver", "Green"],
+      "care_instructions": "Change water daily, keep vase clean, optimal room temperature 18-22°C",
+      "longevity": "8-12 days",
+      "fragrance": "Light floral scent"
+    },
+    {
+      "id": "collection_003",
+      "name": "Warm Tone Bouquet",
+      "image_reference": "assets/home/code_3.jpg",
+      "description": "A warm orange-pink toned bouquet with dried plant elements, creating a vintage romantic atmosphere.",
+      "main_flowers": [
+        {
+          "name": "Pink-Orange Rose",
+          "scientific_name": "Rosa × tea",
+          "color": "Pink-orange",
+          "symbolism": "Warmth, gratitude, friendship",
+          "care_tips": "Maintain moderate moisture, avoid water on leaves"
+        },
+        {
+          "name": "Orange Tulip",
+          "scientific_name": "Tulipa",
+          "color": "Orange",
+          "symbolism": "Passion, vitality, understanding",
+          "care_tips": "Prefers cool environment, keep bulbs moist"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Eucalyptus Leaves",
+          "scientific_name": "Eucalyptus",
+          "description": "Silver-green leaves with unique fragrance",
+          "care_tips": "Drought-tolerant, can be dried for preservation"
+        },
+        {
+          "name": "Dried Reed",
+          "scientific_name": "Phragmites australis",
+          "description": "Golden-brown feathery plumes, adds texture",
+          "care_tips": "Already dried, can be preserved long-term"
+        }
+      ],
+      "arrangement_style": "Bohemian style",
+      "occasion": "Autumn decoration, Thanksgiving, housewarming parties",
+      "color_palette": ["Orange", "Pink", "Brown", "Silver-green"],
+      "care_instructions": "Mixed dry and fresh, fresh flowers need water change, keep dried flowers dry",
+      "longevity": "Fresh flowers 5-7 days, dried flowers can last months",
+      "fragrance": "Eucalyptus fragrance"
+    },
+    {
+      "id": "collection_004",
+      "name": "Modern Minimalist Floral Art",
+      "image_reference": "assets/home/code_4.jpg",
+      "description": "A minimalist floral art piece featuring orange calla lilies with dried grass materials, showcasing modern artistic beauty.",
+      "main_flowers": [
+        {
+          "name": "Orange Calla Lily",
+          "scientific_name": "Zantedeschia",
+          "color": "Orange-red",
+          "symbolism": "Passion, courage, rebirth",
+          "care_tips": "Prefers humid environment, keep roots moist"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Dried Reed Grass",
+          "scientific_name": "Miscanthus",
+          "description": "Golden-brown feathery plumes, creates wild beauty",
+          "care_tips": "Already dried, avoid humid environment"
+        }
+      ],
+      "arrangement_style": "Modern minimalism",
+      "occasion": "Modern home decoration, art exhibitions, minimalist spaces",
+      "color_palette": ["Orange", "Golden-brown", "Green"],
+      "care_instructions": "Calla lilies need plenty of water, keep dried grass dry, avoid direct sunlight",
+      "longevity": "Calla lilies 7-10 days, dried grass can last 6+ months",
+      "fragrance": "No distinct fragrance"
+    },
+    {
+      "id": "collection_005",
+      "name": "Country Daisy Bouquet",
+      "image_reference": "assets/home/code_5.jpg",
+      "description": "A country-style daisy bouquet with densely blooming white small flowers, creating a fresh and natural rural atmosphere.",
+      "main_flowers": [
+        {
+          "name": "English Daisy",
+          "scientific_name": "Bellis perennis",
+          "color": "White petals with yellow center",
+          "symbolism": "Innocence, hope, new beginnings",
+          "care_tips": "Likes plenty of sunlight, keep soil moist"
+        },
+        {
+          "name": "Wild Chrysanthemum",
+          "scientific_name": "Chrysanthemum indicum",
+          "color": "White",
+          "symbolism": "Nature, simplicity, sincerity",
+          "care_tips": "Cold-hardy, adaptable, needs plenty of sunlight"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Chrysanthemum Leaves",
+          "scientific_name": "Chrysanthemum leaves",
+          "description": "Dark green serrated leaves",
+          "care_tips": "Maintain moderate moisture, avoid waterlogging"
+        }
+      ],
+      "arrangement_style": "Country natural style",
+      "occasion": "Spring decoration, picnics, country weddings, Mother's Day",
+      "color_palette": ["White", "Yellow", "Green"],
+      "care_instructions": "Change water daily, maintain plenty of sunlight, room temperature 15-25°C",
+      "longevity": "5-8 days",
+      "fragrance": "Elegant light fragrance"
+    },
+    {
+      "id": "collection_006",
+      "name": "Tropical Modern Floral Art",
+      "image_reference": "assets/home/code_6.jpg",
+      "description": "A tropical modern floral art piece featuring yellow torch flowers and red bird of paradise, showcasing vibrant life force.",
+      "main_flowers": [
+        {
+          "name": "Yellow Torch Flower",
+          "scientific_name": "Kniphofia uvaria",
+          "color": "Golden yellow",
+          "symbolism": "Passion, vitality, resilience",
+          "care_tips": "Likes plenty of sunlight, drought-tolerant, needs good drainage"
+        },
+        {
+          "name": "Yellow Daffodil",
+          "scientific_name": "Narcissus",
+          "color": "Golden yellow",
+          "symbolism": "Narcissism, new life, hope",
+          "care_tips": "Prefers cool environment, keep bulbs moist"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Bird of Paradise Leaves",
+          "scientific_name": "Strelitzia reginae",
+          "description": "Large green leaves with red edges",
+          "care_tips": "Likes warm and humid conditions, needs plenty of sunlight"
+        },
+        {
+          "name": "Dragon Tree Leaves",
+          "scientific_name": "Dracaena marginata",
+          "description": "Narrow green leaves with red edges",
+          "care_tips": "Shade-tolerant, moderate watering, avoid waterlogging"
+        }
+      ],
+      "arrangement_style": "Tropical modern style",
+      "occasion": "Summer parties, tropical themed decoration, modern spaces",
+      "color_palette": ["Yellow", "Red", "Green"],
+      "care_instructions": "Maintain plenty of sunlight, moderate watering, room temperature 20-25°C",
+      "longevity": "Torch flowers 10-14 days, daffodils 7-10 days",
+      "fragrance": "Light daffodil fragrance"
+    },
+    {
+      "id": "collection_007",
+      "name": "Pink Begonia Bouquet",
+      "image_reference": "assets/home/code_7.jpg",
+      "description": "A delicate pink begonia bouquet with silver foliage, creating a gentle romantic spring atmosphere.",
+      "main_flowers": [
+        {
+          "name": "Pink Begonia",
+          "scientific_name": "Begonia × semperflorens",
+          "color": "Pink",
+          "symbolism": "Gentleness, beauty, gratitude",
+          "care_tips": "Prefers partial shade, keep soil moist, avoid water on leaves"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Dusty Miller",
+          "scientific_name": "Senecio cineraria",
+          "description": "Silver-white fuzzy leaves with unique texture",
+          "care_tips": "Drought-tolerant, likes sunlight, suitable for dry environments"
+        },
+        {
+          "name": "Begonia Leaves",
+          "scientific_name": "Begonia leaves",
+          "description": "Heart-shaped green leaves with silver spots",
+          "care_tips": "Prefers partial shade, maintain moderate moisture"
+        }
+      ],
+      "arrangement_style": "Gentle romantic style",
+      "occasion": "Mother's Day, women's birthdays, cozy gatherings",
+      "color_palette": ["Pink", "Silver", "Green"],
+      "care_instructions": "Avoid direct sunlight, keep soil moist, room temperature 18-22°C",
+      "longevity": "7-10 days",
+      "fragrance": "Elegant floral scent"
+    },
+    {
+      "id": "collection_008",
+      "name": "Classic Mixed Roses",
+      "image_reference": "assets/home/code_8.jpg",
+      "description": "A classic mixed rose bouquet with deep red, pink, and white roses, showcasing rich emotional layers.",
+      "main_flowers": [
+        {
+          "name": "Deep Red Rose",
+          "scientific_name": "Rosa × damascena",
+          "color": "Deep red",
+          "symbolism": "Passionate love, passion, commitment",
+          "care_tips": "Keep well-watered, trim stems regularly"
+        },
+        {
+          "name": "Pink Rose",
+          "scientific_name": "Rosa × damascena",
+          "color": "Pink",
+          "symbolism": "Gentleness, gratitude, first love",
+          "care_tips": "Avoid direct sunlight, maintain moderate moisture"
+        },
+        {
+          "name": "White Rose",
+          "scientific_name": "Rosa × alba",
+          "color": "Pure white",
+          "symbolism": "Purity, new beginnings, respect",
+          "care_tips": "Keep water clean, change vase water regularly"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Rose Leaves",
+          "scientific_name": "Rosa leaves",
+          "description": "Dark green pinnate compound leaves with serrated edges",
+          "care_tips": "Maintain moderate moisture, avoid water on leaves"
+        }
+      ],
+      "arrangement_style": "Classic European style",
+      "occasion": "Weddings, anniversaries, formal occasions",
+      "color_palette": ["Deep red", "Pink", "White", "Green"],
+      "care_instructions": "Change water daily, trim stems, maintain 15-20°C room temperature",
+      "longevity": "7-12 days",
+      "fragrance": "Rich rose fragrance"
+    },
+    {
+      "id": "collection_009",
+      "name": "Luxury Mixed Bouquet",
+      "image_reference": "assets/home/code_9.jpg",
+      "description": "A luxurious mixed bouquet containing various colors and varieties of flowers, creating a rich and colorful visual feast.",
+      "main_flowers": [
+        {
+          "name": "Pink Peony",
+          "scientific_name": "Paeonia lactiflora",
+          "color": "Pink",
+          "symbolism": "Wealth, prosperity, fulfillment",
+          "care_tips": "Prefers cool environment, maintain plenty of water"
+        },
+        {
+          "name": "Green Hydrangea",
+          "scientific_name": "Hydrangea macrophylla",
+          "color": "Green",
+          "symbolism": "Gratitude, understanding, harmony",
+          "care_tips": "Needs plenty of water, prefers partial shade"
+        },
+        {
+          "name": "Purple Chrysanthemum",
+          "scientific_name": "Chrysanthemum",
+          "color": "Purple",
+          "symbolism": "Nobility, mystery, longevity",
+          "care_tips": "Cold-hardy, needs plenty of sunlight"
+        },
+        {
+          "name": "Orange Flowers",
+          "scientific_name": "Calendula officinalis",
+          "color": "Orange",
+          "symbolism": "Passion, creativity, joy",
+          "care_tips": "Likes sunlight, strong drought tolerance"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Mixed Green Foliage",
+          "scientific_name": "Mixed foliage",
+          "description": "Combination of various green leaf materials",
+          "care_tips": "Maintain moderate moisture, avoid extreme temperatures"
+        }
+      ],
+      "arrangement_style": "Luxury European style",
+      "occasion": "Important celebrations, luxury weddings, VIP occasions",
+      "color_palette": ["Pink", "Green", "Purple", "Orange", "White"],
+      "care_instructions": "Change water daily, maintain plenty of water, room temperature 18-22°C",
+      "longevity": "8-12 days",
+      "fragrance": "Mixed floral fragrance"
+    },
+    {
+      "id": "collection_010",
+      "name": "Colorful Foliage Plant",
+      "image_reference": "assets/home/code_10.jpg",
+      "description": "Beautiful colorful foliage plant with pink striped leaves, highly decorative and ideal for indoor greening.",
+      "main_flowers": [],
+      "foliage": [
+        {
+          "name": "Caladium",
+          "scientific_name": "Caladium bicolor",
+          "description": "Heart-shaped leaves with pink main color and green edges",
+          "care_tips": "Likes warm and humid conditions, avoid direct sunlight, maintain high humidity"
+        },
+        {
+          "name": "Dieffenbachia",
+          "scientific_name": "Dieffenbachia seguine",
+          "description": "Large leaves with green and yellow spots",
+          "care_tips": "Prefers partial shade, keep soil moist"
+        }
+      ],
+      "arrangement_style": "Tropical foliage style",
+      "occasion": "Indoor decoration, office spaces, greenhouse gardens",
+      "color_palette": ["Pink", "Green", "Yellow"],
+      "care_instructions": "Maintain high humidity, avoid direct sunlight, room temperature 20-25°C",
+      "longevity": "Long-term viewing as potted plants",
+      "fragrance": "No fragrance"
+    },
+    {
+      "id": "collection_011",
+      "name": "Elegant Rose Bouquet",
+      "image_reference": "assets/home/code_11.jpg",
+      "description": "An elegant rose bouquet with white and pink roses accompanied by baby's breath, creating a pure romantic atmosphere.",
+      "main_flowers": [
+        {
+          "name": "White Rose",
+          "scientific_name": "Rosa × alba",
+          "color": "Pure white",
+          "symbolism": "Purity, new beginnings, respect",
+          "care_tips": "Keep water clean, change vase water regularly"
+        },
+        {
+          "name": "Pink Rose",
+          "scientific_name": "Rosa × damascena",
+          "color": "Light pink",
+          "symbolism": "Gentleness, gratitude, first love",
+          "care_tips": "Avoid direct sunlight, maintain moderate moisture"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Baby's Breath",
+          "scientific_name": "Gypsophila paniculata",
+          "description": "White small flowers in cloud-like distribution",
+          "care_tips": "Drought-tolerant, likes sunlight, can be dried"
+        },
+        {
+          "name": "Rose Leaves",
+          "scientific_name": "Rosa leaves",
+          "description": "Dark green pinnate compound leaves",
+          "care_tips": "Maintain moderate moisture, avoid water on leaves"
+        }
+      ],
+      "arrangement_style": "Elegant romantic style",
+      "occasion": "Weddings, proposals, anniversaries",
+      "color_palette": ["White", "Pink", "Green"],
+      "care_instructions": "Change water daily, keep vase clean, room temperature 18-22°C",
+      "longevity": "7-10 days",
+      "fragrance": "Elegant rose fragrance"
+    },
+    {
+      "id": "collection_012",
+      "name": "Natural Wild Bouquet",
+      "image_reference": "assets/home/code_12.jpg",
+      "description": "A bouquet full of natural wild charm with white roses, black berries, and green foliage, showcasing primitive natural beauty.",
+      "main_flowers": [
+        {
+          "name": "White Rose",
+          "scientific_name": "Rosa × alba",
+          "color": "Cream white",
+          "symbolism": "Purity, new beginnings, respect",
+          "care_tips": "Keep water clean, change vase water regularly"
+        },
+        {
+          "name": "Green Rose",
+          "scientific_name": "Rosa chinensis",
+          "color": "Light green",
+          "symbolism": "Nature, harmony, new life",
+          "care_tips": "Needs plenty of water, avoid high temperatures"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Black Berries",
+          "scientific_name": "Viburnum tinus",
+          "description": "Deep blue-black small berries, adds texture",
+          "care_tips": "Ripe fruits, keep dry"
+        },
+        {
+          "name": "Eucalyptus Leaves",
+          "scientific_name": "Eucalyptus",
+          "description": "Silver-green leaves with unique fragrance",
+          "care_tips": "Drought-tolerant, can be dried for preservation"
+        },
+        {
+          "name": "Fern",
+          "scientific_name": "Pteridophyta",
+          "description": "Dark green feathery leaves",
+          "care_tips": "Prefers shady, humid environment, maintain high humidity"
+        }
+      ],
+      "arrangement_style": "Natural wild style",
+      "occasion": "Autumn/winter decoration, natural themed gatherings, art exhibitions",
+      "color_palette": ["White", "Green", "Black", "Silver"],
+      "care_instructions": "Maintain moderate moisture, avoid high temperatures, room temperature 15-20°C",
+      "longevity": "Roses 7-10 days, berries can last 2-3 weeks",
+      "fragrance": "Eucalyptus fragrance"
+    },
+    {
+      "id": "collection_013",
+      "name": "Creative Grass Weaving Art",
+      "image_reference": "assets/home/code_13.jpg",
+      "description": "A creative grass weaving art piece with red carnations and golden grass weaving decoration, showcasing handicraft artistry.",
+      "main_flowers": [
+        {
+          "name": "Red Carnation",
+          "scientific_name": "Dianthus caryophyllus",
+          "color": "Deep red",
+          "symbolism": "Love, passion, maternal love",
+          "care_tips": "Prefers cool environment, keep soil moist"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Golden Grass Weaving",
+          "scientific_name": "Dried grass weaving",
+          "description": "Golden woven grass material, artistic decoration",
+          "care_tips": "Already dried, avoid humid environment"
+        }
+      ],
+      "arrangement_style": "Creative artistic style",
+      "occasion": "Art exhibitions, handicraft displays, creative space decoration",
+      "color_palette": ["Red", "Golden", "Green"],
+      "care_instructions": "Carnations need plenty of water, keep grass weaving dry",
+      "longevity": "Carnations 7-10 days, grass weaving can be preserved long-term",
+      "fragrance": "Light carnation fragrance"
+    },
+    {
+      "id": "collection_014",
+      "name": "Colorful Carnation Combination",
+      "image_reference": "assets/home/code_14.jpg",
+      "description": "A simple combination of multi-colored carnations showcasing rich colors with red, orange, green, and purple carnations.",
+      "main_flowers": [
+        {
+          "name": "Red Carnation",
+          "scientific_name": "Dianthus caryophyllus",
+          "color": "Deep red",
+          "symbolism": "Love, passion, maternal love",
+          "care_tips": "Prefers cool environment, keep soil moist"
+        },
+        {
+          "name": "Orange Carnation",
+          "scientific_name": "Dianthus caryophyllus",
+          "color": "Orange",
+          "symbolism": "Passion, vitality, friendship",
+          "care_tips": "Needs plenty of sunlight, moderate watering"
+        },
+        {
+          "name": "Green Carnation",
+          "scientific_name": "Dianthus caryophyllus",
+          "color": "Light green",
+          "symbolism": "Nature, harmony, new life",
+          "care_tips": "Keep cool, avoid high temperatures"
+        },
+        {
+          "name": "Purple Carnation",
+          "scientific_name": "Dianthus caryophyllus",
+          "color": "Purple",
+          "symbolism": "Nobility, mystery, elegance",
+          "care_tips": "Prefers partial shade, maintain moisture"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Carnation Leaves",
+          "scientific_name": "Dianthus leaves",
+          "description": "Narrow green leaves",
+          "care_tips": "Maintain moderate moisture, avoid waterlogging"
+        }
+      ],
+      "arrangement_style": "Modern minimalist style",
+      "occasion": "Mother's Day, Teacher's Day, daily decoration",
+      "color_palette": ["Red", "Orange", "Green", "Purple"],
+      "care_instructions": "Keep cool environment, change water daily, room temperature 15-20°C",
+      "longevity": "7-12 days",
+      "fragrance": "Distinctive carnation fragrance"
+    },
+    {
+      "id": "collection_015",
+      "name": "Colorful Hanging Plant",
+      "image_reference": "assets/home/code_15.jpg",
+      "description": "Beautiful colorful hanging plant with green leaves and pink edges, an excellent indoor foliage plant.",
+      "main_flowers": [],
+      "foliage": [
+        {
+          "name": "Tradescantia",
+          "scientific_name": "Tradescantia zebrina",
+          "description": "Oval leaves with green and pink striped edges",
+          "care_tips": "Prefers partial shade, keep soil moist, strong shade tolerance"
+        }
+      ],
+      "arrangement_style": "Modern foliage style",
+      "occasion": "Indoor decoration, office spaces, hanging decoration",
+      "color_palette": ["Green", "Pink", "Purple"],
+      "care_instructions": "Avoid direct sunlight, maintain moderate moisture, room temperature 18-25°C",
+      "longevity": "Long-term viewing as potted plants, can propagate through cuttings",
+      "fragrance": "No fragrance"
+    },
+    {
+      "id": "collection_016",
+      "name": "Luxury Pink Bouquet",
+      "image_reference": "assets/home/code_16.jpg",
+      "description": "A luxurious pink-themed bouquet featuring pink gladiolus with white roses and pink chrysanthemums, creating a noble and elegant atmosphere.",
+      "main_flowers": [
+        {
+          "name": "Pink Gladiolus",
+          "scientific_name": "Gladiolus hybridus",
+          "color": "Pink",
+          "symbolism": "Nobility, strength, remembrance",
+          "care_tips": "Needs plenty of sunlight, keep soil moist"
+        },
+        {
+          "name": "White Rose",
+          "scientific_name": "Rosa × alba",
+          "color": "Pure white",
+          "symbolism": "Purity, new beginnings, respect",
+          "care_tips": "Keep water clean, change vase water regularly"
+        },
+        {
+          "name": "Pink Chrysanthemum",
+          "scientific_name": "Chrysanthemum morifolium",
+          "color": "Pink",
+          "symbolism": "Nobility, longevity, joy",
+          "care_tips": "Cold-hardy, needs plenty of sunlight"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Rose Leaves",
+          "scientific_name": "Rosa leaves",
+          "description": "Dark green pinnate compound leaves",
+          "care_tips": "Maintain moderate moisture, avoid water on leaves"
+        },
+        {
+          "name": "Gladiolus Leaves",
+          "scientific_name": "Gladiolus leaves",
+          "description": "Narrow sword-shaped leaves",
+          "care_tips": "Needs plenty of sunlight, moderate watering"
+        }
+      ],
+      "arrangement_style": "Luxury European style",
+      "occasion": "Important celebrations, luxury weddings, VIP occasions",
+      "color_palette": ["Pink", "White", "Green"],
+      "care_instructions": "Change water daily, maintain plenty of sunlight, room temperature 18-22°C",
+      "longevity": "Gladiolus 7-10 days, roses 7-12 days",
+      "fragrance": "Elegant mixed floral fragrance"
+    },
+    {
+      "id": "collection_017",
+      "name": "Natural Wild Bouquet",
+      "image_reference": "assets/home/code_17.jpg",
+      "description": "A mixed bouquet full of natural wild charm with red roses, pink tulips, and wild flowers, showcasing primitive natural beauty.",
+      "main_flowers": [
+        {
+          "name": "Red Rose",
+          "scientific_name": "Rosa × damascena",
+          "color": "Deep red",
+          "symbolism": "Passionate love, passion, commitment",
+          "care_tips": "Keep well-watered, trim stems regularly"
+        },
+        {
+          "name": "Pink Tulip",
+          "scientific_name": "Tulipa",
+          "color": "Pink",
+          "symbolism": "Declaration of love, elegance, thoughtfulness",
+          "care_tips": "Prefers cool environment, keep bulbs moist"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Wild Flower Foliage",
+          "scientific_name": "Wild flower foliage",
+          "description": "Combination of various wild plant leaves",
+          "care_tips": "Maintain moderate moisture, strong adaptability"
+        },
+        {
+          "name": "White Small Flowers",
+          "scientific_name": "Gypsophila paniculata",
+          "description": "White cloud-like small flowers",
+          "care_tips": "Drought-tolerant, can be dried"
+        }
+      ],
+      "arrangement_style": "Natural wild style",
+      "occasion": "Outdoor gatherings, natural themed weddings, spring decoration",
+      "color_palette": ["Red", "Pink", "White", "Green"],
+      "care_instructions": "Maintain moderate moisture, avoid high temperatures, room temperature 15-20°C",
+      "longevity": "7-10 days",
+      "fragrance": "Natural floral fragrance"
+    },
+    {
+      "id": "collection_018",
+      "name": "Simple Carnations",
+      "image_reference": "assets/home/code_18.jpg",
+      "description": "A simple carnation bouquet with a classic combination of red and pink carnations, suitable for daily decoration.",
+      "main_flowers": [
+        {
+          "name": "Red Carnation",
+          "scientific_name": "Dianthus caryophyllus",
+          "color": "Deep red",
+          "symbolism": "Love, passion, maternal love",
+          "care_tips": "Prefers cool environment, keep soil moist"
+        },
+        {
+          "name": "Pink Carnation",
+          "scientific_name": "Dianthus caryophyllus",
+          "color": "Pink",
+          "symbolism": "Gratitude, elegance, maternal love",
+          "care_tips": "Needs plenty of sunlight, moderate watering"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Carnation Leaves",
+          "scientific_name": "Dianthus leaves",
+          "description": "Narrow green leaves",
+          "care_tips": "Maintain moderate moisture, avoid waterlogging"
+        }
+      ],
+      "arrangement_style": "Modern minimalist style",
+      "occasion": "Mother's Day, Teacher's Day, daily decoration",
+      "color_palette": ["Red", "Pink", "Green"],
+      "care_instructions": "Keep cool environment, change water daily, room temperature 15-20°C",
+      "longevity": "7-12 days",
+      "fragrance": "Distinctive carnation fragrance"
+    },
+    {
+      "id": "collection_019",
+      "name": "Spring Bouquet",
+      "image_reference": "assets/home/code_19.jpg",
+      "description": "A bouquet full of spring atmosphere with purple tulips, white daffodils, and pink small flowers, showcasing spring vitality.",
+      "main_flowers": [
+        {
+          "name": "Purple Tulip",
+          "scientific_name": "Tulipa",
+          "color": "Purple",
+          "symbolism": "Nobility, mystery, eternal love",
+          "care_tips": "Prefers cool environment, keep bulbs moist"
+        },
+        {
+          "name": "White Daffodil",
+          "scientific_name": "Narcissus",
+          "color": "White",
+          "symbolism": "Purity, new life, hope",
+          "care_tips": "Prefers cool environment, keep bulbs moist"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Purple Small Flowers",
+          "scientific_name": "Muscari armeniacum",
+          "description": "Purple grape-like small flowers",
+          "care_tips": "Cold-hardy, needs plenty of sunlight"
+        },
+        {
+          "name": "Twiggy Foliage",
+          "scientific_name": "Twiggy foliage",
+          "description": "Thin branch-like foliage",
+          "care_tips": "Maintain moderate moisture"
+        }
+      ],
+      "arrangement_style": "Spring natural style",
+      "occasion": "Spring decoration, Easter, housewarming",
+      "color_palette": ["Purple", "White", "Green"],
+      "care_instructions": "Keep cool environment, change water daily, room temperature 15-18°C",
+      "longevity": "7-10 days",
+      "fragrance": "Light daffodil fragrance"
+    },
+    {
+      "id": "collection_020",
+      "name": "Elegant Purple-Pink Bouquet",
+      "image_reference": "assets/home/code_20.jpg",
+      "description": "An elegant purple-pink toned bouquet with pink roses, purple lisianthus, and white small flowers, creating a romantic atmosphere.",
+      "main_flowers": [
+        {
+          "name": "Pink Rose",
+          "scientific_name": "Rosa × damascena",
+          "color": "Light pink",
+          "symbolism": "Gentleness, gratitude, first love",
+          "care_tips": "Avoid direct sunlight, maintain moderate moisture"
+        },
+        {
+          "name": "Purple Lisianthus",
+          "scientific_name": "Eustoma grandiflorum",
+          "color": "Purple",
+          "symbolism": "Eternal love, gratitude, elegance",
+          "care_tips": "Prefers cool environment, avoid high temperatures"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "White Small Flowers",
+          "scientific_name": "Gypsophila paniculata",
+          "description": "White cloud-like small flowers",
+          "care_tips": "Drought-tolerant, can be dried"
+        },
+        {
+          "name": "Eucalyptus Leaves",
+          "scientific_name": "Eucalyptus",
+          "description": "Silver-green leaves with unique fragrance",
+          "care_tips": "Drought-tolerant, can be dried for preservation"
+        }
+      ],
+      "arrangement_style": "Elegant romantic style",
+      "occasion": "Weddings, proposals, anniversaries",
+      "color_palette": ["Pink", "Purple", "White", "Silver-green"],
+      "care_instructions": "Avoid direct sunlight, change water daily, room temperature 18-22°C",
+      "longevity": "7-10 days",
+      "fragrance": "Elegant floral fragrance with eucalyptus"
+    },
+    {
+      "id": "collection_021",
+      "name": "Colorful Tulips",
+      "image_reference": "assets/home/code_21.jpg",
+      "description": "A vibrant colorful tulip bouquet with perfect combination of yellow, orange, and purple tulips, showcasing spring vitality.",
+      "main_flowers": [
+        {
+          "name": "Yellow Tulip",
+          "scientific_name": "Tulipa",
+          "color": "Golden yellow",
+          "symbolism": "Happiness, hope, friendship",
+          "care_tips": "Prefers cool environment, keep bulbs moist"
+        },
+        {
+          "name": "Orange Tulip",
+          "scientific_name": "Tulipa",
+          "color": "Orange",
+          "symbolism": "Passion, vitality, understanding",
+          "care_tips": "Needs plenty of sunlight, moderate watering"
+        },
+        {
+          "name": "Purple Tulip",
+          "scientific_name": "Tulipa",
+          "color": "Deep purple",
+          "symbolism": "Nobility, mystery, eternal love",
+          "care_tips": "Prefers cool environment, keep bulbs moist"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Tulip Leaves",
+          "scientific_name": "Tulipa leaves",
+          "description": "Broad green leaves",
+          "care_tips": "Maintain moderate moisture, avoid waterlogging"
+        }
+      ],
+      "arrangement_style": "Spring vitality style",
+      "occasion": "Spring celebrations, birthday parties, vitality themed decoration",
+      "color_palette": ["Yellow", "Orange", "Purple", "Green"],
+      "care_instructions": "Keep cool environment, change water daily, room temperature 15-18°C",
+      "longevity": "7-10 days",
+      "fragrance": "Elegant floral fragrance"
+    },
+    {
+      "id": "collection_022",
+      "name": "Rich Garden Bouquet",
+      "image_reference": "assets/home/code_22.jpg",
+      "description": "A rich and colorful garden-style bouquet with pink peonies, green hydrangeas, orange poppies, and other various flowers in a gorgeous combination.",
+      "main_flowers": [
+        {
+          "name": "Pink Peony",
+          "scientific_name": "Paeonia lactiflora",
+          "color": "Pink",
+          "symbolism": "Wealth, prosperity, fulfillment",
+          "care_tips": "Prefers cool environment, maintain plenty of water"
+        },
+        {
+          "name": "Green Hydrangea",
+          "scientific_name": "Hydrangea macrophylla",
+          "color": "Green",
+          "symbolism": "Gratitude, understanding, harmony",
+          "care_tips": "Needs plenty of water, prefers partial shade"
+        },
+        {
+          "name": "Orange Poppy",
+          "scientific_name": "Papaver rhoeas",
+          "color": "Orange-red",
+          "symbolism": "Comfort, forgetfulness, peace",
+          "care_tips": "Likes plenty of sunlight, strong drought tolerance"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Mixed Green Foliage",
+          "scientific_name": "Mixed foliage",
+          "description": "Combination of various green leaf materials",
+          "care_tips": "Maintain moderate moisture, avoid extreme temperatures"
+        }
+      ],
+      "arrangement_style": "Garden natural style",
+      "occasion": "Garden parties, summer decoration, natural themed weddings",
+      "color_palette": ["Pink", "Green", "Orange", "White"],
+      "care_instructions": "Change water daily, maintain plenty of water, room temperature 18-22°C",
+      "longevity": "8-12 days",
+      "fragrance": "Mixed floral fragrance"
+    },
+    {
+      "id": "collection_023",
+      "name": "Dark Wild Bouquet",
+      "image_reference": "assets/home/code_23.jpg",
+      "description": "A mysterious dark wild bouquet with deep purple roses, red poppies, and purple flowers, showcasing wild charm.",
+      "main_flowers": [
+        {
+          "name": "Deep Purple Rose",
+          "scientific_name": "Rosa × damascena",
+          "color": "Deep purple",
+          "symbolism": "Mystery, nobility, deep love",
+          "care_tips": "Keep well-watered, trim stems regularly"
+        },
+        {
+          "name": "Red Poppy",
+          "scientific_name": "Papaver rhoeas",
+          "color": "Red",
+          "symbolism": "Comfort, forgetfulness, peace",
+          "care_tips": "Likes plenty of sunlight, strong drought tolerance"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Dark Foliage",
+          "scientific_name": "Dark foliage",
+          "description": "Dark-toned leaf materials",
+          "care_tips": "Maintain moderate moisture"
+        },
+        {
+          "name": "Wild Plants",
+          "scientific_name": "Wild plants",
+          "description": "Combination of various wild plants",
+          "care_tips": "Strong adaptability, drought-tolerant"
+        }
+      ],
+      "arrangement_style": "Wild mysterious style",
+      "occasion": "Autumn decoration, Gothic themes, art exhibitions",
+      "color_palette": ["Deep purple", "Red", "Dark green", "Black"],
+      "care_instructions": "Maintain moderate moisture, avoid strong light, room temperature 15-20°C",
+      "longevity": "5-8 days",
+      "fragrance": "Deep floral fragrance"
+    },
+    {
+      "id": "collection_024",
+      "name": "Pink Ranunculus Bouquet",
+      "image_reference": "assets/home/code_24.jpg",
+      "description": "A gentle pink ranunculus bouquet with layered petals and white small flowers, creating a dreamy romantic atmosphere.",
+      "main_flowers": [
+        {
+          "name": "Pink Ranunculus",
+          "scientific_name": "Ranunculus asiaticus",
+          "color": "Pink",
+          "symbolism": "Charm, attractiveness, radiance",
+          "care_tips": "Prefers cool environment, keep soil moist"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "White Small Flowers",
+          "scientific_name": "Gypsophila paniculata",
+          "description": "White cloud-like small flowers",
+          "care_tips": "Drought-tolerant, can be dried"
+        },
+        {
+          "name": "Ranunculus Leaves",
+          "scientific_name": "Ranunculus leaves",
+          "description": "Dark green feathery leaves",
+          "care_tips": "Maintain moderate moisture, avoid waterlogging"
+        }
+      ],
+      "arrangement_style": "Dreamy romantic style",
+      "occasion": "Weddings, proposals, romantic dates",
+      "color_palette": ["Pink", "White", "Green"],
+      "care_instructions": "Keep cool environment, change water daily, room temperature 15-18°C",
+      "longevity": "5-7 days",
+      "fragrance": "Elegant floral fragrance"
+    },
+    {
+      "id": "collection_025",
+      "name": "Spring Flower Box",
+      "image_reference": "assets/home/code_25.jpg",
+      "description": "An exquisite spring flower box decoration with white tulips and pink hyacinths, showcasing spring's pure beauty.",
+      "main_flowers": [
+        {
+          "name": "White Tulip",
+          "scientific_name": "Tulipa",
+          "color": "Pure white",
+          "symbolism": "Purity, new beginnings, forgiveness",
+          "care_tips": "Prefers cool environment, keep bulbs moist"
+        },
+        {
+          "name": "Pink Hyacinth",
+          "scientific_name": "Hyacinthus orientalis",
+          "color": "Pink",
+          "symbolism": "Play, joy, affection",
+          "care_tips": "Needs plenty of sunlight, keep bulbs moist"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Tulip Leaves",
+          "scientific_name": "Tulipa leaves",
+          "description": "Broad green leaves",
+          "care_tips": "Maintain moderate moisture, avoid waterlogging"
+        },
+        {
+          "name": "Hyacinth Leaves",
+          "scientific_name": "Hyacinthus leaves",
+          "description": "Narrow green leaves",
+          "care_tips": "Needs plenty of sunlight, moderate watering"
+        }
+      ],
+      "arrangement_style": "Exquisite gift box style",
+      "occasion": "Spring gifts, Mother's Day, housewarming",
+      "color_palette": ["White", "Pink", "Green"],
+      "care_instructions": "Keep cool environment, change water daily, room temperature 15-18°C",
+      "longevity": "7-10 days",
+      "fragrance": "Rich hyacinth fragrance"
+    },
+    {
+      "id": "collection_026",
+      "name": "Colorful Foliage Plant",
+      "image_reference": "assets/home/code_26.jpg",
+      "description": "Beautiful colorful foliage plant with pink-green striped leaves, highly decorative and an excellent choice for indoor greening.",
+      "main_flowers": [],
+      "foliage": [
+        {
+          "name": "Tradescantia",
+          "scientific_name": "Tradescantia fluminensis",
+          "description": "Oval leaves with green and pink stripes",
+          "care_tips": "Prefers partial shade, keep soil moist, strong shade tolerance"
+        }
+      ],
+      "arrangement_style": "Modern foliage style",
+      "occasion": "Indoor decoration, office spaces, hanging decoration",
+      "color_palette": ["Green", "Pink", "White"],
+      "care_instructions": "Avoid direct sunlight, maintain moderate moisture, room temperature 18-25°C",
+      "longevity": "Long-term viewing as potted plants, can propagate through cuttings",
+      "fragrance": "No fragrance"
+    },
+    {
+      "id": "collection_027",
+      "name": "Autumn Floral Art",
+      "image_reference": "assets/home/code_27.jpg",
+      "description": "Rich autumn floral art with green hydrangeas, orange dahlias, and pink flowers, showcasing autumn's harvest beauty.",
+      "main_flowers": [
+        {
+          "name": "Green Hydrangea",
+          "scientific_name": "Hydrangea macrophylla",
+          "color": "Green",
+          "symbolism": "Gratitude, understanding, harmony",
+          "care_tips": "Needs plenty of water, prefers partial shade"
+        },
+        {
+          "name": "Orange Dahlia",
+          "scientific_name": "Dahlia pinnata",
+          "color": "Orange",
+          "symbolism": "Elegance, dignity, gratitude",
+          "care_tips": "Likes plenty of sunlight, needs plenty of water"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Deep Red Celosia",
+          "scientific_name": "Celosia argentea",
+          "description": "Deep red fuzzy flower heads",
+          "care_tips": "Drought-tolerant, likes plenty of sunlight"
+        },
+        {
+          "name": "Mixed Foliage",
+          "scientific_name": "Mixed foliage",
+          "description": "Combination of various autumn leaf materials",
+          "care_tips": "Maintain moderate moisture"
+        }
+      ],
+      "arrangement_style": "Autumn harvest style",
+      "occasion": "Autumn decoration, Thanksgiving, harvest celebrations",
+      "color_palette": ["Green", "Orange", "Deep red", "Pink"],
+      "care_instructions": "Maintain plenty of water, change water daily, room temperature 18-22°C",
+      "longevity": "8-12 days",
+      "fragrance": "Elegant floral fragrance"
+    },
+    {
+      "id": "collection_028",
+      "name": "Purple Foliage Plant",
+      "image_reference": "assets/home/code_28.jpg",
+      "description": "Mysterious purple foliage plant with deep purple striped leaves, creating strong visual impact and serving as a highlight in interior decoration.",
+      "main_flowers": [],
+      "foliage": [
+        {
+          "name": "Purple Foliage Plant",
+          "scientific_name": "Stromanthe sanguinea",
+          "description": "Oval leaves with deep purple and pink stripes",
+          "care_tips": "Likes warm and humid conditions, avoid direct sunlight, maintain high humidity"
+        }
+      ],
+      "arrangement_style": "Tropical foliage style",
+      "occasion": "Indoor decoration, office spaces, tropical themed decoration",
+      "color_palette": ["Deep purple", "Pink", "Green"],
+      "care_instructions": "Maintain high humidity, avoid direct sunlight, room temperature 20-25°C",
+      "longevity": "Long-term viewing as potted plants",
+      "fragrance": "No fragrance"
+    },
+    {
+      "id": "collection_029",
+      "name": "Succulent Plant Combination",
+      "image_reference": "assets/home/code_29.jpg",
+      "description": "Vibrant succulent plant combination with perfect matching of yellow, orange, and purple succulents, showcasing the unique charm of succulents.",
+      "main_flowers": [],
+      "foliage": [
+        {
+          "name": "Yellow Succulent",
+          "scientific_name": "Kalanchoe blossfeldiana",
+          "description": "Yellow small flowers with thick green leaves",
+          "care_tips": "Drought-tolerant, likes plenty of sunlight, avoid waterlogging"
+        },
+        {
+          "name": "Orange Succulent",
+          "scientific_name": "Kalanchoe blossfeldiana",
+          "description": "Orange small flowers with thick green leaves",
+          "care_tips": "Drought-tolerant, likes plenty of sunlight, avoid waterlogging"
+        },
+        {
+          "name": "Purple Succulent",
+          "scientific_name": "Kalanchoe blossfeldiana",
+          "description": "Purple small flowers with thick green leaves",
+          "care_tips": "Drought-tolerant, likes plenty of sunlight, avoid waterlogging"
+        }
+      ],
+      "arrangement_style": "Modern succulent style",
+      "occasion": "Indoor decoration, office spaces, modern minimalist decoration",
+      "color_palette": ["Yellow", "Orange", "Purple", "Green"],
+      "care_instructions": "Minimal watering, maintain plenty of sunlight, room temperature 18-25°C",
+      "longevity": "Long-term viewing as potted plants, flowering period 2-3 weeks",
+      "fragrance": "No fragrance"
+    },
+    {
+      "id": "collection_030",
+      "name": "Pink Carnations",
+      "image_reference": "assets/home/code_30.jpg",
+      "description": "Pure pink carnation bouquet with single color tone showcasing minimalist beauty, a classic choice for expressing maternal love.",
+      "main_flowers": [
+        {
+          "name": "Pink Carnation",
+          "scientific_name": "Dianthus caryophyllus",
+          "color": "Pink",
+          "symbolism": "Gratitude, elegance, maternal love",
+          "care_tips": "Needs plenty of sunlight, moderate watering"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Carnation Leaves",
+          "scientific_name": "Dianthus leaves",
+          "description": "Narrow green leaves",
+          "care_tips": "Maintain moderate moisture, avoid waterlogging"
+        }
+      ],
+      "arrangement_style": "Classic minimalist style",
+      "occasion": "Mother's Day, Thanksgiving, expressing gratitude",
+      "color_palette": ["Pink", "Green"],
+      "care_instructions": "Keep cool environment, change water daily, room temperature 15-20°C",
+      "longevity": "7-12 days",
+      "fragrance": "Distinctive carnation fragrance"
+    },
+    {
+      "id": "collection_031",
+      "name": "Pink Peonies",
+      "image_reference": "assets/home/code_31.jpg",
+      "description": "Magnificent pink peony bouquet with layered petals showcasing the grandeur of peonies, symbolizing wealth and prosperity.",
+      "main_flowers": [
+        {
+          "name": "Pink Peony",
+          "scientific_name": "Paeonia lactiflora",
+          "color": "Pink",
+          "symbolism": "Wealth, prosperity, fulfillment",
+          "care_tips": "Prefers cool environment, maintain plenty of water"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Peony Leaves",
+          "scientific_name": "Paeonia leaves",
+          "description": "Dark green pinnate compound leaves",
+          "care_tips": "Maintain moderate moisture, avoid high temperatures"
+        }
+      ],
+      "arrangement_style": "Magnificent classic style",
+      "occasion": "Important celebrations, weddings, wealth themed decoration",
+      "color_palette": ["Pink", "Green"],
+      "care_instructions": "Keep cool environment, change water daily, room temperature 15-18°C",
+      "longevity": "5-7 days",
+      "fragrance": "Light peony fragrance"
+    },
+    {
+      "id": "collection_032",
+      "name": "Autumn Wild Bouquet",
+      "image_reference": "assets/home/code_32.jpg",
+      "description": "Warm autumn wild bouquet with milk tea colored roses, orange proteas, and silver foliage, showcasing autumn's warm tones.",
+      "main_flowers": [
+        {
+          "name": "Milk Tea Rose",
+          "scientific_name": "Rosa × tea",
+          "color": "Milk tea color",
+          "symbolism": "Warmth, comfort, elegance",
+          "care_tips": "Maintain moderate moisture, avoid water on leaves"
+        },
+        {
+          "name": "Orange Protea",
+          "scientific_name": "Protea cynaroides",
+          "color": "Orange",
+          "symbolism": "Courage, change, diversity",
+          "care_tips": "Drought-tolerant, likes plenty of sunlight"
+        }
+      ],
+      "foliage": [
+        {
+          "name": "Silver Foliage",
+          "scientific_name": "Eucalyptus cinerea",
+          "description": "Silver-gray round leaves",
+          "care_tips": "Drought-tolerant, can be dried for preservation"
+        },
+        {
+          "name": "Dried Branch Decoration",
+          "scientific_name": "Dried branches",
+          "description": "Naturally dried branches",
+          "care_tips": "Already dried, avoid humid environment"
+        }
+      ],
+      "arrangement_style": "Autumn natural style",
+      "occasion": "Autumn decoration, Thanksgiving, natural themed gatherings",
+      "color_palette": ["Milk tea color", "Orange", "Silver", "Brown"],
+      "care_instructions": "Maintain moderate moisture, avoid high temperatures, room temperature 15-20°C",
+      "longevity": "Roses 7-10 days, proteas can last 2-3 weeks",
+      "fragrance": "Warm floral fragrance with eucalyptus"
+    }
+  ],
+  "general_care_tips": {
+    "water_change": "Change clean water daily, keep vase clean",
+    "stem_cutting": "Cut stems diagonally 1-2cm from bottom every 2-3 days",
+    "temperature": "Maintain room temperature 15-25°C, avoid extreme temperatures",
+    "lighting": "Avoid direct sunlight, choose bright indirect light environment",
+    "humidity": "Maintain moderate humidity, avoid excessive dryness",
+    "placement": "Keep away from heaters, air conditioning vents, etc."
+  },
+  "seasonal_recommendations": {
+    "spring": "Suitable for light-colored flowers like white roses, daisies",
+    "summer": "Choose heat-resistant varieties like sunflowers, calla lilies",
+    "autumn": "Warm-toned flowers with dried plants",
+    "winter": "Evergreen plants combined with pine branches, eucalyptus"
+  }
+} 

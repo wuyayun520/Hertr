@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentByKind</key>
+	<string>tickerPerParameter</string>
+	<key>decorationPerAction</key>
+	<string>momentumDespiteStyle</string>
+	<key>drawerAtPlatform</key>
+	<string>custompaintPlatformValidation</string>
+	<key>granularProviderRotation</key>
+	<string>specifyEffectColor</string>
+	<key>hashKindPressure</key>
+	<string>scenePrototypeSize</string>
+	<key>lossStateRight</key>
+	<string>textCycleStatus</string>
+</dict>
+</plist>

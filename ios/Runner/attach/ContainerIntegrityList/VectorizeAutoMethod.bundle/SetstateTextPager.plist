@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridWithoutInterpreter</key>
+	<string>marginValueSkewx</string>
+	<key>menuLikeStructure</key>
+	<string>mainWidgetColor</string>
+	<key>observerPlatformMode</key>
+	<string>switchLevelBehavior</string>
+	<key>visibleSingletonAcceleration</key>
+	<string>globalCompletionDuration</string>
+</dict>
+</plist>

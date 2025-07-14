@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeQueueVisible</key>
+	<string>stepNumberHead</string>
+	<key>futureNearJob</key>
+	<string>usecaseContextState</string>
+	<key>materialEffectBottom</key>
+	<string>primaryNavigatorLocation</string>
+	<key>projectionSingletonTint</key>
+	<string>seamlessTransformerStyle</string>
+	<key>rowAboutProxy</key>
+	<string>immutableObserverOrientation</string>
+	<key>subscriptionSystemVisible</key>
+	<string>concurrentIconValidation</string>
+	<key>titleOfActivity</key>
+	<string>intensityAgainstScope</string>
+	<key>viewAsMode</key>
+	<string>queryInsideDecorator</string>
+</dict>
+</plist>

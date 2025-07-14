@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitNearBuffer</key>
+	<string>segueAdapterState</string>
+	<key>consultativeDurationOrigin</key>
+	<string>anchorVersusCycle</string>
+	<key>hashSingletonVisible</key>
+	<string>taskSingletonOrigin</string>
+	<key>listenerAboutParameter</key>
+	<string>sensorAsParameter</string>
+	<key>multiplicationAlongVariable</key>
+	<string>swiftAndFunction</string>
+	<key>opaqueAsyncSpacing</key>
+	<string>nodeShapeDuration</string>
+	<key>originalCoordinatorRotation</key>
+	<string>accessibleConfigurationDuration</string>
+	<key>primaryBehaviorOrientation</key>
+	<string>modelTemplePosition</string>
+</dict>
+</plist>

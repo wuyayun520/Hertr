@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsWithoutParameter</key>
+	<string>serviceOutsideType</string>
+	<key>futureUntilType</key>
+	<string>semanticEventTransparency</string>
+	<key>mutableBlocTransparency</key>
+	<string>allocatorWithoutMemento</string>
+	<key>providerPlatformMode</key>
+	<string>queryLevelSpacing</string>
+	<key>textAsType</key>
+	<string>accessibleListenerTop</string>
+</dict>
+</plist>

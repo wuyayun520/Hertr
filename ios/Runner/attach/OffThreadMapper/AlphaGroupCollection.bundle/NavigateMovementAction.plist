@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBulletBehavior</key>
+	<string>resizableGradientKind</string>
+	<key>boxVersusEnvironment</key>
+	<string>featureAgainstMode</string>
+	<key>comprehensiveOffsetInteraction</key>
+	<string>accordionRouteOpacity</string>
+	<key>presenterContainTier</key>
+	<string>overlayNumberSpeed</string>
+	<key>reductionExceptSingleton</key>
+	<string>baselineShapeDepth</string>
+	<key>symmetricInteractorLocation</key>
+	<string>liteSubscriptionFormat</string>
+	<key>unaryProxyShape</key>
+	<string>screenAtLevel</string>
+</dict>
+</plist>

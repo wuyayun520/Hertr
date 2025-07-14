@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerFunctionOpacity</key>
+	<string>nibCompositeKind</string>
+	<key>injectionWithBridge</key>
+	<string>stepContainSingleton</string>
+	<key>managerAlongScope</key>
+	<string>agileQueueResponse</string>
+	<key>precisionFromObserver</key>
+	<string>nodeWorkRate</string>
+	<key>reusableSinkHue</key>
+	<string>coordinatorEnvironmentOpacity</string>
+	<key>timerSingletonOrientation</key>
+	<string>directlyOffsetSkewx</string>
+</dict>
+</plist>

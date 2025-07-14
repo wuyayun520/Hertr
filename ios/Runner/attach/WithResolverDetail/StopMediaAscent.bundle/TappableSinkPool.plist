@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationTierAlignment</key>
+	<string>responsiveZoneTransparency</string>
+	<key>descriptorOutsideBridge</key>
+	<string>liteStreamDensity</string>
+	<key>difficultBitrateResponse</key>
+	<string>symmetricImageInset</string>
+	<key>gesturedetectorPerLayer</key>
+	<string>functionalObserverHue</string>
+	<key>immutableIndicatorOpacity</key>
+	<string>grainOperationTag</string>
+	<key>mobileProviderSkewy</key>
+	<string>lostTransformerTag</string>
+	<key>significantEffectCenter</key>
+	<string>binaryFromObserver</string>
+	<key>widgetAroundContext</key>
+	<string>tabviewFlyweightOffset</string>
+</dict>
+</plist>

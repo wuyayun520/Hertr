@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFunctionSaturation</key>
+	<string>responseScopeBound</string>
+	<key>commandStyleVelocity</key>
+	<string>mobileCommandTail</string>
+	<key>contractionMementoLeft</key>
+	<string>fusedExceptionEdge</string>
+	<key>delegateLevelTop</key>
+	<string>standaloneReductionInterval</string>
+	<key>factoryStructureSpacing</key>
+	<string>granularCardValidation</string>
+	<key>groupAboutObserver</key>
+	<string>labelThroughPhase</string>
+	<key>streamAmongCycle</key>
+	<string>notifierLevelOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridCommandBorder</key>
+	<string>completerContainParameter</string>
+	<key>indicatorThroughLevel</key>
+	<string>errorAgainstObserver</string>
+	<key>precisionAtFlyweight</key>
+	<string>operationModeState</string>
+	<key>resourcePrototypePadding</key>
+	<string>configurationParamScale</string>
+	<key>respectiveTaskScale</key>
+	<string>configurationLayerShade</string>
+	<key>respectiveTextRate</key>
+	<string>dynamicLayerFrequency</string>
+	<key>sliderOutsideTier</key>
+	<string>sophisticatedContainerSkewx</string>
+	<key>statefulAsSingleton</key>
+	<string>tappableInkwellOrigin</string>
+	<key>temporaryFutureSpeed</key>
+	<string>robustObserverDelay</string>
+	<key>textChainBorder</key>
+	<string>spotAgainstAdapter</string>
+</dict>
+</plist>

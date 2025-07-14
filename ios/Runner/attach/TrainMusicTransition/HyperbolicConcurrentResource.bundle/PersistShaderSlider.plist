@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousHandlerFeedback</key>
+	<string>signByDecorator</string>
+	<key>localizationWithFunction</key>
+	<string>accordionFrameOrientation</string>
+	<key>persistentQueryKind</key>
+	<string>precisionParameterAcceleration</string>
+	<key>spotVarIndex</key>
+	<string>temporaryStorageFormat</string>
+	<key>workflowVarHead</key>
+	<string>factoryVisitorSpacing</string>
+</dict>
+</plist>

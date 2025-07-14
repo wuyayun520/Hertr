@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePreviewHead</key>
+	<string>intuitiveBaselineOffset</string>
+	<key>denseAspectState</key>
+	<string>switchActivityTag</string>
+	<key>gridAsProcess</key>
+	<string>taskActivityPosition</string>
+	<key>lazyBuilderBorder</key>
+	<string>tabviewWithSingleton</string>
+	<key>permanentImageSize</key>
+	<string>optionLevelSkewx</string>
+	<key>stateAtCycle</key>
+	<string>observerStrategyName</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerMethodInset</key>
+	<string>flexibleNavigationVelocity</string>
+	<key>curveInKind</key>
+	<string>builderInAction</string>
+	<key>curveWithoutShape</key>
+	<string>configurationWithShape</string>
+	<key>customizedCubitIndex</key>
+	<string>priorityParamBehavior</string>
+	<key>gradientScopeCenter</key>
+	<string>disparateMaterialValidation</string>
+	<key>iterativeChannelCoord</key>
+	<string>discardedMethodVisibility</string>
+	<key>layoutTempleType</key>
+	<string>unsortedEqualizationDistance</string>
+	<key>navigatorPatternValidation</key>
+	<string>tensorChecklistMargin</string>
+	<key>persistentAccessoryOrientation</key>
+	<string>beginnerContainerSpeed</string>
+	<key>transformerCompositeName</key>
+	<string>drawerViaScope</string>
+</dict>
+</plist>

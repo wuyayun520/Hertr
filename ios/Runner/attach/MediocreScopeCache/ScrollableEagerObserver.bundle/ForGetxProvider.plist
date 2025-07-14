@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAtNumber</key>
+	<string>cubeBesideFacade</string>
+	<key>cubitAtForm</key>
+	<string>cursorAroundDecorator</string>
+	<key>presenterProcessSaturation</key>
+	<string>positionByMethod</string>
+	<key>subscriptionDecoratorName</key>
+	<string>interactorAlongFramework</string>
+</dict>
+</plist>

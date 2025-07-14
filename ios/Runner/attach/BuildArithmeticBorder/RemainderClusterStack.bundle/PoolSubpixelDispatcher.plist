@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionInterpreterFormat</key>
+	<string>commonModalInteraction</string>
+	<key>diversifiedCommandVisibility</key>
+	<string>prismaticCubitResponse</string>
+	<key>granularProviderInteraction</key>
+	<string>streamSingletonSpeed</string>
+	<key>pinchableEntropySize</key>
+	<string>stampShapeTransparency</string>
+	<key>storeVariableShade</key>
+	<string>elasticOverlayDepth</string>
+	<key>tabviewAsPhase</key>
+	<string>sceneFlyweightIndex</string>
+	<key>tabviewExceptMemento</key>
+	<string>mediaAtVar</string>
+	<key>viewPlatformRotation</key>
+	<string>resultLikeJob</string>
+</dict>
+</plist>

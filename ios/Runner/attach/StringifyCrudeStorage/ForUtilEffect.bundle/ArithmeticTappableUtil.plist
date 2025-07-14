@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferScopeLeft</key>
+	<string>durationActionSaturation</string>
+	<key>heroStyleMode</key>
+	<string>newestCollectionScale</string>
+	<key>invisibleGraphVisibility</key>
+	<string>graphJobInterval</string>
+	<key>materialInkwellTension</key>
+	<string>responsiveControllerStatus</string>
+	<key>modulusPatternFrequency</key>
+	<string>heapWorkFrequency</string>
+	<key>otherIntegerFormat</key>
+	<string>subscriptionForStrategy</string>
+	<key>richtextStateTension</key>
+	<string>normalAssetName</string>
+	<key>specifierNumberResponse</key>
+	<string>resourceModeBehavior</string>
+	<key>titleOrKind</key>
+	<string>currentNodeKind</string>
+</dict>
+</plist>

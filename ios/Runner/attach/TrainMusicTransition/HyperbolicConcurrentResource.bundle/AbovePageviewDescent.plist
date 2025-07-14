@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutDuringAdapter</key>
+	<string>ephemeralViewOffset</string>
+	<key>mapScopeFormat</key>
+	<string>scrollableSliderInset</string>
+	<key>modalBeyondLayer</key>
+	<string>pivotalFragmentFrequency</string>
+	<key>resultContainWork</key>
+	<string>flexMementoMomentum</string>
+	<key>stateOperationInteraction</key>
+	<string>flexibleTabviewFormat</string>
+</dict>
+</plist>

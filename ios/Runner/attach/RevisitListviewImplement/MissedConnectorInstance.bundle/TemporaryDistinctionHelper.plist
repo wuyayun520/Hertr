@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchObserverSkewx</key>
+	<string>sequentialPointVisible</string>
+	<key>dialogsFromVisitor</key>
+	<string>shaderAlongMediator</string>
+	<key>enabledInterpolationOffset</key>
+	<string>sliderAndLevel</string>
+	<key>granularMediaqueryDepth</key>
+	<string>radiusUntilPlatform</string>
+	<key>intuitiveOffsetFormat</key>
+	<string>dimensionOutsideStrategy</string>
+	<key>modulusVariableDirection</key>
+	<string>anchorIncludePattern</string>
+	<key>requestPerStage</key>
+	<string>diffableTitleTransparency</string>
+	<key>shaderAroundLayer</key>
+	<string>viewAboutNumber</string>
+	<key>sizeOfValue</key>
+	<string>iterativeLoopCount</string>
+</dict>
+</plist>

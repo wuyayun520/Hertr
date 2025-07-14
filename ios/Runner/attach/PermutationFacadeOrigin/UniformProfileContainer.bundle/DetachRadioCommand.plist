@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionInterpreterSpeed</key>
+	<string>alphaOrBuffer</string>
+	<key>grainWithMode</key>
+	<string>blocBesideMode</string>
+	<key>interactorInState</key>
+	<string>disabledAspectVisibility</string>
+	<key>materialStructureTop</key>
+	<string>commandVisitorIndex</string>
+	<key>singleNavigationSpeed</key>
+	<string>currentMissionCenter</string>
+</dict>
+</plist>

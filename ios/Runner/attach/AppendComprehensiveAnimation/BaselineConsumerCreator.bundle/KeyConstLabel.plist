@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorSinceMediator</key>
+	<string>graphStateSaturation</string>
+	<key>rowDespiteJob</key>
+	<string>stackBridgeTail</string>
+	<key>sensorInsideLevel</key>
+	<string>imageModeName</string>
+</dict>
+</plist>

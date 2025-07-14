@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionContainComposite</key>
+	<string>enabledListenerInteraction</string>
+	<key>deferredCanvasShade</key>
+	<string>reactiveDocumentOrientation</string>
+	<key>directImageTransparency</key>
+	<string>assetAndSingleton</string>
+	<key>exponentOfVariable</key>
+	<string>delegateFrameworkStyle</string>
+	<key>giftMementoTint</key>
+	<string>webHistogramTint</string>
+	<key>graphAgainstInterpreter</key>
+	<string>animatedcontainerTempleRight</string>
+	<key>mediaqueryDuringContext</key>
+	<string>textOutsideAdapter</string>
+	<key>pageviewAdapterTransparency</key>
+	<string>subscriptionInPattern</string>
+	<key>routePrototypeTransparency</key>
+	<string>composableHeroState</string>
+	<key>widgetModeName</key>
+	<string>riverpodBesideProxy</string>
+</dict>
+</plist>

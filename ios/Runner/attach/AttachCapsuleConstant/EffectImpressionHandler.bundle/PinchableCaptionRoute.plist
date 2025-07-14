@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateFlyweightBehavior</key>
+	<string>popupContextAcceleration</string>
+	<key>constSliderRight</key>
+	<string>singletonInterpreterOpacity</string>
+	<key>groupMethodFormat</key>
+	<string>specifierOutsideSystem</string>
+	<key>labelParamMode</key>
+	<string>alignmentObserverTheme</string>
+	<key>loopBeyondScope</key>
+	<string>spotViaFlyweight</string>
+	<key>musicEnvironmentBottom</key>
+	<string>dropdownbuttonMementoDistance</string>
+	<key>scrollableChallengeSpeed</key>
+	<string>commandAtChain</string>
+	<key>sizePerFacade</key>
+	<string>resultTypeShape</string>
+	<key>tensorMatrixSkewy</key>
+	<string>spotPerTemple</string>
+</dict>
+</plist>

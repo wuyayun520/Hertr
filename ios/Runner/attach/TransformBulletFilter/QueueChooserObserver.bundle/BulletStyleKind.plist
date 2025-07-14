@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystLikeShape</key>
+	<string>cupertinoAwaitVisibility</string>
+	<key>iconObserverAcceleration</key>
+	<string>viewOrCommand</string>
+	<key>presenterSinceActivity</key>
+	<string>tensorFutureSkewx</string>
+	<key>scrollableRadiusOffset</key>
+	<string>scrollStructureMode</string>
+</dict>
+</plist>

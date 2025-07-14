@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyCommandInterval</key>
+	<string>notificationLikeComposite</string>
+	<key>gridSincePlatform</key>
+	<string>listviewViaMethod</string>
+	<key>interactiveDescriptorKind</key>
+	<string>utilOrStyle</string>
+	<key>interactorUntilOperation</key>
+	<string>immediateTabviewResponse</string>
+	<key>permissiveReducerSkewy</key>
+	<string>permissiveCertificateDensity</string>
+	<key>progressbarKindOpacity</key>
+	<string>sessionIncludeBridge</string>
+	<key>queryMementoValidation</key>
+	<string>buttonEnvironmentResponse</string>
+	<key>richtextFromBridge</key>
+	<string>coordinatorBeyondCycle</string>
+</dict>
+</plist>

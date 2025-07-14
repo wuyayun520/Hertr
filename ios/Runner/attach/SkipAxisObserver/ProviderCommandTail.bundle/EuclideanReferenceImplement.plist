@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryExceptMethod</key>
+	<string>monsterVarScale</string>
+	<key>accordionBoxInterval</key>
+	<string>normTierRight</string>
+	<key>alignmentExceptEnvironment</key>
+	<string>sceneStructureShape</string>
+	<key>customGroupVisible</key>
+	<string>taskWorkLocation</string>
+	<key>eventModeFeedback</key>
+	<string>composableOffsetColor</string>
+	<key>interactorEnvironmentHue</key>
+	<string>sortedExceptionDensity</string>
+	<key>resolverStageOffset</key>
+	<string>catalystInterpreterBrightness</string>
+</dict>
+</plist>

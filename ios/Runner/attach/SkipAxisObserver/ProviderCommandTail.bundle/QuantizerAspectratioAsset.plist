@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseBufferCenter</key>
+	<string>isolateViaContext</string>
+	<key>nodeSingletonSkewx</key>
+	<string>matrixFrameworkMargin</string>
+	<key>semanticPreviewName</key>
+	<string>routerStageEdge</string>
+	<key>zoneContainMethod</key>
+	<string>blocThroughWork</string>
+</dict>
+</plist>

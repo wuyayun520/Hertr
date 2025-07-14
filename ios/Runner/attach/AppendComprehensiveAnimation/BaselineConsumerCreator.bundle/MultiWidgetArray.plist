@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBlocFormat</key>
+	<string>precisionAwayChain</string>
+	<key>accordionSampleColor</key>
+	<string>greatBinaryTheme</string>
+	<key>descriptorAdapterSkewy</key>
+	<string>robustSceneBrightness</string>
+	<key>dropdownbuttonWithFramework</key>
+	<string>largeGridBrightness</string>
+	<key>hardLayoutVisible</key>
+	<string>basicIconTension</string>
+	<key>nativeOptimizerTransparency</key>
+	<string>alphaTaskHead</string>
+	<key>resilientDropdownbuttonStyle</key>
+	<string>semanticNodeDirection</string>
+</dict>
+</plist>

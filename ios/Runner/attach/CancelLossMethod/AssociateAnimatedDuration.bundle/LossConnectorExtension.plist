@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitInsideStructure</key>
+	<string>pinchableContainerBottom</string>
+	<key>semanticTextPosition</key>
+	<string>transitionVarOrigin</string>
+	<key>smartInterpolationTension</key>
+	<string>radioWithoutVar</string>
+	<key>statefulEntityType</key>
+	<string>statefulListenerResponse</string>
+	<key>tabbarOutsideContext</key>
+	<string>servicePatternOffset</string>
+	<key>toolLevelCoord</key>
+	<string>denseSubpixelTheme</string>
+</dict>
+</plist>

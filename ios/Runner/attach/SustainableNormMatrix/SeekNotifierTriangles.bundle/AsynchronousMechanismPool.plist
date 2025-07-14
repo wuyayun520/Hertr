@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionWithoutVar</key>
+	<string>rapidLayerOrientation</string>
+	<key>compositionObserverOrientation</key>
+	<string>cartesianButtonOrientation</string>
+	<key>nodeContainMode</key>
+	<string>clipperByAdapter</string>
+	<key>providerInProcess</key>
+	<string>reducerBeyondTask</string>
+	<key>radiusOfTier</key>
+	<string>durationMediatorState</string>
+	<key>sceneLayerBottom</key>
+	<string>behaviorStateAlignment</string>
+</dict>
+</plist>

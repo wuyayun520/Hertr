@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAroundProcess</key>
+	<string>lastQueryForce</string>
+	<key>desktopBatchBehavior</key>
+	<string>layoutSinceStructure</string>
+	<key>draggableCustompaintAcceleration</key>
+	<string>dynamicBufferBrightness</string>
+	<key>intensityViaObserver</key>
+	<string>primaryToolName</string>
+	<key>mediaCompositeDepth</key>
+	<string>modelFunctionBrightness</string>
+	<key>rowDespiteFlyweight</key>
+	<string>appbarAndAdapter</string>
+	<key>standaloneFeatureMargin</key>
+	<string>constraintFromVariable</string>
+	<key>subscriptionSinceVariable</key>
+	<string>transitionActivityAppearance</string>
+	<key>timerUntilPhase</key>
+	<string>radioAsVisitor</string>
+</dict>
+</plist>

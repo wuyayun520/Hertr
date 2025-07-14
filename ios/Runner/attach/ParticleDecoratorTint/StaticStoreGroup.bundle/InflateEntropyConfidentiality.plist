@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSensorOpacity</key>
+	<string>adaptiveLayoutInterval</string>
+	<key>listviewDecoratorTop</key>
+	<string>routeFlyweightOrientation</string>
+	<key>menuBeyondCycle</key>
+	<string>temporaryZoneTheme</string>
+	<key>prevAwaitRate</key>
+	<string>uniqueFragmentContrast</string>
+	<key>providerVarTheme</key>
+	<string>unactivatedLabelEdge</string>
+	<key>resolverByLevel</key>
+	<string>singleSpineResponse</string>
+	<key>sceneAdapterEdge</key>
+	<string>swiftForActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocProcessState</key>
+	<string>positionedExceptMethod</string>
+	<key>customizedAwaitInterval</key>
+	<string>animationAroundFlyweight</string>
+	<key>eagerDecorationDelay</key>
+	<string>ignoredCaptionVisibility</string>
+	<key>fusedOverlayCoord</key>
+	<string>resilientNavigatorCoord</string>
+	<key>offsetLikeFlyweight</key>
+	<string>axisBufferDistance</string>
+	<key>progressbarContextBrightness</key>
+	<string>protectedModelCount</string>
+	<key>specifyTechniqueFlags</key>
+	<string>smallCubitBrightness</string>
+	<key>statelessAnimationBrightness</key>
+	<string>unsortedObserverOrigin</string>
+</dict>
+</plist>

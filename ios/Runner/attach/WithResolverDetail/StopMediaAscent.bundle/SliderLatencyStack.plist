@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerDespiteDecorator</key>
+	<string>asynchronousCurveDelay</string>
+	<key>configurationModeFlags</key>
+	<string>channelsDuringPhase</string>
+	<key>constraintBufferTop</key>
+	<string>indicatorModeForce</string>
+	<key>disparateCompletionBottom</key>
+	<string>curveLevelBehavior</string>
+	<key>globalGraphicColor</key>
+	<string>delegateAwayCommand</string>
+	<key>rowCycleShape</key>
+	<string>adaptiveNibHue</string>
+	<key>similarNotificationSkewy</key>
+	<string>convolutionLevelSaturation</string>
+	<key>stateOfTask</key>
+	<string>globalControllerLocation</string>
+	<key>storeInsideMode</key>
+	<string>multiplicationDuringTier</string>
+</dict>
+</plist>

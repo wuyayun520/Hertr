@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderUntilPrototype</key>
+	<string>globalIndicatorStyle</string>
+	<key>equalizationExceptFramework</key>
+	<string>factoryInsideActivity</string>
+	<key>gradientParamKind</key>
+	<string>usecaseInKind</string>
+	<key>granularResourceDistance</key>
+	<string>statefulIncludeType</string>
+	<key>integerFrameworkMargin</key>
+	<string>directlyCompletionPosition</string>
+	<key>nativeSubscriptionHead</key>
+	<string>composableCubeVisible</string>
+</dict>
+</plist>

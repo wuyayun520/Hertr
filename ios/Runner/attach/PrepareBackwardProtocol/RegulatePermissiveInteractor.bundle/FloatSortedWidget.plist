@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitCompositeBehavior</key>
+	<string>materialArithmeticDistance</string>
+	<key>capsuleDespiteType</key>
+	<string>frameInsideChain</string>
+	<key>flexOrPrototype</key>
+	<string>richtextShapeSkewy</string>
+	<key>gramVersusStage</key>
+	<string>reusableBaselineTheme</string>
+	<key>keyCompleterLocation</key>
+	<string>beginnerExceptionStatus</string>
+	<key>mobxIncludeVisitor</key>
+	<string>presenterAdapterBottom</string>
+	<key>paddingBufferName</key>
+	<string>assetWithoutStage</string>
+	<key>playbackInDecorator</key>
+	<string>animationOutsideTier</string>
+	<key>specifierAndChain</key>
+	<string>durationMementoCoord</string>
+</dict>
+</plist>

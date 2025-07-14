@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSkinInset</key>
+	<string>textureViaInterpreter</string>
+	<key>cursorTierType</key>
+	<string>normForCommand</string>
+	<key>curveFrameworkTail</key>
+	<string>scrollAndMediator</string>
+	<key>dynamicSineInset</key>
+	<string>hashInsideSingleton</string>
+	<key>logUntilStructure</key>
+	<string>queueAboutMethod</string>
+	<key>projectionOutsideParameter</key>
+	<string>reducerTaskRate</string>
+	<key>secondCycleVisibility</key>
+	<string>synchronousSizedboxPressure</string>
+	<key>spotFromNumber</key>
+	<string>significantMetadataAcceleration</string>
+	<key>timerSystemTop</key>
+	<string>profileTempleOpacity</string>
+</dict>
+</plist>

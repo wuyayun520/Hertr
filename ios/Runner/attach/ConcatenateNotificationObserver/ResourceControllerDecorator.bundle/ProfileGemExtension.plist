@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredSubscriptionFormat</key>
+	<string>screenAroundLayer</string>
+	<key>ignoredPresenterDistance</key>
+	<string>nextPopupCenter</string>
+	<key>mediaqueryOutsideCommand</key>
+	<string>navigatorDuringTier</string>
+	<key>nextScaffoldSaturation</key>
+	<string>resilientSinkColor</string>
+	<key>pinchableStorageTransparency</key>
+	<string>decorationBridgeCenter</string>
+	<key>popupFromJob</key>
+	<string>mediaAndDecorator</string>
+	<key>roleAwayFunction</key>
+	<string>fusedSwitchHead</string>
+	<key>topicParamState</key>
+	<string>navigatorFromWork</string>
+</dict>
+</plist>

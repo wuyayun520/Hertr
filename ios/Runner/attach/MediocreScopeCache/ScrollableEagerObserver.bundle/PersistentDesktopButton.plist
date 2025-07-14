@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableProviderBehavior</key>
+	<string>intensityAboutLevel</string>
+	<key>dynamicRadioOpacity</key>
+	<string>loopByParam</string>
+	<key>masterSingletonAlignment</key>
+	<string>firstRolePadding</string>
+	<key>mobilePlatformFlags</key>
+	<string>mobxNearWork</string>
+	<key>mobileStructureTransparency</key>
+	<string>capacitiesForOperation</string>
+</dict>
+</plist>

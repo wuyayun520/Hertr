@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetOrType</key>
+	<string>chapterAsVisitor</string>
+	<key>composableTangentBorder</key>
+	<string>appbarBufferRotation</string>
+	<key>descriptionExceptChain</key>
+	<string>prismaticCubitFormat</string>
+	<key>rapidWidgetFeedback</key>
+	<string>sharedRadioSpeed</string>
+	<key>uniformCheckboxInterval</key>
+	<string>sizeAdapterCenter</string>
+</dict>
+</plist>

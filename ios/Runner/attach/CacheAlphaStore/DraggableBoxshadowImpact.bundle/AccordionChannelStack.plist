@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gemStageTheme</key>
+	<string>appbarDecoratorAcceleration</string>
+	<key>layerNumberFlags</key>
+	<string>typicalExceptionSkewx</string>
+	<key>nativeBuilderIndex</key>
+	<string>storyboardSingletonSkewy</string>
+	<key>normalStatelessBehavior</key>
+	<string>segmentIncludeFramework</string>
+	<key>primaryConstraintBorder</key>
+	<string>respectiveObserverRight</string>
+	<key>semanticMonsterDirection</key>
+	<string>nativeListviewBehavior</string>
+	<key>sessionOutsideSystem</key>
+	<string>textureOperationShade</string>
+	<key>themeBeyondParam</key>
+	<string>progressbarPhaseShape</string>
+</dict>
+</plist>

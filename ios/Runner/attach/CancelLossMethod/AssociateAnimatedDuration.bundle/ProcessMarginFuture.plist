@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedNibBound</key>
+	<string>prismaticFactoryBorder</string>
+	<key>controllerActionOffset</key>
+	<string>containerTaskRight</string>
+	<key>documentFlyweightAcceleration</key>
+	<string>retainedMediaTop</string>
+	<key>imageScopeDuration</key>
+	<string>metadataOfForm</string>
+	<key>mutablePresenterShape</key>
+	<string>cubitForMediator</string>
+	<key>rowKindTheme</key>
+	<string>lastInjectionInteraction</string>
+</dict>
+</plist>

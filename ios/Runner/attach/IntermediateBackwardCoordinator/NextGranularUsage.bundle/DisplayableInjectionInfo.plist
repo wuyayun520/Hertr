@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletAroundFramework</key>
+	<string>consultativeTransitionBound</string>
+	<key>completerExceptSingleton</key>
+	<string>smartCursorBehavior</string>
+	<key>intensityFrameworkName</key>
+	<string>animationContainLayer</string>
+	<key>priorConsumerFeedback</key>
+	<string>respectiveRadiusStyle</string>
+	<key>resilientAllocatorTint</key>
+	<string>actionThanCycle</string>
+	<key>resizableSingletonEdge</key>
+	<string>channelsLayerType</string>
+	<key>scaleFromBuffer</key>
+	<string>assetParameterShape</string>
+	<key>viewPhaseHue</key>
+	<string>accordionFeatureSize</string>
+</dict>
+</plist>

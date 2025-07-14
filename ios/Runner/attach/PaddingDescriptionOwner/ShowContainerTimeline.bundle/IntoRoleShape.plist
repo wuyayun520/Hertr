@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferNumberInterval</key>
+	<string>logarithmObserverTop</string>
+	<key>globalPresenterKind</key>
+	<string>viewShapeSkewx</string>
+	<key>instructionCompositeSkewx</key>
+	<string>logarithmAsKind</string>
+	<key>parallelCoordinatorColor</key>
+	<string>disabledIndicatorDelay</string>
+</dict>
+</plist>

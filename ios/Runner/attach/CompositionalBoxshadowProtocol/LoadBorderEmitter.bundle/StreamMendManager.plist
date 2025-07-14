@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMarginValidation</key>
+	<string>gridMediatorDepth</string>
+	<key>awaitForStrategy</key>
+	<string>draggableTextureDistance</string>
+	<key>intuitiveAllocatorFlags</key>
+	<string>axisLikeFunction</string>
+	<key>lostListviewBehavior</key>
+	<string>responseCompositeStyle</string>
+	<key>mainEffectRight</key>
+	<string>semanticsSystemTheme</string>
+	<key>nodeStrategyAcceleration</key>
+	<string>exceptionBufferState</string>
+	<key>positionAmongSingleton</key>
+	<string>sliderKindScale</string>
+	<key>sustainableMobxOrigin</key>
+	<string>constraintCompositeLocation</string>
+	<key>utilAroundInterpreter</key>
+	<string>optimizerVersusTier</string>
+</dict>
+</plist>

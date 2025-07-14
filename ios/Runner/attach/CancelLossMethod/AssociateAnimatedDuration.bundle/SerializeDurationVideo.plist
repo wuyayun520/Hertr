@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticExceptShape</key>
+	<string>giftBridgeSpacing</string>
+	<key>customEffectMargin</key>
+	<string>giftOutsideLevel</string>
+	<key>intensityContainBuffer</key>
+	<string>mainDecorationShade</string>
+	<key>interpolationDecoratorSpeed</key>
+	<string>memberBeyondNumber</string>
+	<key>parallelInterfaceDensity</key>
+	<string>profileFunctionBehavior</string>
+	<key>scaleForMode</key>
+	<string>dialogsIncludeScope</string>
+</dict>
+</plist>

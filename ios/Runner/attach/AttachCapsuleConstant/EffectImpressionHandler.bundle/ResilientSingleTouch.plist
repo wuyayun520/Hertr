@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientOutsideVisitor</key>
+	<string>monsterOrParameter</string>
+	<key>inheritedInteractorMode</key>
+	<string>labelTypeSkewx</string>
+	<key>iterativeChallengeMargin</key>
+	<string>cellExceptOperation</string>
+	<key>nextProjectTheme</key>
+	<string>stackInsideParam</string>
+	<key>presenterVariableLocation</key>
+	<string>easyApertureInset</string>
+	<key>semanticSignatureShade</key>
+	<string>euclideanBaseAlignment</string>
+</dict>
+</plist>

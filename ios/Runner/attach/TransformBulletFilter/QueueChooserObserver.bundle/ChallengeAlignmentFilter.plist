@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoProfileBrightness</key>
+	<string>popupSystemOffset</string>
+	<key>builderDecoratorOffset</key>
+	<string>controllerMementoTint</string>
+	<key>fragmentAndSystem</key>
+	<string>ephemeralPlateBottom</string>
+	<key>mobileControllerMargin</key>
+	<string>borderContainWork</string>
+	<key>nodeStageInset</key>
+	<string>disabledSkirtInset</string>
+	<key>roleAtPrototype</key>
+	<string>coordinatorWorkPressure</string>
+	<key>sophisticatedEffectTop</key>
+	<string>sceneBufferStatus</string>
+</dict>
+</plist>

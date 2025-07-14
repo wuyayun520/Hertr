@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyPerPattern</key>
+	<string>secondTitleBound</string>
+	<key>flexibleTaskBorder</key>
+	<string>draggableExceptionShade</string>
+	<key>hardTextBottom</key>
+	<string>baseVariableRight</string>
+	<key>labelAboutAction</key>
+	<string>adaptiveSessionBrightness</string>
+	<key>loopIncludeShape</key>
+	<string>completionProcessDepth</string>
+	<key>presenterInsideSingleton</key>
+	<string>gestureInsideBuffer</string>
+	<key>responsiveRadiusBottom</key>
+	<string>resizableTransitionBorder</string>
+	<key>routerIncludeShape</key>
+	<string>spotBeyondPattern</string>
+	<key>subsequentStackAppearance</key>
+	<string>sliderSingletonTop</string>
+</dict>
+</plist>

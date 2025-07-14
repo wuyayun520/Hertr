@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerPopupFrequency</key>
+	<string>similarDrawerScale</string>
+	<key>commandStrategyAppearance</key>
+	<string>protectedStampDistance</string>
+	<key>mediaqueryFlyweightVisible</key>
+	<string>multiEffectVisible</string>
+	<key>pageviewFormShape</key>
+	<string>temporaryDurationSkewx</string>
+	<key>positionVersusFlyweight</key>
+	<string>activatedAsyncMode</string>
+	<key>protocolInPhase</key>
+	<string>queryForTask</string>
+	<key>resolverTierKind</key>
+	<string>tabviewBeyondStructure</string>
+	<key>sliderViaStrategy</key>
+	<string>oldNotifierOffset</string>
+	<key>textTaskFormat</key>
+	<string>timerLikeInterpreter</string>
+</dict>
+</plist>

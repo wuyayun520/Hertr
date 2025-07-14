@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionLikeContext</key>
+	<string>threadMediatorInset</string>
+	<key>binaryActivityVisibility</key>
+	<string>vectorShapeVisibility</string>
+	<key>callbackStateVisible</key>
+	<string>promiseForFunction</string>
+	<key>denseBlocSaturation</key>
+	<string>durationVariableBrightness</string>
+	<key>textureFunctionType</key>
+	<string>tappableChartPadding</string>
+</dict>
+</plist>

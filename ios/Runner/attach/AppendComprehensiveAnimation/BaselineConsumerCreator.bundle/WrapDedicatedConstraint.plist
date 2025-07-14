@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationAsContext</key>
+	<string>tabviewTypeBorder</string>
+	<key>inheritedTitleAppearance</key>
+	<string>commandOutsideShape</string>
+	<key>intermediateRouterMargin</key>
+	<string>grainWithTier</string>
+	<key>newestSpineInteraction</key>
+	<string>sizeNumberOrientation</string>
+	<key>plateAndParameter</key>
+	<string>zonePatternMomentum</string>
+	<key>positionInFacade</key>
+	<string>boxBufferHue</string>
+	<key>stateAsProxy</key>
+	<string>mediaDecoratorOffset</string>
+	<key>tabviewVarOpacity</key>
+	<string>movementChainBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystTaskStyle</key>
+	<string>reducerFunctionRotation</string>
+	<key>equalizationJobOrientation</key>
+	<string>constMultiplicationTag</string>
+	<key>staticTopicFormat</key>
+	<string>channelsViaTask</string>
+	<key>textBridgeStyle</key>
+	<string>statefulIntegerMomentum</string>
+</dict>
+</plist>

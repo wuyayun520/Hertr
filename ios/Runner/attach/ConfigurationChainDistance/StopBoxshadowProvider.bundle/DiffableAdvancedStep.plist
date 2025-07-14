@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushPatternLeft</key>
+	<string>metadataTierSpeed</string>
+	<key>decorationAndMethod</key>
+	<string>screenAboutPhase</string>
+	<key>layerKindResponse</key>
+	<string>topicByContext</string>
+</dict>
+</plist>

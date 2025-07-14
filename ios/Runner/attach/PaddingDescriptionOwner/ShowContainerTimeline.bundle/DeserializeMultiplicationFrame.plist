@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxAwaySystem</key>
+	<string>greatCubeTheme</string>
+	<key>missionForScope</key>
+	<string>sliderTaskVelocity</string>
+	<key>queueTaskPosition</key>
+	<string>currentRichtextTail</string>
+	<key>standaloneSkinInterval</key>
+	<string>curveParamDirection</string>
+</dict>
+</plist>

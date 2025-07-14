@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferBridgeSkewy</key>
+	<string>tappableBaselineDelay</string>
+	<key>cosineAlongSingleton</key>
+	<string>originalBaselineInterval</string>
+	<key>decorationByInterpreter</key>
+	<string>requiredSignaturePadding</string>
+	<key>entropyAgainstPattern</key>
+	<string>unsortedDescriptorResponse</string>
+	<key>methodObserverCount</key>
+	<string>otherSpecifierState</string>
+	<key>richtextLevelIndex</key>
+	<string>commonMediaMomentum</string>
+	<key>sceneOrPhase</key>
+	<string>otherAnimationVisibility</string>
+	<key>timerPrototypeVelocity</key>
+	<string>displayableButtonForce</string>
+	<key>viewEnvironmentTension</key>
+	<string>usageOutsideLevel</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gramContextBound</key>
+	<string>indicatorContainParameter</string>
+	<key>listenerPhaseTransparency</key>
+	<string>delegatePerNumber</string>
+	<key>originalTickerMode</key>
+	<string>awaitInMethod</string>
+	<key>subsequentSpineShape</key>
+	<string>mediocreTextureAcceleration</string>
+	<key>taskInsideFramework</key>
+	<string>intensityVarMargin</string>
+</dict>
+</plist>

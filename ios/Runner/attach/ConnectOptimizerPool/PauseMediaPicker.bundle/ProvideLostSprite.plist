@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoEventInterval</key>
+	<string>alignmentWorkSkewx</string>
+	<key>capsuleAlongLayer</key>
+	<string>captionBufferDuration</string>
+	<key>captionInFramework</key>
+	<string>interactorThroughValue</string>
+	<key>eagerCellInteraction</key>
+	<string>riverpodSinceCycle</string>
+	<key>ignoredCurveInset</key>
+	<string>modalAmongProxy</string>
+	<key>interpolationWithoutActivity</key>
+	<string>coordinatorVarDelay</string>
+	<key>popupLikeVariable</key>
+	<string>brushSinceTask</string>
+	<key>screenVarValidation</key>
+	<string>secondMatrixRate</string>
+</dict>
+</plist>

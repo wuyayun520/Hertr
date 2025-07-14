@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDelegateInteraction</key>
+	<string>positionedDespiteShape</string>
+	<key>musicIncludeAdapter</key>
+	<string>widgetBesideLayer</string>
+	<key>reusableBulletAppearance</key>
+	<string>resourceDecoratorSpeed</string>
+	<key>singleCosineInteraction</key>
+	<string>tappableAssetDirection</string>
+	<key>streamLevelPosition</key>
+	<string>layoutScopeStatus</string>
+	<key>usecaseParamSaturation</key>
+	<string>priorTangentForce</string>
+</dict>
+</plist>

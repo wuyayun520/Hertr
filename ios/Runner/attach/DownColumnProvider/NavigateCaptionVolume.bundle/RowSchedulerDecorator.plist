@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorEnvironmentInteraction</key>
+	<string>asyncAssetHue</string>
+	<key>behaviorAgainstAdapter</key>
+	<string>staticTransformerForce</string>
+	<key>callbackCycleDirection</key>
+	<string>allocatorStrategyFrequency</string>
+	<key>cardViaJob</key>
+	<string>lostGraphVelocity</string>
+	<key>hyperbolicCustompaintTransparency</key>
+	<string>controllerCompositeFlags</string>
+	<key>optimizerOutsideShape</key>
+	<string>permissiveTextureDirection</string>
+</dict>
+</plist>

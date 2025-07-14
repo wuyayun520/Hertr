@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPointRate</key>
+	<string>routerPhaseVelocity</string>
+	<key>entityOutsideEnvironment</key>
+	<string>equipmentLayerCenter</string>
+	<key>graphLevelValidation</key>
+	<string>sustainableAnimationIndex</string>
+	<key>sampleForShape</key>
+	<string>diffableProjectPosition</string>
+	<key>statePlatformTheme</key>
+	<string>rowVisitorTag</string>
+	<key>statelessSegmentSkewx</key>
+	<string>immediateRouteResponse</string>
+	<key>uniqueEntityTransparency</key>
+	<string>hashAlongPlatform</string>
+</dict>
+</plist>

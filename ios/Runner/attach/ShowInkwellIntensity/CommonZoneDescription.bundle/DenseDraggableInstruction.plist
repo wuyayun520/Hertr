@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncRouterSaturation</key>
+	<string>sustainableIntensityMode</string>
+	<key>decorationEnvironmentSpacing</key>
+	<string>appbarPhaseSkewy</string>
+	<key>inheritedCupertinoFlags</key>
+	<string>switchVariableBottom</string>
+	<key>opaqueSingletonResponse</key>
+	<string>actionVarScale</string>
+	<key>secondStorageAcceleration</key>
+	<string>featureMethodRate</string>
+	<key>sliderNearLevel</key>
+	<string>seamlessMethodBrightness</string>
+	<key>viewStyleScale</key>
+	<string>directlyProfileEdge</string>
+</dict>
+</plist>

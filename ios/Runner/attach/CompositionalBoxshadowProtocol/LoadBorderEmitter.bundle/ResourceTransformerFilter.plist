@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerScopeFormat</key>
+	<string>dropdownbuttonBesideStyle</string>
+	<key>functionalSizedboxIndex</key>
+	<string>dimensionStrategyResponse</string>
+	<key>globalEffectBehavior</key>
+	<string>granularMatrixFeedback</string>
+	<key>profileContainSingleton</key>
+	<string>touchAlongStage</string>
+	<key>radioStageFormat</key>
+	<string>navigatorVisitorPressure</string>
+	<key>respectiveTableTint</key>
+	<string>usedDependencyTop</string>
+	<key>slashSingletonDelay</key>
+	<string>symmetricLabelCoord</string>
+	<key>standaloneOperationDelay</key>
+	<string>unsortedFeatureCoord</string>
+</dict>
+</plist>

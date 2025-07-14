@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsAsSingleton</key>
+	<string>liteNormValidation</string>
+	<key>effectParamVisibility</key>
+	<string>textureForComposite</string>
+	<key>mobileLayerState</key>
+	<string>mainChapterPadding</string>
+	<key>newestStampSkewy</key>
+	<string>agileEqualizationFrequency</string>
+	<key>previewJobFlags</key>
+	<string>sessionChainRate</string>
+</dict>
+</plist>

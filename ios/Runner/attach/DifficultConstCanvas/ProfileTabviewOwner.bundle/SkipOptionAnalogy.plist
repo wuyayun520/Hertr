@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorAroundChain</key>
+	<string>priorityByForm</string>
+	<key>fragmentUntilState</key>
+	<string>tangentVersusForm</string>
+	<key>responsiveRequestPosition</key>
+	<string>inactiveSpecifierPressure</string>
+	<key>scrollAwayCycle</key>
+	<string>ephemeralBoxshadowFlags</string>
+</dict>
+</plist>

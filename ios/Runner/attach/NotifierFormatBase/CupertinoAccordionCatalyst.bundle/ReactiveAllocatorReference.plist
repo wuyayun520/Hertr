@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertCompositeDirection</key>
+	<string>asyncMaterialAlignment</string>
+	<key>blocWorkAlignment</key>
+	<string>requestWithoutObserver</string>
+	<key>cacheFormName</key>
+	<string>desktopWidgetName</string>
+	<key>expandedCycleColor</key>
+	<string>scrollableNavigatorName</string>
+	<key>extensionVisitorTop</key>
+	<string>mobxBeyondPhase</string>
+	<key>resourceWorkInset</key>
+	<string>imageIncludeStrategy</string>
+	<key>sceneThanLayer</key>
+	<string>interpolationFrameworkTag</string>
+	<key>sensorOrValue</key>
+	<string>completerWithPhase</string>
+</dict>
+</plist>

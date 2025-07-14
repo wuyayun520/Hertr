@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackMethodSkewx</key>
+	<string>queryStateDirection</string>
+	<key>decorationNearKind</key>
+	<string>alertOperationCount</string>
+	<key>firstSinkScale</key>
+	<string>behaviorEnvironmentStyle</string>
+	<key>isolateUntilValue</key>
+	<string>queueNearInterpreter</string>
+	<key>modelByShape</key>
+	<string>sessionSystemTransparency</string>
+	<key>pageviewNearCommand</key>
+	<string>euclideanModalTop</string>
+	<key>playbackJobEdge</key>
+	<string>crucialTextMargin</string>
+	<key>segueWithSystem</key>
+	<string>reducerAndVariable</string>
+	<key>sinkUntilScope</key>
+	<string>lastServiceOffset</string>
+	<key>sliderFlyweightDirection</key>
+	<string>responseTierOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionVarHue</key>
+	<string>gradientAmongAction</string>
+	<key>constraintIncludeObserver</key>
+	<string>eagerButtonSaturation</string>
+	<key>containerModeShade</key>
+	<string>constraintPhaseHead</string>
+	<key>cupertinoSingletonMomentum</key>
+	<string>concreteDurationBehavior</string>
+	<key>deferredRadiusFlags</key>
+	<string>apertureFromPattern</string>
+	<key>exceptionAboutAdapter</key>
+	<string>declarativeFactoryMode</string>
+	<key>fixedCharacterResponse</key>
+	<string>optimizerAndFacade</string>
+	<key>progressbarBesideObserver</key>
+	<string>temporaryFrameVisible</string>
+</dict>
+</plist>

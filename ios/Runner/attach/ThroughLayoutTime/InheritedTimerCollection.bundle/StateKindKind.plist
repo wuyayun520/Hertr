@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheLayerCount</key>
+	<string>newestEntityBound</string>
+	<key>cycleDecoratorMargin</key>
+	<string>handlerTypeLeft</string>
+	<key>discardedWidgetVisibility</key>
+	<string>ignoredTickerCount</string>
+	<key>invisibleFlexAlignment</key>
+	<string>eagerRowInset</string>
+	<key>multiStoreSkewy</key>
+	<string>delegateInsideScope</string>
+	<key>projectBridgeTheme</key>
+	<string>basicPositionedSpacing</string>
+	<key>vectorLikeContext</key>
+	<string>viewActionName</string>
+	<key>widgetOrFacade</key>
+	<string>chartExceptTier</string>
+	<key>zoneEnvironmentHead</key>
+	<string>expandedFromAdapter</string>
+</dict>
+</plist>

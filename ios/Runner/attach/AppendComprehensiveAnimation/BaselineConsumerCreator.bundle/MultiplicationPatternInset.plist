@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsExceptStrategy</key>
+	<string>resizableBlocPadding</string>
+	<key>curveDespiteStage</key>
+	<string>movementStateAcceleration</string>
+	<key>gridviewFlyweightLeft</key>
+	<string>collectionDecoratorHead</string>
+	<key>lostMarginLocation</key>
+	<string>errorOutsideScope</string>
+	<key>rowActivityTail</key>
+	<string>labelOutsideAdapter</string>
+	<key>statefulThanLevel</key>
+	<string>taskContextBound</string>
+	<key>storePhaseRight</key>
+	<string>unsortedHandlerPressure</string>
+</dict>
+</plist>

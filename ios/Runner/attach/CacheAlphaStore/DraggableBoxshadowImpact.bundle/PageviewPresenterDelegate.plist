@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateAgainstStructure</key>
+	<string>requiredChallengeOffset</string>
+	<key>coordinatorOrStage</key>
+	<string>mediumProjectDensity</string>
+	<key>gestureLikeState</key>
+	<string>reductionTierColor</string>
+	<key>interactiveMaterialMode</key>
+	<string>buttonModeOpacity</string>
+	<key>rectLikeOperation</key>
+	<string>entropyOperationHead</string>
+	<key>sizedboxVisitorBorder</key>
+	<string>listviewCycleFrequency</string>
+	<key>storeContextBorder</key>
+	<string>agileDescriptorEdge</string>
+</dict>
+</plist>

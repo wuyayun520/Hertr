@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionAmongStyle</key>
+	<string>constResourceFeedback</string>
+	<key>getxAboutState</key>
+	<string>usecaseThroughStrategy</string>
+	<key>grayscaleFunctionCenter</key>
+	<string>asyncAndProxy</string>
+	<key>listenerBufferValidation</key>
+	<string>boxshadowOutsideMode</string>
+	<key>normalEffectEdge</key>
+	<string>flexibleResultShape</string>
+	<key>spriteLevelTransparency</key>
+	<string>reusableApertureValidation</string>
+	<key>textureStructureOrigin</key>
+	<string>overlayPhaseFormat</string>
+</dict>
+</plist>

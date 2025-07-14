@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeStructureRate</key>
+	<string>inactiveTabviewInset</string>
+	<key>containerExceptForm</key>
+	<string>semanticsCycleVisible</string>
+	<key>dependencyStructureAcceleration</key>
+	<string>currentInteractorType</string>
+	<key>fragmentOutsideValue</key>
+	<string>animationInterpreterValidation</string>
+	<key>methodFlyweightRotation</key>
+	<string>commonViewOrigin</string>
+	<key>positionVisitorHue</key>
+	<string>sensorLikeAdapter</string>
+	<key>tweenFromKind</key>
+	<string>resourceTypeBottom</string>
+</dict>
+</plist>

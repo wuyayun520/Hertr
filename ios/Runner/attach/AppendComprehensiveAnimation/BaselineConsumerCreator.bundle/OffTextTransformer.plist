@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryFormDepth</key>
+	<string>semanticProviderTransparency</string>
+	<key>modelAgainstContext</key>
+	<string>animatedModulusRotation</string>
+	<key>multiTabbarDensity</key>
+	<string>eventKindState</string>
+	<key>storeForComposite</key>
+	<string>mainPresenterTransparency</string>
+	<key>transitionDecoratorName</key>
+	<string>appbarUntilStructure</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveResultName</key>
+	<string>secondReductionResponse</string>
+	<key>autoTransformerSkewy</key>
+	<string>clipperExceptDecorator</string>
+	<key>compositionalInterfaceInset</key>
+	<string>textStyleHue</string>
+	<key>descriptionAtEnvironment</key>
+	<string>captionJobName</string>
+	<key>featureCommandDistance</key>
+	<string>providerAlongMode</string>
+	<key>integerLayerName</key>
+	<string>memberPlatformOffset</string>
+	<key>textureWorkShape</key>
+	<string>modalPerParameter</string>
+</dict>
+</plist>

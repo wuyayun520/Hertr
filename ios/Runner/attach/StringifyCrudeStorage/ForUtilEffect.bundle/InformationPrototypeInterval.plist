@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCoordinatorValidation</key>
+	<string>alertFacadeKind</string>
+	<key>animatedcontainerActionMode</key>
+	<string>navigatorAroundAdapter</string>
+	<key>arithmeticResponseCoord</key>
+	<string>checklistActionFeedback</string>
+	<key>gramAndOperation</key>
+	<string>providerBridgeSkewx</string>
+	<key>mobxPatternLocation</key>
+	<string>blocAboutPhase</string>
+	<key>nibAmongLevel</key>
+	<string>reductionVarIndex</string>
+	<key>reductionOrTier</key>
+	<string>inheritedNavigatorDepth</string>
+	<key>retainedTweenBottom</key>
+	<string>activatedViewShape</string>
+</dict>
+</plist>

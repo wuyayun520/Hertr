@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>liteAsyncCount</key>
+	<string>resourceEnvironmentType</string>
+	<key>menuTierRotation</key>
+	<string>heroStrategyRotation</string>
+	<key>modelContainBuffer</key>
+	<string>concurrentAlertValidation</string>
+	<key>queryStateBound</key>
+	<string>secondProviderBound</string>
+	<key>secondSpotTail</key>
+	<string>bufferInWork</string>
+	<key>symbolActivityShade</key>
+	<string>apertureInterpreterOpacity</string>
+	<key>vectorShapeVisible</key>
+	<string>sliderContextPosition</string>
+</dict>
+</plist>

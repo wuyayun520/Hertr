@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateStrategyCoord</key>
+	<string>toolSystemDelay</string>
+	<key>delegateWithObserver</key>
+	<string>requiredPromiseDelay</string>
+	<key>dialogsUntilVisitor</key>
+	<string>activityBridgeFrequency</string>
+	<key>finalEventHead</key>
+	<string>borderOrLayer</string>
+	<key>globalScaleMode</key>
+	<string>mediaForPattern</string>
+	<key>lastContainerDuration</key>
+	<string>builderTypeLocation</string>
+	<key>modalIncludeParam</key>
+	<string>gemStrategyDistance</string>
+	<key>offsetLayerResponse</key>
+	<string>requestContainState</string>
+	<key>spriteParameterSize</key>
+	<string>topicAlongPattern</string>
+</dict>
+</plist>

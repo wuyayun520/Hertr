@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAtObserver</key>
+	<string>progressbarObserverSaturation</string>
+	<key>cosineOutsidePhase</key>
+	<string>coordinatorEnvironmentInterval</string>
+	<key>notificationFromActivity</key>
+	<string>independentChallengeBound</string>
+	<key>protectedHistogramLocation</key>
+	<string>storageWorkRotation</string>
+	<key>statefulSinkSaturation</key>
+	<string>hyperbolicTickerDirection</string>
+	<key>tweenWithoutKind</key>
+	<string>cosineValueDuration</string>
+</dict>
+</plist>

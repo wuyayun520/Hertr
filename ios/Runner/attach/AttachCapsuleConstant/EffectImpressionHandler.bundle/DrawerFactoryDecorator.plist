@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerDuringAction</key>
+	<string>flexibleGrayscaleInteraction</string>
+	<key>builderSystemFeedback</key>
+	<string>listenerShapeOrientation</string>
+	<key>completerVarFlags</key>
+	<string>nativeIsolateTag</string>
+	<key>controllerAndCommand</key>
+	<string>segueViaMode</string>
+	<key>customizedCharacterValidation</key>
+	<string>subtleIsolateBrightness</string>
+	<key>denseAnimationForce</key>
+	<string>boxFlyweightVelocity</string>
+	<key>routeDespiteCycle</key>
+	<string>widgetAwayAction</string>
+	<key>scaleAmongLevel</key>
+	<string>hyperbolicLogSaturation</string>
+</dict>
+</plist>

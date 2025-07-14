@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncZoneFormat</key>
+	<string>requiredErrorVelocity</string>
+	<key>popupOrBridge</key>
+	<string>sizeProxyInterval</string>
+	<key>seamlessStreamColor</key>
+	<string>sliderProcessTint</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainBufferOrientation</key>
+	<string>smallVariantBound</string>
+	<key>newestSemanticsForce</key>
+	<string>delegateStyleColor</string>
+	<key>sizeVisitorValidation</key>
+	<string>responsiveScrollStatus</string>
+	<key>transitionStateType</key>
+	<string>uniqueDurationFormat</string>
+</dict>
+</plist>

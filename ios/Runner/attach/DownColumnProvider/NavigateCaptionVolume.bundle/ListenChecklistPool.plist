@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleLoopSkewx</key>
+	<string>subscriptionFormDuration</string>
+	<key>alphaDuringMode</key>
+	<string>constraintTierOpacity</string>
+	<key>composableCubitTransparency</key>
+	<string>autoChapterEdge</string>
+	<key>hardResponseFrequency</key>
+	<string>entityStrategyFrequency</string>
+	<key>labelInterpreterRate</key>
+	<string>accordionExtensionVelocity</string>
+	<key>previewShapeHead</key>
+	<string>declarativeChapterForce</string>
+	<key>priorCupertinoOpacity</key>
+	<string>completionFunctionAppearance</string>
+	<key>roleAsMediator</key>
+	<string>movementSingletonFeedback</string>
+	<key>sessionLayerTension</key>
+	<string>ignoredLayoutTransparency</string>
+</dict>
+</plist>

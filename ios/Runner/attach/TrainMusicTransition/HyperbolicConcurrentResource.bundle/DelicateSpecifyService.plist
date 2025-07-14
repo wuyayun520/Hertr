@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCommandBehavior</key>
+	<string>sampleCycleRotation</string>
+	<key>cartesianIconName</key>
+	<string>layerOperationInset</string>
+	<key>isolateBufferTop</key>
+	<string>liteReducerSpeed</string>
+	<key>localLogBrightness</key>
+	<string>stackTypeIndex</string>
+	<key>nodeFunctionVisible</key>
+	<string>customTransformerKind</string>
+	<key>requiredStoreBottom</key>
+	<string>groupStatePadding</string>
+	<key>screenInProxy</key>
+	<string>navigatorCycleStatus</string>
+</dict>
+</plist>

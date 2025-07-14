@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>riverpodPrototypeLocation</key>
+	<string>progressbarNearActivity</string>
+	<key>screenTypeInteraction</key>
+	<string>dialogsVersusBridge</string>
+	<key>sinkWithProcess</key>
+	<string>persistentPainterSkewx</string>
+	<key>switchAmongEnvironment</key>
+	<string>independentNotificationDistance</string>
+	<key>unsortedPaddingPressure</key>
+	<string>touchAlongStage</string>
+</dict>
+</plist>

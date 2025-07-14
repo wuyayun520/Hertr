@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderActionTransparency</key>
+	<string>popupUntilShape</string>
+	<key>custompaintCycleFeedback</key>
+	<string>overlayAtState</string>
+	<key>descriptionUntilPattern</key>
+	<string>delegateBeyondParameter</string>
+	<key>movementDecoratorStatus</key>
+	<string>semanticStoragePosition</string>
+	<key>originalTransitionContrast</key>
+	<string>curveContainMode</string>
+	<key>reactiveActionStyle</key>
+	<string>sceneOfAction</string>
+	<key>usecaseAsLevel</key>
+	<string>routeStateBrightness</string>
+</dict>
+</plist>

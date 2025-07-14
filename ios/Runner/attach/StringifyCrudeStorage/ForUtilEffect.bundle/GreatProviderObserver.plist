@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitPerBuffer</key>
+	<string>methodSingletonEdge</string>
+	<key>cupertinoContainerAlignment</key>
+	<string>responseAndParameter</string>
+	<key>keyProtocolBehavior</key>
+	<string>eagerToolKind</string>
+	<key>positionNearEnvironment</key>
+	<string>playbackOperationVelocity</string>
+	<key>providerAroundFramework</key>
+	<string>customToolOpacity</string>
+	<key>semanticToolHue</key>
+	<string>matrixFormIndex</string>
+	<key>uniqueGraphHead</key>
+	<string>storyboardCycleMargin</string>
+</dict>
+</plist>

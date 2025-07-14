@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioPerPhase</key>
+	<string>alertLayerAppearance</string>
+	<key>containerObserverDirection</key>
+	<string>pinchableCapsuleDepth</string>
+	<key>cubitDuringInterpreter</key>
+	<string>hardStatefulBottom</string>
+	<key>injectionByVariable</key>
+	<string>skirtIncludeContext</string>
+	<key>notificationDespiteLevel</key>
+	<string>integerStyleShade</string>
+	<key>resourceExceptObserver</key>
+	<string>referenceThroughMode</string>
+	<key>sinkTaskVelocity</key>
+	<string>offsetCommandOpacity</string>
+	<key>viewStrategyOpacity</key>
+	<string>sortedRemainderOrientation</string>
+</dict>
+</plist>

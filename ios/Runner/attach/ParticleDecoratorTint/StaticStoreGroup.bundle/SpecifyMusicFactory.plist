@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateResourceValidation</key>
+	<string>usageAlongDecorator</string>
+	<key>missedImageBehavior</key>
+	<string>navigatorDuringFlyweight</string>
+	<key>protocolFromComposite</key>
+	<string>containerPerMemento</string>
+	<key>referenceAroundProcess</key>
+	<string>durationPatternBehavior</string>
+	<key>streamThroughAction</key>
+	<string>projectionTempleBehavior</string>
+</dict>
+</plist>

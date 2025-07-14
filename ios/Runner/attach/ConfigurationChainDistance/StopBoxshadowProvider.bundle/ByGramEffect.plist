@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferWorkTheme</key>
+	<string>switchNearValue</string>
+	<key>directlyProgressbarFrequency</key>
+	<string>decorationStageBorder</string>
+	<key>ephemeralNibOrientation</key>
+	<string>spineStrategySpacing</string>
+	<key>lazyBlocOffset</key>
+	<string>scrollableSkirtOrientation</string>
+	<key>subtleOffsetBrightness</key>
+	<string>widgetPlatformDepth</string>
+	<key>tweenProcessDepth</key>
+	<string>grainProxyType</string>
+</dict>
+</plist>

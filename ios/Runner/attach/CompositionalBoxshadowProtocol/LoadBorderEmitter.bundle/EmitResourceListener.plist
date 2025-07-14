@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerLayoutType</key>
+	<string>ternaryModeShade</string>
+	<key>customDurationIndex</key>
+	<string>queueAlongSingleton</string>
+	<key>methodInsideSingleton</key>
+	<string>effectOperationTransparency</string>
+	<key>mobxWorkKind</key>
+	<string>optimizerPerType</string>
+	<key>sampleFunctionMomentum</key>
+	<string>scrollableGridIndex</string>
+</dict>
+</plist>

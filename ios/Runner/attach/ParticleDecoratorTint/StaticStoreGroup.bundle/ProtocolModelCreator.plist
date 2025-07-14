@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationSystemCount</key>
+	<string>zoneOrDecorator</string>
+	<key>effectStageStyle</key>
+	<string>bulletWithFunction</string>
+	<key>fragmentFormTheme</key>
+	<string>overlayStrategyHue</string>
+	<key>lazyDurationAppearance</key>
+	<string>factoryProcessMomentum</string>
+	<key>routeActivitySkewy</key>
+	<string>momentumOutsideSingleton</string>
+</dict>
+</plist>

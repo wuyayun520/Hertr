@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constThemeLocation</key>
+	<string>appbarValueBottom</string>
+	<key>mediocreWorkflowType</key>
+	<string>intuitiveSkinFeedback</string>
+	<key>positionCycleState</key>
+	<string>hierarchicalExceptionTail</string>
+	<key>signatureProxySaturation</key>
+	<string>momentumForProxy</string>
+	<key>visiblePopupStyle</key>
+	<string>effectAsTask</string>
+</dict>
+</plist>

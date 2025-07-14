@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramAlongComposite</key>
+	<string>originalSizeDistance</string>
+	<key>pinchableDimensionHead</key>
+	<string>toolChainDirection</string>
+	<key>playbackAboutParam</key>
+	<string>behaviorAgainstScope</string>
+	<key>seamlessStatefulContrast</key>
+	<string>unsortedSkirtMode</string>
+</dict>
+</plist>

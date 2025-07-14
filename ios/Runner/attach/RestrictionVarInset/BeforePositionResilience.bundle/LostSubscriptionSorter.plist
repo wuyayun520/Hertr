@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartFrameworkVisible</key>
+	<string>animatedChannelMode</string>
+	<key>directlyOffsetDirection</key>
+	<string>taskNearStyle</string>
+	<key>mediumGraphFeedback</key>
+	<string>mediocreDropdownbuttonPressure</string>
+	<key>modelAdapterStatus</key>
+	<string>blocViaBuffer</string>
+	<key>playbackByEnvironment</key>
+	<string>autoAppbarTop</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderMethodContrast</key>
+	<string>similarDependencyDistance</string>
+	<key>missedMediaqueryInset</key>
+	<string>navigatorVarAppearance</string>
+	<key>remainderOrPlatform</key>
+	<string>serviceLayerBound</string>
+	<key>semanticAlertVelocity</key>
+	<string>scrollBridgeCount</string>
+	<key>singletonFromJob</key>
+	<string>singletonByPlatform</string>
+	<key>spriteBridgeMargin</key>
+	<string>descriptionModeDelay</string>
+	<key>tensorErrorBound</key>
+	<string>associatedCoordinatorSpeed</string>
+	<key>transitionDespiteCommand</key>
+	<string>metadataPerShape</string>
+</dict>
+</plist>

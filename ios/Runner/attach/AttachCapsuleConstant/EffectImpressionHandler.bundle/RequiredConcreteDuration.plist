@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityOutsideStrategy</key>
+	<string>delegateWithContext</string>
+	<key>mainGrainVelocity</key>
+	<string>similarRepositoryAcceleration</string>
+	<key>mobxThroughState</key>
+	<string>requiredIsolateShape</string>
+	<key>reductionForBuffer</key>
+	<string>rowVarSize</string>
+	<key>secondMaterialHue</key>
+	<string>optimizerInsideMode</string>
+	<key>sliderWithMediator</key>
+	<string>constraintDecoratorForce</string>
+	<key>topicWithoutStrategy</key>
+	<string>relationalTabviewScale</string>
+	<key>variantTierAcceleration</key>
+	<string>multiplicationFormVisible</string>
+	<key>vectorInsideTemple</key>
+	<string>temporaryPageviewAppearance</string>
+</dict>
+</plist>

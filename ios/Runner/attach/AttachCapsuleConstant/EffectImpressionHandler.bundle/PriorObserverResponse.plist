@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionStructureBrightness</key>
+	<string>opaqueStackSkewy</string>
+	<key>coordinatorForPlatform</key>
+	<string>vectorViaProxy</string>
+	<key>coordinatorFrameworkInset</key>
+	<string>multiActionCoord</string>
+	<key>injectionInsideAction</key>
+	<string>semanticGesturedetectorFrequency</string>
+	<key>layoutPerTemple</key>
+	<string>typicalTweenDepth</string>
+	<key>offsetContextFormat</key>
+	<string>durationNearState</string>
+	<key>prismaticCoordinatorVisibility</key>
+	<string>diversifiedCheckboxMode</string>
+	<key>publicClipperMomentum</key>
+	<string>clipperOrActivity</string>
+	<key>spriteOutsideContext</key>
+	<string>observerStageBottom</string>
+	<key>touchParamFlags</key>
+	<string>observerAndLevel</string>
+</dict>
+</plist>

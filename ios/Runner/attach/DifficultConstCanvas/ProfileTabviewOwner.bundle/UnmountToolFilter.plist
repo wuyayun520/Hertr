@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedTextRotation</key>
+	<string>operationForCycle</string>
+	<key>enabledAsyncVisibility</key>
+	<string>serviceIncludeSingleton</string>
+	<key>labelAroundBridge</key>
+	<string>layoutContainShape</string>
+	<key>mediocreMenuShape</key>
+	<string>navigatorOrTemple</string>
+	<key>oldCoordinatorBound</key>
+	<string>overlayStageOrientation</string>
+	<key>similarLabelBound</key>
+	<string>accordionLabelValidation</string>
+	<key>variantAtVar</key>
+	<string>responsiveOffsetTop</string>
+</dict>
+</plist>

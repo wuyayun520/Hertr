@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorOrForm</key>
+	<string>layoutVarStyle</string>
+	<key>matrixByType</key>
+	<string>collectionBeyondAction</string>
+	<key>nativeSessionTop</key>
+	<string>interactorProcessTheme</string>
+	<key>robustMovementHue</key>
+	<string>graphPlatformEdge</string>
+</dict>
+</plist>

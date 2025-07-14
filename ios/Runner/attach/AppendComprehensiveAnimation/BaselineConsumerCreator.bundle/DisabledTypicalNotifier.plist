@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterMethodTop</key>
+	<string>retainedTouchTop</string>
+	<key>compositionForTask</key>
+	<string>consumerOperationCoord</string>
+	<key>enabledSessionPressure</key>
+	<string>tabbarCompositeInteraction</string>
+	<key>marginFacadeCenter</key>
+	<string>scrollUntilParam</string>
+	<key>routeTierFlags</key>
+	<string>aspectFunctionSize</string>
+</dict>
+</plist>

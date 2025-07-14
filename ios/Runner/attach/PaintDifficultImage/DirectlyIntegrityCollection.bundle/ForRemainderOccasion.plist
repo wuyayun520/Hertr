@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicPositionedSpeed</key>
+	<string>criticalIndicatorPadding</string>
+	<key>checklistProxyVelocity</key>
+	<string>keyScreenVelocity</string>
+	<key>stateAsComposite</key>
+	<string>storageKindName</string>
+	<key>ternaryTypeInset</key>
+	<string>signDecoratorDistance</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionFlyweightMomentum</key>
+	<string>queryUntilComposite</string>
+	<key>missedSegueCenter</key>
+	<string>histogramBufferName</string>
+	<key>prevChecklistInterval</key>
+	<string>timerTypeAppearance</string>
+	<key>resourceShapeDensity</key>
+	<string>pointPerForm</string>
+	<key>streamPerInterpreter</key>
+	<string>nativeActionDirection</string>
+	<key>typicalCallbackValidation</key>
+	<string>primaryShaderMomentum</string>
+</dict>
+</plist>

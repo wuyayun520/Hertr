@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoGrainEdge</key>
+	<string>pointActivityDensity</string>
+	<key>checklistScopeInterval</key>
+	<string>customizedEqualizationShade</string>
+	<key>coordinatorStrategyVisible</key>
+	<string>mutableCacheDistance</string>
+	<key>iconScopePosition</key>
+	<string>imperativePainterInterval</string>
+	<key>transitionBeyondStrategy</key>
+	<string>usecaseInParameter</string>
+</dict>
+</plist>

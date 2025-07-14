@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureAndInterpreter</key>
+	<string>boxWithoutWork</string>
+	<key>observerCommandResponse</key>
+	<string>actionWorkInterval</string>
+	<key>symbolCommandBorder</key>
+	<string>usedTableLocation</string>
+	<key>symbolParamVisibility</key>
+	<string>constraintLikeFramework</string>
+</dict>
+</plist>

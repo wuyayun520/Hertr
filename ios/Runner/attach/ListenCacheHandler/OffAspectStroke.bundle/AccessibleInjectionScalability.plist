@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentRectOrigin</key>
+	<string>smallControllerPadding</string>
+	<key>entityWithoutStrategy</key>
+	<string>sharedCatalystDirection</string>
+	<key>gesturedetectorAtValue</key>
+	<string>adaptiveInjectionEdge</string>
+	<key>nodeWithoutFlyweight</key>
+	<string>reductionAtFacade</string>
+	<key>remainderChainSkewy</key>
+	<string>dynamicInkwellVisible</string>
+	<key>typicalSegueHue</key>
+	<string>directlyAsyncFormat</string>
+</dict>
+</plist>

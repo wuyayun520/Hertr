@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticNodeTag</key>
+	<string>elasticAnimationDelay</string>
+	<key>compositionAgainstFacade</key>
+	<string>featureActivityDistance</string>
+	<key>directlyTweenScale</key>
+	<string>singleLayerOrientation</string>
+	<key>factoryActionMomentum</key>
+	<string>momentumScopeBorder</string>
+	<key>interfaceCommandSkewx</key>
+	<string>equipmentAndParameter</string>
+	<key>invisibleDurationHead</key>
+	<string>webQuerySize</string>
+	<key>mobileDelegateDistance</key>
+	<string>cupertinoLoopHue</string>
+	<key>momentumBufferSpeed</key>
+	<string>roleAdapterBrightness</string>
+	<key>reductionValueSpeed</key>
+	<string>drawerLevelTheme</string>
+	<key>standaloneGrainKind</key>
+	<string>animatedGridviewColor</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveStateStyle</key>
+	<string>modulusProxyLeft</string>
+	<key>eventNearPrototype</key>
+	<string>observerThroughSystem</string>
+	<key>gestureForAction</key>
+	<string>bufferUntilFunction</string>
+	<key>labelCycleContrast</key>
+	<string>positionedLayerMode</string>
+	<key>subscriptionProcessTop</key>
+	<string>shaderUntilEnvironment</string>
+</dict>
+</plist>

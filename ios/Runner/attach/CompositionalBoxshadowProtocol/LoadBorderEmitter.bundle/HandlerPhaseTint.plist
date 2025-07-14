@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gramAndParam</key>
+	<string>advancedSwiftFlags</string>
+	<key>localizationChainDensity</key>
+	<string>permissiveActionRight</string>
+	<key>localizationOutsideFacade</key>
+	<string>constraintVarShade</string>
+	<key>masterPerMode</key>
+	<string>animationViaFlyweight</string>
+	<key>multiStatelessOpacity</key>
+	<string>commandForFlyweight</string>
+	<key>nativeSceneState</key>
+	<string>delegateActivityType</string>
+	<key>storageUntilTier</key>
+	<string>allocatorThanStyle</string>
+</dict>
+</plist>

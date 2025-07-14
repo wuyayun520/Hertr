@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableLossBehavior</key>
+	<string>apertureShapeLocation</string>
+	<key>layoutVarDistance</key>
+	<string>intermediateModulusPadding</string>
+	<key>precisionValueName</key>
+	<string>isolateBeyondMemento</string>
+	<key>techniqueThroughOperation</key>
+	<string>customizedAnchorLeft</string>
+	<key>threadStateInterval</key>
+	<string>resilientTweenFlags</string>
+</dict>
+</plist>

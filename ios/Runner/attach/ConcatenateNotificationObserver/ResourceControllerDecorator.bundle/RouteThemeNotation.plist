@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAdapterInteraction</key>
+	<string>layerJobShape</string>
+	<key>cacheLayerOffset</key>
+	<string>sliderShapeIndex</string>
+	<key>delegateCommandStatus</key>
+	<string>interactorInVariable</string>
+	<key>modulusTierDensity</key>
+	<string>signAwayType</string>
+	<key>repositoryVarRotation</key>
+	<string>tappableCanvasDelay</string>
+	<key>similarTextFlags</key>
+	<string>declarativeConstraintOrigin</string>
+	<key>smallRepositoryOrigin</key>
+	<string>prismaticUsageVisibility</string>
+	<key>tabbarViaStyle</key>
+	<string>zoneValueBehavior</string>
+	<key>tappableMobileMode</key>
+	<string>semanticDurationStatus</string>
+</dict>
+</plist>

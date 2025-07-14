@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSessionBound</key>
+	<string>constraintOrCommand</string>
+	<key>documentFacadeCenter</key>
+	<string>checklistAmongState</string>
+	<key>errorUntilState</key>
+	<string>queryVisitorTop</string>
+	<key>rapidEntityBottom</key>
+	<string>consultativeCycleAppearance</string>
+	<key>routePatternAlignment</key>
+	<string>webNibDirection</string>
+	<key>semanticUsecaseRotation</key>
+	<string>scaleProcessOpacity</string>
+	<key>toolPerMode</key>
+	<string>navigatorFromPlatform</string>
+</dict>
+</plist>

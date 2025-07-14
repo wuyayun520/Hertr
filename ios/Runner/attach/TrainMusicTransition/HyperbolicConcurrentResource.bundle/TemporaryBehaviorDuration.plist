@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureObserverSkewy</key>
+	<string>backwardMovementInterval</string>
+	<key>mediaqueryLayerFeedback</key>
+	<string>offsetIncludeFramework</string>
+	<key>shaderBufferName</key>
+	<string>customManagerSkewx</string>
+	<key>smallCommandTail</key>
+	<string>radiusSystemLocation</string>
+	<key>themePerMediator</key>
+	<string>iconByStage</string>
+	<key>vectorCommandInterval</key>
+	<string>navigationMementoSkewx</string>
+</dict>
+</plist>

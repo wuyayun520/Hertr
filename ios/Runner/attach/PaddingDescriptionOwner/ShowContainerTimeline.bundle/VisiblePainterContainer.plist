@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorActionMomentum</key>
+	<string>serviceLevelMargin</string>
+	<key>cartesianModelKind</key>
+	<string>gridviewCompositeSpacing</string>
+	<key>challengeLevelBehavior</key>
+	<string>notificationEnvironmentMode</string>
+	<key>interactiveLocalizationDelay</key>
+	<string>coordinatorContainMediator</string>
+	<key>nodeStageTransparency</key>
+	<string>configurationNearVisitor</string>
+	<key>platePrototypeVelocity</key>
+	<string>metadataContainStage</string>
+	<key>projectVarBorder</key>
+	<string>positionLikeCycle</string>
+	<key>projectionOfVariable</key>
+	<string>decorationModeRotation</string>
+	<key>tappableCommandTransparency</key>
+	<string>resultFrameworkTag</string>
+</dict>
+</plist>

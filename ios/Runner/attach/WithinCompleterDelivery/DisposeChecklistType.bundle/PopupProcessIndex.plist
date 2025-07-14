@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectMediatorShape</key>
+	<string>liteCatalystBorder</string>
+	<key>mainSizeSkewx</key>
+	<string>themeDecoratorInteraction</string>
+	<key>managerBeyondPrototype</key>
+	<string>specifyThemeBound</string>
+</dict>
+</plist>

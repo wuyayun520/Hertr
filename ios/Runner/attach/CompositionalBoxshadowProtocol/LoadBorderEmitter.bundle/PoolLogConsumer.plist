@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAroundParameter</key>
+	<string>firstDecorationDepth</string>
+	<key>dedicatedTaskRate</key>
+	<string>buttonScopeOpacity</string>
+	<key>retainedLayoutColor</key>
+	<string>sharedContainerVisible</string>
+	<key>textPhaseRate</key>
+	<string>cycleDespiteFlyweight</string>
+	<key>tickerJobVisible</key>
+	<string>queryBesideCommand</string>
+</dict>
+</plist>

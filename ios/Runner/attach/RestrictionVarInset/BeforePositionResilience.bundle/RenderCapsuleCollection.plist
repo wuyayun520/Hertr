@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoGestureTheme</key>
+	<string>sortedPopupSpeed</string>
+	<key>customizedGroupRate</key>
+	<string>agileEffectBound</string>
+	<key>gateByPattern</key>
+	<string>previewViaEnvironment</string>
+	<key>missedReducerPressure</key>
+	<string>statefulSincePattern</string>
+	<key>sizedboxAndFlyweight</key>
+	<string>arithmeticAndScope</string>
+	<key>zoneSystemStyle</key>
+	<string>containerActivityFormat</string>
+</dict>
+</plist>

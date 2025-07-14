@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryWithStyle</key>
+	<string>routeValueRotation</string>
+	<key>autoRiverpodFormat</key>
+	<string>cupertinoStylePadding</string>
+	<key>borderInterpreterFrequency</key>
+	<string>flexSingletonShade</string>
+	<key>criticalSlashShade</key>
+	<string>invisibleLoopMomentum</string>
+	<key>scrollScopeEdge</key>
+	<string>constFutureLeft</string>
+	<key>spritePhaseDepth</key>
+	<string>dedicatedExtensionMomentum</string>
+</dict>
+</plist>

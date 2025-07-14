@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferBridgeShape</key>
+	<string>parallelScreenResponse</string>
+	<key>cycleWithoutParam</key>
+	<string>gramProxyTop</string>
+	<key>discardedThreadStyle</key>
+	<string>delegateNearFramework</string>
+	<key>errorByChain</key>
+	<string>sceneAgainstTier</string>
+	<key>iterativeGrainFeedback</key>
+	<string>subscriptionOfType</string>
+	<key>resourceTypeDepth</key>
+	<string>tableAmongLayer</string>
+	<key>sizeBesideInterpreter</key>
+	<string>modalStageValidation</string>
+	<key>storageScopePressure</key>
+	<string>statelessSinceVariable</string>
+	<key>uniformIsolateValidation</key>
+	<string>viewActivityBottom</string>
+</dict>
+</plist>

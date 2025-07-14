@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxAwayMemento</key>
+	<string>persistentConfigurationEdge</string>
+	<key>constWidgetStyle</key>
+	<string>actionBeyondComposite</string>
+	<key>consumerOperationBehavior</key>
+	<string>consultativeTitleStyle</string>
+	<key>customizedMovementBehavior</key>
+	<string>taskTempleOrientation</string>
+	<key>geometricCellTop</key>
+	<string>effectStateShade</string>
+	<key>missedAllocatorTop</key>
+	<string>liteDecorationSaturation</string>
+	<key>pointPerDecorator</key>
+	<string>activityVarOpacity</string>
+	<key>statelessTransitionFrequency</key>
+	<string>collectionNumberOrientation</string>
+</dict>
+</plist>

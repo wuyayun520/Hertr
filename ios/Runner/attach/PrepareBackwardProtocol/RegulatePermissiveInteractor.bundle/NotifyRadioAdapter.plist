@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeObserverRate</key>
+	<string>indicatorWorkResponse</string>
+	<key>equalizationOrStyle</key>
+	<string>remainderDuringCycle</string>
+	<key>gridviewOrCycle</key>
+	<string>awaitViaMethod</string>
+	<key>iconSinceMediator</key>
+	<string>displayableEffectSpeed</string>
+	<key>mediaqueryActivityRight</key>
+	<string>handlerPatternSize</string>
+	<key>popupStrategyFlags</key>
+	<string>semanticUsageBound</string>
+	<key>unactivatedListviewState</key>
+	<string>queryKindTail</string>
+</dict>
+</plist>

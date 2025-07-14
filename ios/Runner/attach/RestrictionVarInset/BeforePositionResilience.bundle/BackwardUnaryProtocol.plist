@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentVarMomentum</key>
+	<string>behaviorStyleBehavior</string>
+	<key>channelAdapterFrequency</key>
+	<string>custompaintAgainstFlyweight</string>
+	<key>compositionObserverForce</key>
+	<string>cosineLikeParameter</string>
+	<key>finalTimerStatus</key>
+	<string>loopBesideDecorator</string>
+	<key>graphicAgainstType</key>
+	<string>retainedServiceBorder</string>
+	<key>immutableModulusOrientation</key>
+	<string>futureCycleBehavior</string>
+	<key>tableAtLayer</key>
+	<string>skinLikeSingleton</string>
+	<key>webLayoutType</key>
+	<string>swiftAndAdapter</string>
+</dict>
+</plist>

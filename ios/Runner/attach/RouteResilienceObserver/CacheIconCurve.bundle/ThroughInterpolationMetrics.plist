@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorTaskAppearance</key>
+	<string>granularAspectPadding</string>
+	<key>baseBridgePadding</key>
+	<string>assetContextSpacing</string>
+	<key>blocFlyweightCenter</key>
+	<string>asyncWithoutState</string>
+	<key>desktopSwitchSaturation</key>
+	<string>imperativeRichtextLeft</string>
+	<key>enabledTitleFrequency</key>
+	<string>synchronousAnimationShade</string>
+	<key>hardWidgetBottom</key>
+	<string>associatedAwaitSize</string>
+	<key>intermediateCapsuleScale</key>
+	<string>crucialToolMode</string>
+	<key>layoutBufferVisibility</key>
+	<string>elasticChallengeInterval</string>
+	<key>overlayStageKind</key>
+	<string>opaqueMetadataTheme</string>
+</dict>
+</plist>

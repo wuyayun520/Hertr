@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorUntilEnvironment</key>
+	<string>sineVariableRight</string>
+	<key>clipperAndStrategy</key>
+	<string>mediaBridgeScale</string>
+	<key>convolutionAgainstKind</key>
+	<string>logOutsideBridge</string>
+	<key>elasticChallengeShade</key>
+	<string>singleZoneDuration</string>
+	<key>eventLevelInterval</key>
+	<string>statefulBaselineType</string>
+	<key>resourceCommandCount</key>
+	<string>kernelAroundComposite</string>
+	<key>sensorLikeVariable</key>
+	<string>queueStageCoord</string>
+	<key>stackFromState</key>
+	<string>multiHashMomentum</string>
+</dict>
+</plist>

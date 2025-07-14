@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartPerProcess</key>
+	<string>containerVariablePadding</string>
+	<key>custompaintAgainstSystem</key>
+	<string>builderInsideFramework</string>
+	<key>radiusAgainstWork</key>
+	<string>textStageStyle</string>
+	<key>requiredFrameLocation</key>
+	<string>actionAndParameter</string>
+	<key>respectiveAssetVisible</key>
+	<string>parallelGraphType</string>
+	<key>roleOperationCount</key>
+	<string>temporarySwitchBehavior</string>
+	<key>timerContextFlags</key>
+	<string>boxshadowInChain</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerAtVisitor</key>
+	<string>sceneProcessInset</string>
+	<key>completerContextMode</key>
+	<string>sustainableEventDirection</string>
+	<key>curvePerComposite</key>
+	<string>sequentialObserverSaturation</string>
+	<key>optimizerParameterSpacing</key>
+	<string>lastCubitPadding</string>
+	<key>radiusModeValidation</key>
+	<string>hierarchicalFramePadding</string>
+	<key>relationalAlignmentStyle</key>
+	<string>labelBeyondVar</string>
+	<key>synchronousServiceDelay</key>
+	<string>seamlessProviderVisible</string>
+</dict>
+</plist>

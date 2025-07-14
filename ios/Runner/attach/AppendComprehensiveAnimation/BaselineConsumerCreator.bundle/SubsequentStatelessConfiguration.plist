@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTextureForce</key>
+	<string>controllerAmongValue</string>
+	<key>globalVariantMargin</key>
+	<string>buttonStateForce</string>
+	<key>layerStageInset</key>
+	<string>hardTitleSaturation</string>
+	<key>mainPositionAcceleration</key>
+	<string>greatAlertShape</string>
+	<key>pinchableZoneDensity</key>
+	<string>tangentCommandStyle</string>
+	<key>playbackFromCycle</key>
+	<string>timerAsStage</string>
+	<key>pointAboutSystem</key>
+	<string>inheritedBinaryKind</string>
+	<key>uniqueColumnFormat</key>
+	<string>dependencyAboutDecorator</string>
+</dict>
+</plist>

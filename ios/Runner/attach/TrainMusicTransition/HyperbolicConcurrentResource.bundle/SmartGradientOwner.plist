@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorAmongStyle</key>
+	<string>multiGridCenter</string>
+	<key>intensityAsTask</key>
+	<string>transformerVariableFeedback</string>
+	<key>specifyUsageSpacing</key>
+	<string>subtleGraphDistance</string>
+	<key>tabviewLikeMediator</key>
+	<string>decorationWithInterpreter</string>
+	<key>temporaryGrayscaleRotation</key>
+	<string>popupBeyondParameter</string>
+	<key>zoneAlongStyle</key>
+	<string>lostRowAlignment</string>
+</dict>
+</plist>

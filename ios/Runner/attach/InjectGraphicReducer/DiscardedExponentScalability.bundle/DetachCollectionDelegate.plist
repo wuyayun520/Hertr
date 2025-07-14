@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customProtocolKind</key>
+	<string>providerSystemBrightness</string>
+	<key>notifierAndBridge</key>
+	<string>cupertinoAndFlyweight</string>
+	<key>oldQueueRotation</key>
+	<string>iterativeProviderSpeed</string>
+	<key>primaryAssetMode</key>
+	<string>respectiveCurveSize</string>
+	<key>promiseInJob</key>
+	<string>borderSingletonTension</string>
+	<key>statefulAlongJob</key>
+	<string>lossThanFlyweight</string>
+	<key>widgetBeyondType</key>
+	<string>concurrentTaskInset</string>
+	<key>zonePerNumber</key>
+	<string>checklistLevelSkewy</string>
+</dict>
+</plist>

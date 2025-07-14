@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeTaskSpeed</key>
+	<string>expandedOperationLeft</string>
+	<key>eagerObserverContrast</key>
+	<string>segueTaskVisibility</string>
+	<key>imageDuringFlyweight</key>
+	<string>composableGridAcceleration</string>
+	<key>mobileGestureBehavior</key>
+	<string>projectionOutsideStructure</string>
+	<key>resizableOverlayEdge</key>
+	<string>capacitiesStageDensity</string>
+</dict>
+</plist>

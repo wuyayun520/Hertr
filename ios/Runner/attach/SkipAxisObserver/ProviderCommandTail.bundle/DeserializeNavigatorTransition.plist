@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityDuringObserver</key>
+	<string>metadataIncludeStructure</string>
+	<key>catalystInsideLevel</key>
+	<string>gateObserverFlags</string>
+	<key>criticalTransitionAcceleration</key>
+	<string>responseNearActivity</string>
+	<key>lazyTransformerScale</key>
+	<string>queryAsValue</string>
+	<key>promiseVariableBehavior</key>
+	<string>repositoryVersusDecorator</string>
+</dict>
+</plist>

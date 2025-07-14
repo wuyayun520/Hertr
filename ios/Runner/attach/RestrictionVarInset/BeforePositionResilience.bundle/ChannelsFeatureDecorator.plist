@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushFlyweightIndex</key>
+	<string>retainedQueueOrigin</string>
+	<key>geometricWidgetStatus</key>
+	<string>getxPerPlatform</string>
+	<key>ignoredStatefulContrast</key>
+	<string>lossScopeEdge</string>
+	<key>largeContainerPressure</key>
+	<string>ignoredEntropyTransparency</string>
+	<key>nodeByParam</key>
+	<string>storageCompositeOpacity</string>
+	<key>paddingPatternName</key>
+	<string>progressbarMediatorTransparency</string>
+	<key>progressbarVariableSkewy</key>
+	<string>semanticAnimationShape</string>
+	<key>skinUntilNumber</key>
+	<string>concreteViewPressure</string>
+	<key>widgetViaValue</key>
+	<string>touchFormDepth</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricInstructionOffset</key>
+	<string>tappableVectorSkewx</string>
+	<key>loopUntilState</key>
+	<string>queueLevelTint</string>
+	<key>modalPerProcess</key>
+	<string>largeSignPosition</string>
+	<key>signPlatformFormat</key>
+	<string>groupAlongOperation</string>
+	<key>singletonAdapterRate</key>
+	<string>musicOrPrototype</string>
+</dict>
+</plist>

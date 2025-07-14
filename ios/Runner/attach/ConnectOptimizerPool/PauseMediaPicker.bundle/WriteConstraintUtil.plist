@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationForState</key>
+	<string>textPerTask</string>
+	<key>durationAmongStructure</key>
+	<string>requiredResponsePosition</string>
+	<key>gridByStyle</key>
+	<string>pinchableMediaTension</string>
+	<key>resizableRoleCount</key>
+	<string>mediocreLabelDistance</string>
+	<key>statefulStageTail</key>
+	<string>buttonVersusSingleton</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticObserverFrequency</key>
+	<string>hardSubpixelFormat</string>
+	<key>blocFromEnvironment</key>
+	<string>positionedAmongSingleton</string>
+	<key>cartesianLogarithmForce</key>
+	<string>immutableTweenOpacity</string>
+	<key>hardSymbolAcceleration</key>
+	<string>viewOutsideFlyweight</string>
+	<key>lostBlocSkewy</key>
+	<string>secondAppbarCount</string>
+	<key>metadataFlyweightDuration</key>
+	<string>eventForStage</string>
+	<key>webBlocColor</key>
+	<string>factoryParamDistance</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferObserverForce</key>
+	<string>routerParamCoord</string>
+	<key>handlerValueVelocity</key>
+	<string>sharedObserverOffset</string>
+	<key>interactorOutsideMemento</key>
+	<string>sequentialActivityShade</string>
+	<key>layoutKindPosition</key>
+	<string>completerThroughLayer</string>
+	<key>newestThemeSpeed</key>
+	<string>localizationDuringTask</string>
+	<key>secondWidgetTop</key>
+	<string>delegateActivityStyle</string>
+</dict>
+</plist>

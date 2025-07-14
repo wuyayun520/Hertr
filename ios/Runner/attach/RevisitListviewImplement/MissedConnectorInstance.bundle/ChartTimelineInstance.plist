@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyLikeKind</key>
+	<string>inactiveStorageCenter</string>
+	<key>enabledContainerSkewy</key>
+	<string>enabledNavigatorLocation</string>
+	<key>imperativeVectorDensity</key>
+	<string>allocatorNearVariable</string>
+	<key>injectionLevelMargin</key>
+	<string>tappablePositionPressure</string>
+	<key>lossFacadeTension</key>
+	<string>transitionParameterStyle</string>
+	<key>persistentErrorStyle</key>
+	<string>multiplicationFacadeMode</string>
+	<key>themeForMode</key>
+	<string>beginnerCallbackAppearance</string>
+	<key>tweenWithParameter</key>
+	<string>momentumVersusShape</string>
+	<key>viewWithoutLayer</key>
+	<string>tensorThreadTop</string>
+</dict>
+</plist>

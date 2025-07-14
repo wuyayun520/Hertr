@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationMementoBound</key>
+	<string>pinchableListviewVisibility</string>
+	<key>euclideanAsyncFrequency</key>
+	<string>positionedTempleFeedback</string>
+	<key>explicitTopicTheme</key>
+	<string>stepPhaseName</string>
+	<key>flexibleCollectionSize</key>
+	<string>displayableCallbackCount</string>
+	<key>granularEffectCount</key>
+	<string>layoutSystemFlags</string>
+	<key>requestStyleVisibility</key>
+	<string>exponentContainComposite</string>
+	<key>unactivatedTechniqueBrightness</key>
+	<string>flexibleStreamEdge</string>
+</dict>
+</plist>

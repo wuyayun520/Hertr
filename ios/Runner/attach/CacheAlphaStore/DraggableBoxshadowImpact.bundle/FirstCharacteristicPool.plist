@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteFlexTheme</key>
+	<string>textfieldFacadeMargin</string>
+	<key>cursorPrototypeVisible</key>
+	<string>descriptorAlongProcess</string>
+	<key>labelLevelOrientation</key>
+	<string>containerValueFeedback</string>
+	<key>listenerNearProxy</key>
+	<string>equalizationAmongValue</string>
+	<key>permanentButtonSize</key>
+	<string>scaleDuringChain</string>
+	<key>relationalDecorationStatus</key>
+	<string>managerPlatformVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentDecoratorInteraction</key>
+	<string>rowAgainstTask</string>
+	<key>priorMetadataVelocity</key>
+	<string>pinchableManagerDepth</string>
+	<key>reusableBorderState</key>
+	<string>protocolStageBrightness</string>
+	<key>spotAndVisitor</key>
+	<string>expandedForPhase</string>
+	<key>symbolViaInterpreter</key>
+	<string>statefulHashCenter</string>
+	<key>viewStageMode</key>
+	<string>contractionIncludeValue</string>
+</dict>
+</plist>

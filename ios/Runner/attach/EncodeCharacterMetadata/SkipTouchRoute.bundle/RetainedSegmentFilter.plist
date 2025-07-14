@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentForScope</key>
+	<string>behaviorWithoutAdapter</string>
+	<key>animationOrTask</key>
+	<string>gridNumberScale</string>
+	<key>axisTaskMode</key>
+	<string>lazyStoreDepth</string>
+	<key>nibAndVisitor</key>
+	<string>ignoredAlertSkewx</string>
+	<key>seamlessCurveIndex</key>
+	<string>semanticsAmongAction</string>
+	<key>sortedPetOrigin</key>
+	<string>subscriptionWithActivity</string>
+	<key>tangentStateTail</key>
+	<string>featureAroundComposite</string>
+</dict>
+</plist>

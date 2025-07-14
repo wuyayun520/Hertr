@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncEffectSpeed</key>
+	<string>controllerStyleResponse</string>
+	<key>compositionBeyondState</key>
+	<string>diffableGestureShade</string>
+	<key>eventActivityTheme</key>
+	<string>listviewFromCycle</string>
+	<key>newestRouteSkewy</key>
+	<string>resilientSlashResponse</string>
+	<key>oldProtocolHue</key>
+	<string>nodeAndTier</string>
+	<key>transitionActivityTheme</key>
+	<string>denseListviewType</string>
+	<key>transitionAlongFramework</key>
+	<string>checklistAwayInterpreter</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitPhaseFrequency</key>
+	<string>characterPerBridge</string>
+	<key>equipmentStrategyCenter</key>
+	<string>baselineAwayChain</string>
+	<key>keyLayoutInterval</key>
+	<string>hierarchicalSwitchEdge</string>
+	<key>layerBeyondPhase</key>
+	<string>factoryMethodCount</string>
+	<key>logarithmSinceScope</key>
+	<string>timerContainShape</string>
+	<key>notifierStageAlignment</key>
+	<string>cubitOrCycle</string>
+	<key>operationNearMethod</key>
+	<string>slashIncludeProxy</string>
+	<key>storeEnvironmentDensity</key>
+	<string>catalystFlyweightLeft</string>
+	<key>uniqueCubeHead</key>
+	<string>sliderFrameworkRate</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentTabbarShape</key>
+	<string>tabbarFlyweightLocation</string>
+	<key>dynamicViewBrightness</key>
+	<string>stateBeyondProcess</string>
+	<key>missionVisitorBehavior</key>
+	<string>robustUsecaseVisibility</string>
+	<key>monsterAwayLayer</key>
+	<string>sizeMementoContrast</string>
+	<key>navigatorFunctionRate</key>
+	<string>stepPlatformRotation</string>
+	<key>publicDocumentShade</key>
+	<string>declarativeBoxshadowScale</string>
+	<key>sineInsideLevel</key>
+	<string>chapterAboutOperation</string>
+	<key>taskVersusLevel</key>
+	<string>radioAboutMediator</string>
+</dict>
+</plist>

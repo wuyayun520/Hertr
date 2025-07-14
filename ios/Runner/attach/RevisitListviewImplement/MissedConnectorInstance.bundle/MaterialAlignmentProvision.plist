@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalGraphFlags</key>
+	<string>decorationFromTemple</string>
+	<key>indicatorDespiteDecorator</key>
+	<string>similarAssetPosition</string>
+	<key>opaqueActivityColor</key>
+	<string>buttonAtCommand</string>
+	<key>resilientContainerShade</key>
+	<string>dynamicSubscriptionContrast</string>
+	<key>responsiveBaselineName</key>
+	<string>semanticCommandOpacity</string>
+	<key>retainedEntityScale</key>
+	<string>tablePrototypeResponse</string>
+	<key>routerContextEdge</key>
+	<string>layoutNearTier</string>
+	<key>shaderScopeColor</key>
+	<string>newestOptionOpacity</string>
+	<key>significantTransformerSize</key>
+	<string>permissiveGridColor</string>
+</dict>
+</plist>

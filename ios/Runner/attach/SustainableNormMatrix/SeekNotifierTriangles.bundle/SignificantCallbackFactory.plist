@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocShapeRight</key>
+	<string>stateOfProxy</string>
+	<key>blocTaskStatus</key>
+	<string>inactiveDurationVisibility</string>
+	<key>curveModeOffset</key>
+	<string>cubitStyleShape</string>
+	<key>granularBulletSpeed</key>
+	<string>graphCommandDuration</string>
+	<key>largeQueueTop</key>
+	<string>materialModelDelay</string>
+	<key>optionTempleTheme</key>
+	<string>interfaceFrameworkTheme</string>
+	<key>routeOrFlyweight</key>
+	<string>characterThroughAdapter</string>
+	<key>semanticFeatureVisible</key>
+	<string>groupInsidePhase</string>
+	<key>statelessCubitLeft</key>
+	<string>tangentVariableDensity</string>
+</dict>
+</plist>

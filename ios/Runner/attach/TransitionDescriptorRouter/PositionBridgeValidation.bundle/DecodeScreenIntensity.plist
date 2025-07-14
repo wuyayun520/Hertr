@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelObserverAppearance</key>
+	<string>layoutAroundInterpreter</string>
+	<key>columnWithoutNumber</key>
+	<string>missionScopeDelay</string>
+	<key>composableIsolateInteraction</key>
+	<string>particleDespiteTask</string>
+	<key>frameProxyDepth</key>
+	<string>descriptorLevelShape</string>
+	<key>futureOrContext</key>
+	<string>widgetLevelSkewy</string>
+	<key>missedRouterBrightness</key>
+	<string>adaptiveNavigationVisibility</string>
+	<key>publicOverlayTop</key>
+	<string>unactivatedObserverType</string>
+	<key>routeCycleBottom</key>
+	<string>effectParameterMargin</string>
+	<key>storageThroughPattern</key>
+	<string>temporaryGraphCenter</string>
+</dict>
+</plist>

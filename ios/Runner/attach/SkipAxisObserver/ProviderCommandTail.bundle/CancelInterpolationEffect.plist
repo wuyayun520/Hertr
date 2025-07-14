@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAroundObserver</key>
+	<string>curveThroughFlyweight</string>
+	<key>boxshadowIncludeLevel</key>
+	<string>asynchronousOffsetCenter</string>
+	<key>cartesianMovementBrightness</key>
+	<string>queryFrameworkCoord</string>
+	<key>diversifiedConsumerRotation</key>
+	<string>radioFormOpacity</string>
+	<key>handlerAroundForm</key>
+	<string>viewStageMargin</string>
+	<key>presenterCompositeColor</key>
+	<string>liteLayerPressure</string>
+	<key>tweenWorkSkewx</key>
+	<string>delegateExceptFramework</string>
+	<key>vectorActivityBrightness</key>
+	<string>functionalQueryFeedback</string>
+</dict>
+</plist>

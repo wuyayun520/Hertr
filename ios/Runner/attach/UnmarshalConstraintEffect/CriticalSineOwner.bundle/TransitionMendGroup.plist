@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncProcessBehavior</key>
+	<string>statelessStyleDirection</string>
+	<key>hardAnimatedcontainerBehavior</key>
+	<string>statelessNavigationSkewx</string>
+	<key>hashObserverBottom</key>
+	<string>disabledMethodState</string>
+	<key>labelShapeOrientation</key>
+	<string>reactiveGrainHead</string>
+	<key>offsetWorkDepth</key>
+	<string>animationInBridge</string>
+	<key>tangentAwayState</key>
+	<string>zoneInsideLevel</string>
+</dict>
+</plist>

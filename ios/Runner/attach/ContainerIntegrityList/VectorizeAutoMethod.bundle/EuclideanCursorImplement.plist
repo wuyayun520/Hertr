@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaForComposite</key>
+	<string>factoryExceptSingleton</string>
+	<key>curveEnvironmentTint</key>
+	<string>numericalSineResponse</string>
+	<key>metadataActionTransparency</key>
+	<string>providerTempleOpacity</string>
+	<key>navigatorActionHue</key>
+	<string>taskPrototypeOffset</string>
+	<key>navigatorNearMode</key>
+	<string>mobxMethodOrientation</string>
+	<key>queryAwayAction</key>
+	<string>iconVarAppearance</string>
+	<key>semanticDurationStatus</key>
+	<string>lostInterfaceTransparency</string>
+	<key>storeDespiteSingleton</key>
+	<string>priorityBesideShape</string>
+	<key>timerWithoutFunction</key>
+	<string>tappableConstraintShape</string>
+</dict>
+</plist>

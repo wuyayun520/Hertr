@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateMethodDuration</key>
+	<string>animatedcontainerExceptValue</string>
+	<key>crucialCertificateFrequency</key>
+	<string>tickerFormVisible</string>
+	<key>gestureThroughNumber</key>
+	<string>chartStyleVisibility</string>
+	<key>gesturedetectorDecoratorResponse</key>
+	<string>localTextMomentum</string>
+	<key>mediumNavigatorColor</key>
+	<string>providerStateDensity</string>
+	<key>serviceOfFramework</key>
+	<string>blocCommandStatus</string>
+	<key>synchronousRowBorder</key>
+	<string>resolverStyleSkewx</string>
+</dict>
+</plist>

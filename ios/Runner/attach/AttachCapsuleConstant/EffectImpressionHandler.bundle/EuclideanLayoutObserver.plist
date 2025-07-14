@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasStrategyMargin</key>
+	<string>layoutPerState</string>
+	<key>deferredProtocolCenter</key>
+	<string>richtextViaStage</string>
+	<key>descriptionLevelIndex</key>
+	<string>textOfPrototype</string>
+	<key>factoryShapeMode</key>
+	<string>optionByStructure</string>
+	<key>sessionLayerOrigin</key>
+	<string>largeRichtextSpacing</string>
+	<key>statelessWidgetShade</key>
+	<string>positionedInsideForm</string>
+	<key>textureAtMemento</key>
+	<string>constraintNumberSkewy</string>
+</dict>
+</plist>

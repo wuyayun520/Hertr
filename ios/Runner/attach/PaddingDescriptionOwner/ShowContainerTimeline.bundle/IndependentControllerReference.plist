@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicNotificationSpacing</key>
+	<string>statefulButtonDelay</string>
+	<key>bufferSystemDistance</key>
+	<string>animatedGraphInset</string>
+	<key>currentViewCoord</key>
+	<string>activityProcessSpeed</string>
+	<key>navigatorInSystem</key>
+	<string>progressbarChainInset</string>
+	<key>progressbarDespiteMode</key>
+	<string>symmetricRadioEdge</string>
+	<key>rowAboutStage</key>
+	<string>switchCommandTail</string>
+	<key>smartResolverAcceleration</key>
+	<string>smallMobileHue</string>
+	<key>storeWithoutJob</key>
+	<string>containerMementoTag</string>
+	<key>sustainableCompleterSize</key>
+	<string>delegateStyleAcceleration</string>
+	<key>workflowVarTop</key>
+	<string>elasticReductionBrightness</string>
+</dict>
+</plist>

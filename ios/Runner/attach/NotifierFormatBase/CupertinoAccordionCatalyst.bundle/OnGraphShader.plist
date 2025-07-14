@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeHashBehavior</key>
+	<string>spriteByFacade</string>
+	<key>dimensionBeyondComposite</key>
+	<string>tabbarJobVisible</string>
+	<key>methodFacadeCenter</key>
+	<string>routerAlongComposite</string>
+	<key>mutableSwiftSkewy</key>
+	<string>pageviewMethodBehavior</string>
+	<key>routeBridgeIndex</key>
+	<string>popupWithType</string>
+	<key>sequentialCharacterScale</key>
+	<string>tensorTransitionAppearance</string>
+	<key>standaloneNavigationAlignment</key>
+	<string>explicitAnimationRate</string>
+	<key>titleChainBottom</key>
+	<string>repositoryPhaseLocation</string>
+</dict>
+</plist>

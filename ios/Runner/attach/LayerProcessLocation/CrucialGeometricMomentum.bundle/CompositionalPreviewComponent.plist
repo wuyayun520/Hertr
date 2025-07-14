@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionLevelTop</key>
+	<string>topicAlongProxy</string>
+	<key>awaitOfMediator</key>
+	<string>sceneBufferVisibility</string>
+	<key>cellTaskValidation</key>
+	<string>viewByComposite</string>
+	<key>finalStampBehavior</key>
+	<string>grainWithInterpreter</string>
+	<key>inheritedCardPosition</key>
+	<string>diffableAsyncTop</string>
+	<key>permissiveDelegateRate</key>
+	<string>radiusFormShade</string>
+	<key>prevBlocScale</key>
+	<string>semanticChartSaturation</string>
+	<key>responseShapeTint</key>
+	<string>materialAnimationInset</string>
+</dict>
+</plist>

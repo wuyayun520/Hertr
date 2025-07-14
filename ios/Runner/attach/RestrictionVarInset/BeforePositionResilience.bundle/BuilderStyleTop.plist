@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileAxisForce</key>
+	<string>layoutViaAdapter</string>
+	<key>containerInTier</key>
+	<string>observerWithoutDecorator</string>
+	<key>cosinePatternTag</key>
+	<string>segueBufferTag</string>
+	<key>gridThanPrototype</key>
+	<string>usecaseCommandHead</string>
+	<key>projectionOutsideValue</key>
+	<string>constQueueTail</string>
+	<key>publicInjectionMomentum</key>
+	<string>layoutContextBehavior</string>
+	<key>streamLayerDelay</key>
+	<string>webDocumentAlignment</string>
+</dict>
+</plist>

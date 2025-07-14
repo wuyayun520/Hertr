@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationThroughStage</key>
+	<string>lostEntityPosition</string>
+	<key>concreteResultShade</key>
+	<string>radiusOfEnvironment</string>
+	<key>criticalZonePosition</key>
+	<string>handlerAwayCommand</string>
+	<key>desktopViewPosition</key>
+	<string>visibleBlocValidation</string>
+	<key>pinchableEntityOffset</key>
+	<string>tableBridgeState</string>
+	<key>rectSinceMediator</key>
+	<string>asynchronousRichtextBottom</string>
+	<key>storageAsFlyweight</key>
+	<string>radiusInsideCommand</string>
+	<key>switchCommandFlags</key>
+	<string>tangentFromCommand</string>
+	<key>titleTempleCount</key>
+	<string>ternaryNearPlatform</string>
+</dict>
+</plist>

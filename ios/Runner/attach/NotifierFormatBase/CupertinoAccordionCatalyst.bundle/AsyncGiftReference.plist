@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushWorkTension</key>
+	<string>prevStateDensity</string>
+	<key>callbackByParameter</key>
+	<string>cosineAtSingleton</string>
+	<key>dependencyStrategyKind</key>
+	<string>mobxAboutState</string>
+	<key>featureAsParam</key>
+	<string>decorationAgainstStrategy</string>
+	<key>integerWithoutLayer</key>
+	<string>prismaticMusicCount</string>
+	<key>labelLikeMediator</key>
+	<string>requiredRemainderName</string>
+	<key>resolverBeyondBridge</key>
+	<string>iterativeStampStyle</string>
+	<key>unaryPlatformScale</key>
+	<string>materialFacadeInset</string>
+</dict>
+</plist>

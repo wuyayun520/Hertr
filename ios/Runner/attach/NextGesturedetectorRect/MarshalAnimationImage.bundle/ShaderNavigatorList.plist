@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleColumnTail</key>
+	<string>associatedSwitchTransparency</string>
+	<key>animatedRadioMargin</key>
+	<string>borderActionShade</string>
+	<key>builderWithoutBridge</key>
+	<string>spotValueTheme</string>
+	<key>pointProxyName</key>
+	<string>widgetForKind</string>
+	<key>publicNormShade</key>
+	<string>finalTaskEdge</string>
+	<key>resilientCapsuleDuration</key>
+	<string>observerNearAction</string>
+	<key>responseStateName</key>
+	<string>stepShapeInterval</string>
+</dict>
+</plist>

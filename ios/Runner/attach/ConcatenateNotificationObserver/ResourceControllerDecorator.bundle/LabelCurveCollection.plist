@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletTaskBrightness</key>
+	<string>gradientKindHue</string>
+	<key>declarativeRouteInset</key>
+	<string>functionalDialogsDelay</string>
+	<key>materialPopupFeedback</key>
+	<string>aperturePerAction</string>
+	<key>normInPrototype</key>
+	<string>unactivatedAllocatorAppearance</string>
+	<key>petAroundPrototype</key>
+	<string>resourceOfTemple</string>
+	<key>utilBufferResponse</key>
+	<string>bufferChainHue</string>
+</dict>
+</plist>

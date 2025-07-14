@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSegmentInteraction</key>
+	<string>logContainChain</string>
+	<key>buttonNearLevel</key>
+	<string>responsiveFeatureOpacity</string>
+	<key>gateFacadeLocation</key>
+	<string>gridWithoutPlatform</string>
+	<key>mutableOffsetRate</key>
+	<string>sensorExceptProxy</string>
+	<key>statefulButtonIndex</key>
+	<string>directlyAspectSaturation</string>
+	<key>texturePhaseRight</key>
+	<string>observerPrototypeVelocity</string>
+	<key>titleAboutPhase</key>
+	<string>stateStateSaturation</string>
+</dict>
+</plist>

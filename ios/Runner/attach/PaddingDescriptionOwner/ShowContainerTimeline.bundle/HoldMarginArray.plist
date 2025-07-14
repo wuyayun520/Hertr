@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateSceneSpacing</key>
+	<string>challengeDecoratorDelay</string>
+	<key>durationOrStage</key>
+	<string>animationActionVelocity</string>
+	<key>oldDocumentColor</key>
+	<string>brushVariableOrigin</string>
+	<key>routeNumberContrast</key>
+	<string>unsortedChartPadding</string>
+	<key>similarMemberDuration</key>
+	<string>commonNodeTransparency</string>
+	<key>storageStyleTint</key>
+	<string>resourceBufferState</string>
+</dict>
+</plist>

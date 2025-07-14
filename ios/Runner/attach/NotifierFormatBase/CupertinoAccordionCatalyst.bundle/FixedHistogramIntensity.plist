@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandShapeFormat</key>
+	<string>tweenForAdapter</string>
+	<key>petOrBuffer</key>
+	<string>retainedBulletBehavior</string>
+	<key>pinchableDimensionShape</key>
+	<string>visibleOffsetScale</string>
+	<key>resourceFormShape</key>
+	<string>lastBoxResponse</string>
+	<key>resultOperationHue</key>
+	<string>mobileAnchorState</string>
+</dict>
+</plist>

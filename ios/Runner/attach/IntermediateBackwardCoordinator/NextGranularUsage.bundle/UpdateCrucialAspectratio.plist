@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionFromAction</key>
+	<string>movementMediatorDepth</string>
+	<key>dimensionFrameworkColor</key>
+	<string>enabledCubitFormat</string>
+	<key>dropdownbuttonStyleKind</key>
+	<string>storyboardDecoratorEdge</string>
+	<key>gridPrototypeColor</key>
+	<string>reusableControllerBorder</string>
+	<key>pointContextPadding</key>
+	<string>smartInterpolationBorder</string>
+	<key>staticFeatureBound</key>
+	<string>logExceptKind</string>
+	<key>titleDespitePattern</key>
+	<string>completerMethodTag</string>
+</dict>
+</plist>

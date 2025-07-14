@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxExceptPattern</key>
+	<string>descriptionViaEnvironment</string>
+	<key>containerPatternValidation</key>
+	<string>sliderExceptAdapter</string>
+	<key>customTextShade</key>
+	<string>queryLikeMode</string>
+	<key>diffableToolSaturation</key>
+	<string>staticScreenBorder</string>
+	<key>directMultiplicationLocation</key>
+	<string>completionMethodBehavior</string>
+	<key>futureTaskOpacity</key>
+	<string>modelForMemento</string>
+	<key>listenerTempleHue</key>
+	<string>decorationAgainstCommand</string>
+	<key>scrollFacadeMode</key>
+	<string>beginnerPresenterVelocity</string>
+	<key>transitionMementoBound</key>
+	<string>descriptionMediatorInterval</string>
+	<key>webMomentumInteraction</key>
+	<string>originalLayerMomentum</string>
+</dict>
+</plist>

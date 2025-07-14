@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMultiplicationAlignment</key>
+	<string>customKernelInset</string>
+	<key>boxshadowAgainstProcess</key>
+	<string>deferredManagerSkewx</string>
+	<key>brushMediatorStatus</key>
+	<string>movementPerPhase</string>
+	<key>characterIncludeDecorator</key>
+	<string>characterFromType</string>
+	<key>containerFunctionMode</key>
+	<string>queryAsVar</string>
+	<key>globalStoryboardDuration</key>
+	<string>channelViaParameter</string>
+	<key>sortedDialogsResponse</key>
+	<string>pointStateTail</string>
+	<key>topicExceptInterpreter</key>
+	<string>modalAsContext</string>
+	<key>usageInsidePlatform</key>
+	<string>semanticsModeStatus</string>
+</dict>
+</plist>

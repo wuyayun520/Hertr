@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedAxisBehavior</key>
+	<string>keyAnimationFrequency</string>
+	<key>lostTweenForce</key>
+	<string>modalAndValue</string>
+	<key>promiseWorkSize</key>
+	<string>cubitInsideType</string>
+	<key>scaffoldExceptVisitor</key>
+	<string>asynchronousProviderAcceleration</string>
+	<key>shaderAsMemento</key>
+	<string>certificateFlyweightIndex</string>
+	<key>skirtNumberSaturation</key>
+	<string>reusableModalPressure</string>
+</dict>
+</plist>

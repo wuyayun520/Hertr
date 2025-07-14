@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryStageDelay</key>
+	<string>mediocreGradientContrast</string>
+	<key>delegateFromFramework</key>
+	<string>referenceAlongVariable</string>
+	<key>inheritedIsolateSpeed</key>
+	<string>publicCompleterAppearance</string>
+	<key>operationAmongContext</key>
+	<string>responseAwayStyle</string>
+	<key>responsiveListenerDensity</key>
+	<string>unaryPatternBorder</string>
+	<key>streamStrategyName</key>
+	<string>usageCyclePadding</string>
+</dict>
+</plist>

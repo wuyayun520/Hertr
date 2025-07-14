@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeOffsetAppearance</key>
+	<string>tabviewTaskSkewy</string>
+	<key>reducerIncludeShape</key>
+	<string>slashJobBehavior</string>
+	<key>resolverFlyweightFormat</key>
+	<string>decorationTierOpacity</string>
+	<key>seamlessViewFlags</key>
+	<string>previewActionLocation</string>
+	<key>tangentObserverInset</key>
+	<string>normAgainstScope</string>
+	<key>usecaseBeyondFramework</key>
+	<string>webPopupInteraction</string>
+</dict>
+</plist>

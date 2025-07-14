@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeActivityKind</key>
+	<string>particleOutsideComposite</string>
+	<key>entityActivitySaturation</key>
+	<string>aspectDuringChain</string>
+	<key>scaleExceptSingleton</key>
+	<string>finalSubscriptionScale</string>
+	<key>sliderVersusFramework</key>
+	<string>uniqueCubitCount</string>
+	<key>threadTierSaturation</key>
+	<string>accordionWorkflowScale</string>
+</dict>
+</plist>

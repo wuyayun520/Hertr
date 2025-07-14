@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFormRate</key>
+	<string>capsuleStrategyRate</string>
+	<key>enabledSemanticsShade</key>
+	<string>sliderWithFramework</string>
+	<key>futureByCycle</key>
+	<string>subtleDecorationBrightness</string>
+	<key>observerCompositeTop</key>
+	<string>paddingForShape</string>
+</dict>
+</plist>

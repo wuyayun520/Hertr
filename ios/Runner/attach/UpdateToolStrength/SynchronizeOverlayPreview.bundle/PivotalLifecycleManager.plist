@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleStrategyScale</key>
+	<string>staticNodeTint</string>
+	<key>grainLayerOpacity</key>
+	<string>activatedSingletonKind</string>
+	<key>playbackWithAction</key>
+	<string>reusableLogOrientation</string>
+	<key>viewValueForce</key>
+	<string>interactorAndJob</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAroundFramework</key>
+	<string>directActivityDuration</string>
+	<key>autoSensorOrigin</key>
+	<string>respectiveGestureType</string>
+	<key>callbackForParam</key>
+	<string>grainSinceTask</string>
+	<key>desktopPointStyle</key>
+	<string>inactiveIndicatorTop</string>
+	<key>masterVisitorFeedback</key>
+	<string>operationAroundProxy</string>
+</dict>
+</plist>

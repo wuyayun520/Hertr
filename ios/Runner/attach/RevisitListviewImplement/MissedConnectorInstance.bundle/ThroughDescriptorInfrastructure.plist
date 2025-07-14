@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableEffectBrightness</key>
+	<string>repositoryWorkVisible</string>
+	<key>dedicatedAnchorTail</key>
+	<string>cupertinoConstraintVisibility</string>
+	<key>gestureStateSize</key>
+	<string>lazyTaskTop</string>
+	<key>grayscaleAwayProxy</key>
+	<string>autoGroupCount</string>
+	<key>optimizerForType</key>
+	<string>promiseFunctionCount</string>
+	<key>titleForScope</key>
+	<string>multiplicationWithoutActivity</string>
+</dict>
+</plist>

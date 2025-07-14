@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowForCycle</key>
+	<string>dependencyLayerDirection</string>
+	<key>draggableInterpolationEdge</key>
+	<string>managerAgainstNumber</string>
+	<key>navigatorNumberBorder</key>
+	<string>transformerLayerDepth</string>
+	<key>sizeNearStrategy</key>
+	<string>streamObserverCenter</string>
+	<key>workflowLikeVariable</key>
+	<string>capacitiesShapeTag</string>
+</dict>
+</plist>

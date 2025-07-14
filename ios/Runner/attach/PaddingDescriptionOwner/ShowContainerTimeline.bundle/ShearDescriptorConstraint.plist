@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalSubscriptionBound</key>
+	<string>overlayInOperation</string>
+	<key>dropdownbuttonParamBehavior</key>
+	<string>screenFunctionSize</string>
+	<key>multiReducerInset</key>
+	<string>semanticCompleterInteraction</string>
+	<key>paddingOrVariable</key>
+	<string>tableForTier</string>
+	<key>sceneTierColor</key>
+	<string>constraintPhaseFormat</string>
+	<key>screenInsidePhase</key>
+	<string>radiusVarDuration</string>
+	<key>visibleWidgetAcceleration</key>
+	<string>tickerInsideParam</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousStreamBehavior</key>
+	<string>cellBufferPosition</string>
+	<key>gemStyleHead</key>
+	<string>reusableSymbolSpeed</string>
+	<key>gridPatternDepth</key>
+	<string>deferredUtilSize</string>
+	<key>listenerNearForm</key>
+	<string>fusedDependencyCount</string>
+	<key>navigationWithoutParam</key>
+	<string>characterOrMode</string>
+	<key>particleStyleResponse</key>
+	<string>resizablePositionedVelocity</string>
+	<key>robustPositionedCenter</key>
+	<string>elasticAnimationDensity</string>
+	<key>typicalMatrixDuration</key>
+	<string>stampJobInset</string>
+</dict>
+</plist>

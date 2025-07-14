@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicUsecaseOpacity</key>
+	<string>hierarchicalStackBound</string>
+	<key>canvasStyleDirection</key>
+	<string>draggableTangentHue</string>
+	<key>cycleKindFlags</key>
+	<string>crudeSemanticsState</string>
+	<key>deferredAlertIndex</key>
+	<string>captionInNumber</string>
+	<key>dialogsProcessIndex</key>
+	<string>draggableLocalizationEdge</string>
+	<key>interpolationNumberRotation</key>
+	<string>advancedLoopCount</string>
+	<key>opaquePreviewHue</key>
+	<string>cubitWithoutMethod</string>
+	<key>pointMethodFormat</key>
+	<string>eagerModulusPressure</string>
+	<key>significantScreenBehavior</key>
+	<string>playbackContainCycle</string>
+	<key>spriteWithType</key>
+	<string>activeCompletionEdge</string>
+</dict>
+</plist>

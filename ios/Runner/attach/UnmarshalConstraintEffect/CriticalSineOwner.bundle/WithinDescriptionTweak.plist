@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionNumberColor</key>
+	<string>globalSwitchTint</string>
+	<key>repositoryValueFlags</key>
+	<string>entityLayerBorder</string>
+	<key>storeParamCoord</key>
+	<string>sessionActionKind</string>
+	<key>transformerOperationTheme</key>
+	<string>cubitViaObserver</string>
+	<key>tweenInKind</key>
+	<string>singletonStyleInteraction</string>
+</dict>
+</plist>

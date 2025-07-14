@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleAgainstPattern</key>
+	<string>cupertinoResponseIndex</string>
+	<key>draggableLabelBehavior</key>
+	<string>stepMediatorResponse</string>
+	<key>finalFragmentVisibility</key>
+	<string>callbackAroundWork</string>
+	<key>grayscaleStyleContrast</key>
+	<string>priorPlateDelay</string>
+	<key>listenerVarMomentum</key>
+	<string>gridPlatformOrigin</string>
+	<key>missionFrameworkEdge</key>
+	<string>rowParameterState</string>
+	<key>utilPerTier</key>
+	<string>currentMissionFrequency</string>
+</dict>
+</plist>

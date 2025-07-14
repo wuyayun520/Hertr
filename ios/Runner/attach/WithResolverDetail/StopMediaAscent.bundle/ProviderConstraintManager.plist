@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFrameworkTop</key>
+	<string>cartesianSceneShade</string>
+	<key>profileWithoutStyle</key>
+	<string>compositionalObserverRate</string>
+	<key>specifierOutsideStructure</key>
+	<string>resourcePhaseType</string>
+</dict>
+</plist>

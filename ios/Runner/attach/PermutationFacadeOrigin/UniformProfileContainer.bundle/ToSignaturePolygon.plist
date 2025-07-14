@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerBridgeAppearance</key>
+	<string>cubitWithDecorator</string>
+	<key>drawerAsStage</key>
+	<string>gateCompositeDepth</string>
+	<key>gestureThroughLevel</key>
+	<string>webCallbackCenter</string>
+	<key>grainTaskLocation</key>
+	<string>independentScrollOffset</string>
+	<key>layerViaProxy</key>
+	<string>offsetFromComposite</string>
+	<key>rapidTextureAppearance</key>
+	<string>newestDurationRotation</string>
+	<key>requestDecoratorVelocity</key>
+	<string>otherSizeVelocity</string>
+	<key>symmetricRectAlignment</key>
+	<string>nextAsyncSkewy</string>
+</dict>
+</plist>

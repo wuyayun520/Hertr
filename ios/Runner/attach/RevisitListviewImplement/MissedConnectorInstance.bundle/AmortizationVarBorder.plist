@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitSingletonTag</key>
+	<string>protectedButtonHue</string>
+	<key>batchLevelBorder</key>
+	<string>dedicatedFactoryOffset</string>
+	<key>completerJobPosition</key>
+	<string>positionedShapeCount</string>
+	<key>persistentObserverShade</key>
+	<string>gesturedetectorSinceTask</string>
+	<key>requestBridgePadding</key>
+	<string>grayscaleContainTask</string>
+	<key>resolverInterpreterState</key>
+	<string>presenterInterpreterDensity</string>
+	<key>sceneActivitySpacing</key>
+	<string>navigationFormHue</string>
+	<key>singleServiceStatus</key>
+	<string>standaloneCompositionBottom</string>
+	<key>widgetTypeAcceleration</key>
+	<string>sizePatternSkewx</string>
+</dict>
+</plist>

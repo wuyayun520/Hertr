@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistExceptMode</key>
+	<string>draggableFutureScale</string>
+	<key>constraintAwayFlyweight</key>
+	<string>autoSlashDepth</string>
+	<key>cupertinoProxyDelay</key>
+	<string>persistentPaddingBrightness</string>
+	<key>cursorAndPhase</key>
+	<string>blocInMethod</string>
+	<key>granularEntityVisible</key>
+	<string>singletonAmongPhase</string>
+	<key>gridviewPatternTheme</key>
+	<string>nativeActionDelay</string>
+	<key>intensityPlatformDuration</key>
+	<string>descriptionMediatorFeedback</string>
+	<key>metadataInNumber</key>
+	<string>rowCycleHead</string>
+	<key>particlePerPhase</key>
+	<string>missedResultCoord</string>
+	<key>responseFrameworkOrigin</key>
+	<string>modelByStrategy</string>
+</dict>
+</plist>

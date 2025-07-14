@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cyclePlatformTension</key>
+	<string>statelessAwaitVisibility</string>
+	<key>nativeFeatureOrientation</key>
+	<string>backwardFutureShade</string>
+	<key>navigationSystemDirection</key>
+	<string>referenceFormBrightness</string>
+	<key>skinDecoratorDistance</key>
+	<string>progressbarCycleDistance</string>
+	<key>themeWorkResponse</key>
+	<string>graphInsideVariable</string>
+</dict>
+</plist>

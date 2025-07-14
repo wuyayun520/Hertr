@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackMethodLeft</key>
+	<string>intermediateLogStyle</string>
+	<key>cosineFlyweightTag</key>
+	<string>spriteTaskBound</string>
+	<key>crudeSegueStyle</key>
+	<string>textureStructureSize</string>
+	<key>curveVersusContext</key>
+	<string>autoSingletonTag</string>
+	<key>draggableNotifierStatus</key>
+	<string>appbarWithoutShape</string>
+</dict>
+</plist>

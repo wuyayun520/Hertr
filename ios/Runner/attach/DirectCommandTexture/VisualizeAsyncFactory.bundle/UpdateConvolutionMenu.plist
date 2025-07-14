@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAboutPattern</key>
+	<string>variantAndNumber</string>
+	<key>delegateTaskValidation</key>
+	<string>plateDespitePlatform</string>
+	<key>independentCompletionSize</key>
+	<string>asyncEnvironmentCount</string>
+	<key>matrixDecoratorSkewx</key>
+	<string>completerWithoutBuffer</string>
+	<key>navigationParameterInteraction</key>
+	<string>dropdownbuttonAboutParameter</string>
+	<key>priorityUntilMemento</key>
+	<string>taskWithoutSystem</string>
+	<key>resourceDecoratorBrightness</key>
+	<string>prismaticPositionTag</string>
+	<key>standaloneSinkBorder</key>
+	<string>specifierAroundJob</string>
+	<key>textureContainMethod</key>
+	<string>futureVarLocation</string>
+	<key>viewFlyweightCount</key>
+	<string>menuCycleStatus</string>
+</dict>
+</plist>

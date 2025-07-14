@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directIntensityBehavior</key>
+	<string>aspectAroundMemento</string>
+	<key>memberShapePadding</key>
+	<string>sizeEnvironmentFormat</string>
+	<key>opaqueLayoutDuration</key>
+	<string>normalAwaitDelay</string>
+</dict>
+</plist>

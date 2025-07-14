@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncStyleOrientation</key>
+	<string>managerDespiteFlyweight</string>
+	<key>globalTransformerBorder</key>
+	<string>injectionUntilStage</string>
+	<key>hierarchicalAssetIndex</key>
+	<string>prevDocumentTint</string>
+	<key>independentStoreTransparency</key>
+	<string>interpolationBufferSkewx</string>
+	<key>observerPhaseDirection</key>
+	<string>operationFromContext</string>
+	<key>profileLayerShape</key>
+	<string>gridFrameworkTransparency</string>
+	<key>statelessContextShade</key>
+	<string>localizationAroundActivity</string>
+	<key>subtleTopicHead</key>
+	<string>directlyAnchorShade</string>
+</dict>
+</plist>

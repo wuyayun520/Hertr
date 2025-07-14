@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedThreadVelocity</key>
+	<string>containerShapeInterval</string>
+	<key>lazyTaskVisibility</key>
+	<string>gridDespiteAction</string>
+	<key>primaryPromiseSkewy</key>
+	<string>injectionThroughEnvironment</string>
+	<key>remainderFromFunction</key>
+	<string>streamWithoutTier</string>
+	<key>semanticGroupDepth</key>
+	<string>sortedAnimatedcontainerAlignment</string>
+	<key>sliderKindFeedback</key>
+	<string>titleVariableBottom</string>
+	<key>themeNearParam</key>
+	<string>brushAboutVariable</string>
+</dict>
+</plist>

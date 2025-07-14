@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncForPlatform</key>
+	<string>gemShapeOpacity</string>
+	<key>sampleAgainstKind</key>
+	<string>autoTimerLocation</string>
+	<key>scrollAgainstMediator</key>
+	<string>cursorPatternFrequency</string>
+	<key>touchNearTask</key>
+	<string>eventMementoFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCurveDelay</key>
+	<string>statefulFromStrategy</string>
+	<key>concurrentMarginDirection</key>
+	<string>referenceParamBehavior</string>
+	<key>mediaqueryVersusValue</key>
+	<string>sustainablePlaybackVisible</string>
+	<key>previewShapeIndex</key>
+	<string>resilientStoryboardMode</string>
+	<key>providerCyclePosition</key>
+	<string>captionJobMomentum</string>
+	<key>rectPhaseColor</key>
+	<string>delegateParameterContrast</string>
+	<key>sortedTextValidation</key>
+	<string>checkboxTierDelay</string>
+	<key>storageAtMemento</key>
+	<string>aspectratioAndMethod</string>
+	<key>subtleMasterTag</key>
+	<string>denseSwitchSpeed</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnJobTransparency</key>
+	<string>concreteProgressbarSaturation</string>
+	<key>configurationNumberTag</key>
+	<string>offsetAgainstStyle</string>
+	<key>discardedAlignmentRate</key>
+	<string>cursorWorkLeft</string>
+	<key>gramLikeFacade</key>
+	<string>containerAgainstOperation</string>
+	<key>layoutAndCycle</key>
+	<string>menuSingletonSkewx</string>
+	<key>matrixWithoutTier</key>
+	<string>synchronousSingletonName</string>
+	<key>mediumResourceStyle</key>
+	<string>navigatorScopeFrequency</string>
+	<key>rowInsideAction</key>
+	<string>touchCommandFormat</string>
+	<key>unactivatedTabviewFlags</key>
+	<string>otherTabviewStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBinaryAlignment</key>
+	<string>featureInVar</string>
+	<key>columnAroundKind</key>
+	<string>multiplicationThroughVisitor</string>
+	<key>constSignDensity</key>
+	<string>apertureForCommand</string>
+	<key>localDimensionSpeed</key>
+	<string>activityAgainstContext</string>
+	<key>routeStageTint</key>
+	<string>providerLikeParameter</string>
+	<key>sensorPatternInset</key>
+	<string>particleTempleCount</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationIncludeParameter</key>
+	<string>mainErrorAppearance</string>
+	<key>animationThanMemento</key>
+	<string>notifierStateSaturation</string>
+	<key>behaviorObserverSkewy</key>
+	<string>robustSamplePosition</string>
+	<key>coordinatorObserverScale</key>
+	<string>mediumMediaBrightness</string>
+	<key>mainTopicEdge</key>
+	<string>routeViaShape</string>
+	<key>projectionInsideStructure</key>
+	<string>activatedGroupSpeed</string>
+	<key>secondGrainInset</key>
+	<string>arithmeticQueryVisible</string>
+	<key>widgetVariableBehavior</key>
+	<string>spriteForValue</string>
+</dict>
+</plist>

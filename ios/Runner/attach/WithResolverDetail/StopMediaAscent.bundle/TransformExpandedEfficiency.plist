@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledTitleCount</key>
+	<string>containerContextOffset</string>
+	<key>handlerVarStyle</key>
+	<string>dependencyAlongInterpreter</string>
+	<key>marginMediatorDelay</key>
+	<string>customListviewBound</string>
+	<key>popupByStage</key>
+	<string>alignmentDuringForm</string>
+	<key>rowAmongChain</key>
+	<string>reducerFunctionBound</string>
+</dict>
+</plist>

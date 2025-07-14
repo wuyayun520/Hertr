@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAspectratioDistance</key>
+	<string>subpixelIncludeMediator</string>
+	<key>constWidgetForce</key>
+	<string>musicAboutStrategy</string>
+	<key>gridOutsidePlatform</key>
+	<string>tappableResultTint</string>
+	<key>providerPlatformDensity</key>
+	<string>controllerVisitorDelay</string>
+	<key>resourceOfFacade</key>
+	<string>texturePhaseAlignment</string>
+</dict>
+</plist>

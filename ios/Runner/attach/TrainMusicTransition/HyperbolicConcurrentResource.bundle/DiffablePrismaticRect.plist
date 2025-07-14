@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaLikeMediator</key>
+	<string>queuePlatformBound</string>
+	<key>assetContextForce</key>
+	<string>uniformCursorBottom</string>
+	<key>dimensionAtParam</key>
+	<string>singletonFromInterpreter</string>
+	<key>displayableSwitchRotation</key>
+	<string>optionThroughObserver</string>
+	<key>inheritedFutureValidation</key>
+	<string>resizableTernaryDirection</string>
+	<key>popupInOperation</key>
+	<string>asyncSingletonAlignment</string>
+	<key>progressbarBeyondFlyweight</key>
+	<string>retainedBulletLeft</string>
+	<key>symbolVarBound</key>
+	<string>fusedGraphRotation</string>
+	<key>synchronousListenerOffset</key>
+	<string>queryChainInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorAgainstState</key>
+	<string>modelSystemSaturation</string>
+	<key>collectionContextTransparency</key>
+	<string>finalScenePosition</string>
+	<key>controllerAmongTier</key>
+	<string>currentCursorVisible</string>
+	<key>eventBesideMemento</key>
+	<string>denseSubpixelTail</string>
+	<key>navigatorThroughState</key>
+	<string>handlerLikeVar</string>
+	<key>similarSessionName</key>
+	<string>comprehensiveGestureSize</string>
+	<key>utilFormLeft</key>
+	<string>observerWithContext</string>
+</dict>
+</plist>

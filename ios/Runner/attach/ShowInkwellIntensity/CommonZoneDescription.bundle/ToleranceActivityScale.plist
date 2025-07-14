@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasUntilOperation</key>
+	<string>interfaceParameterTransparency</string>
+	<key>gridProxyShade</key>
+	<string>canvasOfState</string>
+	<key>materialViewRight</key>
+	<string>appbarLevelPosition</string>
+	<key>nodeIncludeTier</key>
+	<string>effectKindVisible</string>
+	<key>operationMethodContrast</key>
+	<string>assetNumberTint</string>
+	<key>otherZoneMomentum</key>
+	<string>symmetricTaskValidation</string>
+	<key>statefulEntropyInset</key>
+	<string>multiStorageBorder</string>
+	<key>taskSinceKind</key>
+	<string>permanentCallbackCoord</string>
+</dict>
+</plist>

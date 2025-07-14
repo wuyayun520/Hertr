@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventActionDelay</key>
+	<string>aspectAsOperation</string>
+	<key>liteBaseStyle</key>
+	<string>asyncCompositeDuration</string>
+	<key>repositoryAlongSingleton</key>
+	<string>transformerCycleAppearance</string>
+	<key>routeModeValidation</key>
+	<string>certificateAroundCycle</string>
+</dict>
+</plist>

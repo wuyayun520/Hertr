@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarProcessDelay</key>
+	<string>discardedNormScale</string>
+	<key>buttonNearMethod</key>
+	<string>visibleControllerCount</string>
+	<key>otherMediaqueryTag</key>
+	<string>pointOperationDelay</string>
+	<key>queryBridgeAppearance</key>
+	<string>eagerBufferTint</string>
+	<key>signatureOperationSkewx</key>
+	<string>giftByPhase</string>
+	<key>smallSizedboxInset</key>
+	<string>allocatorIncludeAdapter</string>
+</dict>
+</plist>

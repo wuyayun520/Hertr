@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStyleStyle</key>
+	<string>mapByState</string>
+	<key>coordinatorDecoratorType</key>
+	<string>equalizationScopeAcceleration</string>
+	<key>effectChainHead</key>
+	<string>handlerStateRotation</string>
+	<key>heapBesideAction</key>
+	<string>builderNearLayer</string>
+	<key>interactorChainOffset</key>
+	<string>concreteClipperSkewx</string>
+	<key>kernelCompositeForce</key>
+	<string>builderLevelBehavior</string>
+</dict>
+</plist>

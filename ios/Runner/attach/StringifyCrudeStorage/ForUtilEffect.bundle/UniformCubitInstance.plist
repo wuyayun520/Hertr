@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesInAdapter</key>
+	<string>backwardAxisMomentum</string>
+	<key>channelAsSystem</key>
+	<string>localGroupScale</string>
+	<key>flexContextValidation</key>
+	<string>textVariableVisible</string>
+	<key>gestureAtForm</key>
+	<string>layoutViaFlyweight</string>
+	<key>semanticsDecoratorSkewx</key>
+	<string>switchDecoratorSaturation</string>
+	<key>subtleBulletType</key>
+	<string>permissiveFutureBound</string>
+	<key>symmetricPlateIndex</key>
+	<string>hyperbolicRadioSize</string>
+</dict>
+</plist>

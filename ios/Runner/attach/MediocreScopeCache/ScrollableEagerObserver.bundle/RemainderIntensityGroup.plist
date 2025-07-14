@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTransitionFrequency</key>
+	<string>finalMediaRate</string>
+	<key>commandMethodDirection</key>
+	<string>methodAtStyle</string>
+	<key>commonEntityTransparency</key>
+	<string>rectModeVisibility</string>
+	<key>composableCaptionBottom</key>
+	<string>handlerFormDuration</string>
+	<key>sortedDrawerShape</key>
+	<string>mainRouteDirection</string>
+</dict>
+</plist>

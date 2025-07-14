@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedAnimationBound</key>
+	<string>multiIntensityTheme</string>
+	<key>directControllerFormat</key>
+	<string>stampInsidePlatform</string>
+	<key>listviewSystemTension</key>
+	<string>instructionActivityMode</string>
+	<key>notifierByComposite</key>
+	<string>mediaSincePlatform</string>
+	<key>numericalCanvasFeedback</key>
+	<string>scaleTierOffset</string>
+	<key>segueViaForm</key>
+	<string>labelInterpreterOffset</string>
+	<key>textMediatorDensity</key>
+	<string>mapInCycle</string>
+</dict>
+</plist>

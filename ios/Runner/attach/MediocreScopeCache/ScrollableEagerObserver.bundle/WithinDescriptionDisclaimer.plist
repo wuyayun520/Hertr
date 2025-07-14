@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartCycleTail</key>
+	<string>streamDuringProcess</string>
+	<key>durationCycleSkewx</key>
+	<string>streamThroughComposite</string>
+	<key>getxActionAcceleration</key>
+	<string>operationSystemDelay</string>
+	<key>mainExceptionKind</key>
+	<string>providerWithoutFacade</string>
+	<key>persistentCubitLeft</key>
+	<string>viewStructureSpeed</string>
+	<key>publicArithmeticIndex</key>
+	<string>constraintVariableFlags</string>
+	<key>secondMediaIndex</key>
+	<string>logarithmValuePressure</string>
+	<key>sliderByFlyweight</key>
+	<string>textBeyondLevel</string>
+	<key>specifyChapterAlignment</key>
+	<string>stepOperationCount</string>
+	<key>transformerByVar</key>
+	<string>gridviewAgainstPattern</string>
+</dict>
+</plist>

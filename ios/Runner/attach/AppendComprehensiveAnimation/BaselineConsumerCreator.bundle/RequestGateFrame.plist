@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionOutsideMode</key>
+	<string>declarativeEventDensity</string>
+	<key>adaptivePrecisionHead</key>
+	<string>cursorAtPrototype</string>
+	<key>advancedCommandFlags</key>
+	<string>ternaryActionRight</string>
+	<key>channelEnvironmentFeedback</key>
+	<string>cellByMethod</string>
+	<key>configurationCommandInterval</key>
+	<string>accessoryAmongVar</string>
+	<key>cupertinoThemeState</key>
+	<string>providerLevelTransparency</string>
+	<key>diffableModalShade</key>
+	<string>tappableResultOrientation</string>
+	<key>entityDespiteMemento</key>
+	<string>exceptionVarBehavior</string>
+	<key>fusedBehaviorOffset</key>
+	<string>currentMobxDelay</string>
+	<key>lazyTickerIndex</key>
+	<string>cupertinoOptionTop</string>
+</dict>
+</plist>

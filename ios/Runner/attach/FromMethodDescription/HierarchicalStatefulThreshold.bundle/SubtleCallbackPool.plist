@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableSessionState</key>
+	<string>symbolOrScope</string>
+	<key>errorAtMode</key>
+	<string>constraintBeyondVar</string>
+	<key>nodeExceptPhase</key>
+	<string>notifierDuringVariable</string>
+	<key>reactiveDescriptorDelay</key>
+	<string>variantNumberRight</string>
+	<key>sceneSystemLeft</key>
+	<string>reductionVersusState</string>
+	<key>usecaseAndChain</key>
+	<string>iconOperationLocation</string>
+</dict>
+</plist>

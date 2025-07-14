@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryFlyweightTint</key>
+	<string>mobileAsMediator</string>
+	<key>consultativeNavigatorOffset</key>
+	<string>streamChainBorder</string>
+	<key>transitionCompositeDuration</key>
+	<string>gateBeyondFunction</string>
+	<key>uniqueSpriteInset</key>
+	<string>customizedCompletionBrightness</string>
+</dict>
+</plist>

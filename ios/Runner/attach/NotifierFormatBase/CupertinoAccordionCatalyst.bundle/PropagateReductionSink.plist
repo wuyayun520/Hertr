@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushByPlatform</key>
+	<string>particleVisitorOffset</string>
+	<key>challengeLevelVisibility</key>
+	<string>constraintStageMargin</string>
+	<key>marginParamHue</key>
+	<string>interactorAwayVariable</string>
+	<key>stepExceptAction</key>
+	<string>cupertinoContextInterval</string>
+</dict>
+</plist>

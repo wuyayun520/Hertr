@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTabviewPosition</key>
+	<string>tabviewAtKind</string>
+	<key>containerActivityFlags</key>
+	<string>rectWithoutStrategy</string>
+	<key>errorViaCycle</key>
+	<string>visibleLabelOrientation</string>
+	<key>interactorPrototypeTransparency</key>
+	<string>textExceptMemento</string>
+	<key>liteBufferCount</key>
+	<string>rowInInterpreter</string>
+	<key>shaderFrameworkFormat</key>
+	<string>cartesianConsumerInteraction</string>
+	<key>taskPerDecorator</key>
+	<string>pointLayerBound</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalMusicLeft</key>
+	<string>progressbarAmongSystem</string>
+	<key>logWorkShade</key>
+	<string>hierarchicalInteractorContrast</string>
+	<key>permanentLoopBound</key>
+	<string>permissiveSingletonBorder</string>
+	<key>positionedWithoutSystem</key>
+	<string>cartesianColumnBrightness</string>
+	<key>scaleThroughParameter</key>
+	<string>equalizationOfLayer</string>
+	<key>tickerFunctionSpeed</key>
+	<string>sophisticatedModelBound</string>
+	<key>unaryBufferBound</key>
+	<string>titleVersusOperation</string>
+</dict>
+</plist>

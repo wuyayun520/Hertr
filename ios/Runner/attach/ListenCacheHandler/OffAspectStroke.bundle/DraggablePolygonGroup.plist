@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyPreviewBound</key>
+	<string>handlerBesideInterpreter</string>
+	<key>grainIncludeScope</key>
+	<string>marginSingletonBound</string>
+	<key>reactiveAlignmentInteraction</key>
+	<string>seamlessSizedboxOffset</string>
+	<key>semanticScaleAlignment</key>
+	<string>ignoredTangentSkewx</string>
+	<key>textfieldAndSystem</key>
+	<string>tickerInsideVar</string>
+	<key>textureViaScope</key>
+	<string>fragmentStageSkewy</string>
+	<key>threadFromOperation</key>
+	<string>screenLayerPressure</string>
+	<key>vectorValueInteraction</key>
+	<string>commonPetRight</string>
+</dict>
+</plist>

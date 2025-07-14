@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityValueTransparency</key>
+	<string>playbackAndFlyweight</string>
+	<key>cupertinoContainerTop</key>
+	<string>stateFromBuffer</string>
+	<key>declarativeAspectTheme</key>
+	<string>keyCapsuleAlignment</string>
+	<key>intensityContainType</key>
+	<string>mobileConfigurationPosition</string>
+	<key>intensityStructureOpacity</key>
+	<string>inheritedRadiusShape</string>
+	<key>presenterStructurePosition</key>
+	<string>particleOperationScale</string>
+	<key>resultDuringLayer</key>
+	<string>responseVisitorHead</string>
+</dict>
+</plist>

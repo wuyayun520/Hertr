@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetLayerFrequency</key>
+	<string>activeColumnSpeed</string>
+	<key>captionNearObserver</key>
+	<string>scrollableRectDepth</string>
+	<key>immediateNormSpacing</key>
+	<string>decorationOutsideSingleton</string>
+	<key>indicatorAgainstParameter</key>
+	<string>metadataObserverResponse</string>
+	<key>specifierBesideFramework</key>
+	<string>textureDuringJob</string>
+	<key>statefulAllocatorBorder</key>
+	<string>timerAgainstStyle</string>
+	<key>webTouchDelay</key>
+	<string>blocAndFacade</string>
+</dict>
+</plist>

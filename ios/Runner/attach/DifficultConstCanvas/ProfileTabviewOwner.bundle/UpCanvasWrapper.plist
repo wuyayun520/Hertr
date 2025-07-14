@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityDecoratorPadding</key>
+	<string>dedicatedRectMargin</string>
+	<key>documentCompositeIndex</key>
+	<string>rectVersusMode</string>
+	<key>durationBesideOperation</key>
+	<string>masterIncludePhase</string>
+	<key>fixedEntityInteraction</key>
+	<string>entropyVarFlags</string>
+	<key>flexibleQueryState</key>
+	<string>providerVisitorBrightness</string>
+	<key>segueValueSkewx</key>
+	<string>persistentAwaitAcceleration</string>
+	<key>sizedboxPhaseSpacing</key>
+	<string>assetAroundMemento</string>
+	<key>statefulSkinIndex</key>
+	<string>usedQueryAcceleration</string>
+</dict>
+</plist>

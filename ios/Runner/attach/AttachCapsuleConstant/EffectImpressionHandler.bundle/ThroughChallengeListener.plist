@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnBufferEdge</key>
+	<string>futureWithoutMethod</string>
+	<key>referenceAdapterFlags</key>
+	<string>referenceFunctionValidation</string>
+	<key>requestCommandInterval</key>
+	<string>factoryDuringAction</string>
+	<key>responsiveInterfaceName</key>
+	<string>labelViaTask</string>
+	<key>statelessTickerColor</key>
+	<string>sinkByInterpreter</string>
+	<key>tangentInSystem</key>
+	<string>localizationAwayMediator</string>
+	<key>tickerNumberFeedback</key>
+	<string>actionAdapterContrast</string>
+</dict>
+</plist>

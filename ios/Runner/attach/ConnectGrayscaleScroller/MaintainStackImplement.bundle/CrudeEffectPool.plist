@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeSceneRotation</key>
+	<string>cubitProcessFeedback</string>
+	<key>gradientOrChain</key>
+	<string>lossContextInset</string>
+	<key>grainFacadePressure</key>
+	<string>difficultInteractorDirection</string>
+	<key>responseBeyondShape</key>
+	<string>constraintModeSkewx</string>
+	<key>rowContainKind</key>
+	<string>listviewDuringScope</string>
+	<key>rowDespiteCommand</key>
+	<string>intermediateSpriteAppearance</string>
+	<key>spriteSingletonFeedback</key>
+	<string>geometricTabviewBottom</string>
+	<key>standaloneEventHue</key>
+	<string>cellAlongLevel</string>
+</dict>
+</plist>

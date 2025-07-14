@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocInterpreterDuration</key>
+	<string>sizedboxTempleAppearance</string>
+	<key>captionPatternTop</key>
+	<string>slashAndFlyweight</string>
+	<key>completerKindInset</key>
+	<string>tappableDelegateOpacity</string>
+	<key>constraintAgainstShape</key>
+	<string>nibPrototypeIndex</string>
+	<key>durationWithoutOperation</key>
+	<string>cubePerNumber</string>
+	<key>factoryTierTop</key>
+	<string>explicitUsecaseBrightness</string>
+	<key>multiViewIndex</key>
+	<string>localizationOperationSkewx</string>
+	<key>progressbarVisitorBound</key>
+	<string>crucialDialogsOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseWithPrototype</key>
+	<string>equipmentBeyondState</string>
+	<key>hashShapePosition</key>
+	<string>transformerKindLocation</string>
+	<key>normalIntegerLocation</key>
+	<string>largeOffsetTint</string>
+	<key>priorFactoryInterval</key>
+	<string>configurationSystemTransparency</string>
+	<key>scrollableZoneInterval</key>
+	<string>crucialNavigatorSaturation</string>
+	<key>tappableSliderMomentum</key>
+	<string>requiredCosineLeft</string>
+</dict>
+</plist>

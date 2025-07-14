@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>relationalTernaryBehavior</key>
+	<string>reactiveObserverTransparency</string>
+	<key>routerFlyweightAppearance</key>
+	<string>richtextWithSingleton</string>
+	<key>symmetricSceneHue</key>
+	<string>storageParameterKind</string>
+</dict>
+</plist>

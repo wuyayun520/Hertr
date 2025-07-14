@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialEffectBrightness</key>
+	<string>directlyModulusTop</string>
+	<key>responseModeCenter</key>
+	<string>draggableCurveTension</string>
+	<key>semanticsFromInterpreter</key>
+	<string>viewByValue</string>
+	<key>topicPrototypeCoord</key>
+	<string>scaleStateAppearance</string>
+</dict>
+</plist>

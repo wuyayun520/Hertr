@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseSizedboxSize</key>
+	<string>callbackTypeInterval</string>
+	<key>desktopDependencyBorder</key>
+	<string>axisPatternFrequency</string>
+	<key>dialogsDecoratorLocation</key>
+	<string>statelessModalTint</string>
+	<key>frameMediatorFormat</key>
+	<string>queueVersusScope</string>
+	<key>ignoredSliderBorder</key>
+	<string>titleAroundParam</string>
+	<key>intermediatePriorityAlignment</key>
+	<string>screenStateInteraction</string>
+	<key>serviceActivityStyle</key>
+	<string>storeTierOrientation</string>
+	<key>widgetBeyondMemento</key>
+	<string>sessionPhaseHead</string>
+</dict>
+</plist>

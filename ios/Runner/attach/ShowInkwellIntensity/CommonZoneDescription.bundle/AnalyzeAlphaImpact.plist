@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSubpixelFrequency</key>
+	<string>activeTweenFeedback</string>
+	<key>inactiveAsyncResponse</key>
+	<string>unsortedBoxshadowDepth</string>
+	<key>intermediateStampOrientation</key>
+	<string>missionBesideMode</string>
+	<key>labelFlyweightSkewx</key>
+	<string>isolateWithoutCommand</string>
+	<key>queryFormEdge</key>
+	<string>activityBufferHead</string>
+	<key>seamlessStreamTransparency</key>
+	<string>textSingletonShade</string>
+	<key>sequentialCapsuleTransparency</key>
+	<string>reducerByChain</string>
+</dict>
+</plist>

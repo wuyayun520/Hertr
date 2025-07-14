@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePresenterDirection</key>
+	<string>compositionOrType</string>
+	<key>awaitAroundProxy</key>
+	<string>liteGrainLeft</string>
+	<key>indicatorVarDelay</key>
+	<string>easyTableSpacing</string>
+	<key>isolateAwayStructure</key>
+	<string>permanentTransitionOpacity</string>
+	<key>multiCharacterHead</key>
+	<string>priorityAndFramework</string>
+	<key>providerSincePlatform</key>
+	<string>screenObserverOrientation</string>
+	<key>sequentialListviewColor</key>
+	<string>normalTernaryStatus</string>
+	<key>textfieldWithSystem</key>
+	<string>hardSignatureState</string>
+</dict>
+</plist>

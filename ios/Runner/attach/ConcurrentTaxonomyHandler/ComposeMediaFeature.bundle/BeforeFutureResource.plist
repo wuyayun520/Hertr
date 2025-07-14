@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoInjectionPressure</key>
+	<string>lostRectDuration</string>
+	<key>gramFormRotation</key>
+	<string>notificationSincePlatform</string>
+	<key>protectedEventBehavior</key>
+	<string>persistentIsolateTint</string>
+	<key>robustContractionOpacity</key>
+	<string>sceneSystemPadding</string>
+	<key>sortedScreenShade</key>
+	<string>listenerDecoratorDuration</string>
+	<key>viewVisitorDelay</key>
+	<string>tweenLevelAlignment</string>
+</dict>
+</plist>

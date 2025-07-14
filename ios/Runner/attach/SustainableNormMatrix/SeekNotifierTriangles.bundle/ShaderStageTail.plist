@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalMenuSkewy</key>
+	<string>offsetNearCycle</string>
+	<key>cursorAroundFramework</key>
+	<string>featureEnvironmentSaturation</string>
+	<key>easyContractionHue</key>
+	<string>stackMethodTransparency</string>
+	<key>layoutAsObserver</key>
+	<string>awaitSystemTop</string>
+	<key>localizationAsBuffer</key>
+	<string>promiseObserverDuration</string>
+	<key>menuCompositeTransparency</key>
+	<string>interactorAsEnvironment</string>
+	<key>segmentSystemLeft</key>
+	<string>queueViaState</string>
+	<key>sensorStageTheme</key>
+	<string>loopAlongActivity</string>
+	<key>specifyRadiusBottom</key>
+	<string>greatDescriptorForce</string>
+</dict>
+</plist>

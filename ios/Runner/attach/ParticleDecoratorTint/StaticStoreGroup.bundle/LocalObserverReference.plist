@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoOverlayOrigin</key>
+	<string>commandIncludeMethod</string>
+	<key>behaviorLevelOffset</key>
+	<string>inkwellVarResponse</string>
+	<key>compositionDecoratorTint</key>
+	<string>scrollableLayoutBrightness</string>
+	<key>deferredOffsetDelay</key>
+	<string>eventProcessDensity</string>
+	<key>flexLevelOrientation</key>
+	<string>mainIntensityTint</string>
+	<key>profileTypeKind</key>
+	<string>scaleOfActivity</string>
+	<key>scaffoldFrameworkTension</key>
+	<string>retainedPromiseShade</string>
+</dict>
+</plist>

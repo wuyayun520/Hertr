@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePromiseMode</key>
+	<string>desktopUsagePressure</string>
+	<key>customRequestTag</key>
+	<string>prevIntensityAppearance</string>
+	<key>mobileDecoratorTop</key>
+	<string>cubitOrPattern</string>
+	<key>precisionTempleHead</key>
+	<string>interactorMethodTop</string>
+	<key>stepContainMode</key>
+	<string>entropyActivityInteraction</string>
+</dict>
+</plist>

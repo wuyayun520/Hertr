@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAgainstWork</key>
+	<string>futureMethodVelocity</string>
+	<key>pinchableRemainderOffset</key>
+	<string>precisionActionSkewy</string>
+	<key>spriteKindTension</key>
+	<string>alignmentStructureInterval</string>
+	<key>unactivatedBulletShade</key>
+	<string>textfieldNearFacade</string>
+	<key>widgetCyclePressure</key>
+	<string>tangentMethodOrientation</string>
+</dict>
+</plist>

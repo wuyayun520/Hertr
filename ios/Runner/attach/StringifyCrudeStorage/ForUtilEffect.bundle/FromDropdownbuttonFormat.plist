@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentPrototypeHue</key>
+	<string>functionalDropdownbuttonShape</string>
+	<key>awaitTempleSkewy</key>
+	<string>prismaticNodeBorder</string>
+	<key>batchOutsideProxy</key>
+	<string>nativeInteractorRotation</string>
+	<key>cartesianRequestRate</key>
+	<string>commandBufferFeedback</string>
+	<key>concurrentFactoryInteraction</key>
+	<string>tweenDuringFacade</string>
+	<key>geometricTangentDelay</key>
+	<string>tweenShapeBound</string>
+	<key>mobxActivityOrigin</key>
+	<string>musicModeScale</string>
+	<key>priorRouteInset</key>
+	<string>responsiveCubitOrigin</string>
+	<key>topicModeInteraction</key>
+	<string>pointAgainstParameter</string>
+	<key>zoneChainIndex</key>
+	<string>listviewVersusOperation</string>
+</dict>
+</plist>

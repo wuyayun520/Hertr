@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryOfScope</key>
+	<string>errorLikeStructure</string>
+	<key>coordinatorSystemForce</key>
+	<string>responsiveAsyncIndex</string>
+	<key>cycleAgainstTier</key>
+	<string>webWidgetRotation</string>
+	<key>discardedExpandedBorder</key>
+	<string>sampleOutsideForm</string>
+	<key>requiredCubitScale</key>
+	<string>curveNearStyle</string>
+	<key>reusableImageCoord</key>
+	<string>signatureStyleName</string>
+	<key>shaderTierMode</key>
+	<string>immutableStepTheme</string>
+	<key>spriteExceptSingleton</key>
+	<string>themeCycleTransparency</string>
+	<key>tappableKernelShape</key>
+	<string>dynamicExtensionDirection</string>
+	<key>usageAmongTier</key>
+	<string>basicObserverStyle</string>
+</dict>
+</plist>

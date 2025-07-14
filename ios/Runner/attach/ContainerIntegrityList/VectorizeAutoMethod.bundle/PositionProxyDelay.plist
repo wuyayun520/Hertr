@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryExceptBridge</key>
+	<string>normalFactoryState</string>
+	<key>fragmentByObserver</key>
+	<string>topicViaMode</string>
+	<key>instructionFrameworkResponse</key>
+	<string>controllerParamShade</string>
+	<key>mobileEnvironmentPadding</key>
+	<string>otherSwiftRotation</string>
+	<key>pageviewAtEnvironment</key>
+	<string>usecaseInterpreterBound</string>
+	<key>retainedProfileMode</key>
+	<string>contractionParamColor</string>
+	<key>unactivatedTransitionInset</key>
+	<string>currentDecorationSkewx</string>
+</dict>
+</plist>

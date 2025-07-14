@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>managerPatternDuration</key>
+	<string>promiseSingletonStyle</string>
+	<key>resourcePlatformMargin</key>
+	<string>nibParamRight</string>
+	<key>scrollableGesturedetectorRight</key>
+	<string>curveFlyweightTransparency</string>
+	<key>synchronousEventHead</key>
+	<string>eagerDescriptionCenter</string>
+	<key>uniqueCellLeft</key>
+	<string>numericalAlertVisibility</string>
+</dict>
+</plist>

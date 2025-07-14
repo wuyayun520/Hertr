@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystExceptPlatform</key>
+	<string>metadataJobAppearance</string>
+	<key>discardedTableCoord</key>
+	<string>imageEnvironmentStyle</string>
+	<key>draggableAlertResponse</key>
+	<string>themePatternCenter</string>
+	<key>positionWithFacade</key>
+	<string>notificationStageVelocity</string>
+	<key>zoneAsParam</key>
+	<string>controllerContainLayer</string>
+</dict>
+</plist>

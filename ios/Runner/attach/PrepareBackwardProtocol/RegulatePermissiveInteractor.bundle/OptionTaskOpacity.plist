@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDependencyMomentum</key>
+	<string>observerFrameworkTag</string>
+	<key>graphBufferLocation</key>
+	<string>singleDelegatePosition</string>
+	<key>nativeOffsetType</key>
+	<string>symmetricTitleOffset</string>
+	<key>pointDecoratorBehavior</key>
+	<string>temporaryVectorResponse</string>
+	<key>requestParameterShade</key>
+	<string>pointInFacade</string>
+	<key>resolverBufferShade</key>
+	<string>sinkDespiteLayer</string>
+	<key>specifierOfStrategy</key>
+	<string>injectionCompositeType</string>
+</dict>
+</plist>

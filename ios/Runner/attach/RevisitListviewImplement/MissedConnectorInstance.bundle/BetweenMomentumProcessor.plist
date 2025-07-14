@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertInFramework</key>
+	<string>inactiveCellContrast</string>
+	<key>animationValueType</key>
+	<string>geometricLabelInteraction</string>
+	<key>associatedCallbackName</key>
+	<string>intuitiveNodeEdge</string>
+	<key>batchStateBehavior</key>
+	<string>widgetActivityShape</string>
+	<key>difficultPetForce</key>
+	<string>arithmeticChartSaturation</string>
+	<key>elasticCallbackFrequency</key>
+	<string>localizationBeyondInterpreter</string>
+	<key>firstEntityCount</key>
+	<string>expandedMementoStatus</string>
+	<key>hierarchicalSignatureTransparency</key>
+	<string>themeCycleBrightness</string>
+	<key>webCapsuleForce</key>
+	<string>resolverParamKind</string>
+</dict>
+</plist>

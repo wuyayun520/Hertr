@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableDurationBorder</key>
+	<string>curveCycleValidation</string>
+	<key>composableGetxVisibility</key>
+	<string>masterStyleValidation</string>
+	<key>cupertinoViaParameter</key>
+	<string>handlerForParameter</string>
+	<key>immediateGestureFrequency</key>
+	<string>modulusFrameworkRate</string>
+	<key>intermediateBinaryAlignment</key>
+	<string>optionExceptMemento</string>
+	<key>lastMultiplicationAcceleration</key>
+	<string>responsiveSizedboxShade</string>
+	<key>mainWidgetTag</key>
+	<string>integerContainStructure</string>
+	<key>themeProcessInset</key>
+	<string>usedRemainderPadding</string>
+	<key>utilBufferOrigin</key>
+	<string>customTransformerSkewx</string>
+</dict>
+</plist>

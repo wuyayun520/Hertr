@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderPerLevel</key>
+	<string>gesturedetectorAroundShape</string>
+	<key>layoutAgainstWork</key>
+	<string>gestureUntilPlatform</string>
+	<key>missionByFunction</key>
+	<string>nextTabbarOrigin</string>
+	<key>modelFromAction</key>
+	<string>tickerFromParam</string>
+	<key>modelLayerTension</key>
+	<string>effectOutsideStructure</string>
+	<key>nextInteractorCenter</key>
+	<string>responsiveInteractorSaturation</string>
+	<key>transformerCycleTheme</key>
+	<string>disabledStreamKind</string>
+	<key>tweenTempleCount</key>
+	<string>positionedAroundBridge</string>
+</dict>
+</plist>

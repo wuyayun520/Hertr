@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAlphaAlignment</key>
+	<string>iterativeListviewContrast</string>
+	<key>equalizationBridgeShape</key>
+	<string>respectiveReducerTint</string>
+	<key>newestPromiseRight</key>
+	<string>previewPhaseTransparency</string>
+	<key>roleDuringPhase</key>
+	<string>tabbarAroundMode</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowContainKind</key>
+	<string>basicBlocInteraction</string>
+	<key>permissiveIntegerEdge</key>
+	<string>curveFlyweightAcceleration</string>
+	<key>precisionAmongShape</key>
+	<string>themeInsideStrategy</string>
+	<key>usecaseInterpreterStyle</key>
+	<string>subtleImageBottom</string>
+</dict>
+</plist>

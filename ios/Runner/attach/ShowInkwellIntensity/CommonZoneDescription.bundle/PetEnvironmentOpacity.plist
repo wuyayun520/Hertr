@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartPhaseContrast</key>
+	<string>liteResourceLocation</string>
+	<key>cupertinoStyleContrast</key>
+	<string>graphAtLayer</string>
+	<key>imageFromMethod</key>
+	<string>declarativeAnimationTag</string>
+	<key>lastBoxshadowVelocity</key>
+	<string>anchorBufferRotation</string>
+	<key>layerFrameworkDensity</key>
+	<string>storageAtMediator</string>
+	<key>repositoryAroundComposite</key>
+	<string>sampleCommandOffset</string>
+</dict>
+</plist>

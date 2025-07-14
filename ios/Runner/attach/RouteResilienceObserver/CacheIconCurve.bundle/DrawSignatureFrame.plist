@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerOrSystem</key>
+	<string>bufferPhaseAcceleration</string>
+	<key>axisOrVariable</key>
+	<string>semanticCacheInterval</string>
+	<key>hardBorderBehavior</key>
+	<string>repositoryVersusStrategy</string>
+	<key>loopOfEnvironment</key>
+	<string>semanticsDespiteState</string>
+	<key>mutableEffectDirection</key>
+	<string>awaitWithFunction</string>
+	<key>providerWithoutParam</key>
+	<string>enabledBuilderLeft</string>
+	<key>radioVersusLayer</key>
+	<string>sceneProcessBottom</string>
+	<key>scrollableMovementOffset</key>
+	<string>advancedMetadataInterval</string>
+	<key>streamBufferPosition</key>
+	<string>fusedIntensityVelocity</string>
+</dict>
+</plist>

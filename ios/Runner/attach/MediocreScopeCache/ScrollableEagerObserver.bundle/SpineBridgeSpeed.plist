@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionCommandFormat</key>
+	<string>largeTopicAppearance</string>
+	<key>constraintThroughStrategy</key>
+	<string>nodeScopeName</string>
+	<key>gemFunctionPressure</key>
+	<string>repositoryAlongFramework</string>
+	<key>greatBitrateInteraction</key>
+	<string>statelessWidgetState</string>
+	<key>kernelPerActivity</key>
+	<string>commandFormSpeed</string>
+	<key>sizedboxSystemTransparency</key>
+	<string>relationalAppbarTint</string>
+</dict>
+</plist>

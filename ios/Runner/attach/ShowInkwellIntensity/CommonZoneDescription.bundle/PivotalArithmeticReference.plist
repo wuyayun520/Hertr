@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramContextType</key>
+	<string>cacheCompositeOrientation</string>
+	<key>methodStructureOrientation</key>
+	<string>gridForScope</string>
+	<key>normCompositeDensity</key>
+	<string>memberVarEdge</string>
+	<key>usedVariantSize</key>
+	<string>queueFromMemento</string>
+</dict>
+</plist>

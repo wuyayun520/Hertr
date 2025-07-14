@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticContextName</key>
+	<string>gesturedetectorFunctionRight</string>
+	<key>assetStrategyMode</key>
+	<string>collectionAsDecorator</string>
+	<key>bufferNearFunction</key>
+	<string>stackMementoDistance</string>
+	<key>coordinatorVisitorCenter</key>
+	<string>sensorOfStructure</string>
+	<key>cosineAroundParam</key>
+	<string>heapFromVariable</string>
+	<key>eagerProjectSpeed</key>
+	<string>singletonAtInterpreter</string>
+	<key>timerOfVariable</key>
+	<string>arithmeticProjectionOpacity</string>
+	<key>usedAllocatorResponse</key>
+	<string>optionChainPosition</string>
+</dict>
+</plist>

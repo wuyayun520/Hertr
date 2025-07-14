@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticContextMode</key>
+	<string>vectorInterpreterForce</string>
+	<key>cursorVariableForce</key>
+	<string>activatedTransitionValidation</string>
+	<key>gesturedetectorWithoutShape</key>
+	<string>denseDelegateMomentum</string>
+	<key>mediumBatchIndex</key>
+	<string>permissiveHandlerRate</string>
+	<key>resilientResponseIndex</key>
+	<string>stateUntilValue</string>
+</dict>
+</plist>

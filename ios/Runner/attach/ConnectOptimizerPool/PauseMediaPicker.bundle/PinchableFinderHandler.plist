@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystIncludeShape</key>
+	<string>storageTierBorder</string>
+	<key>compositionStrategyOrigin</key>
+	<string>scaleAmongSystem</string>
+	<key>independentCommandRate</key>
+	<string>rapidSizeDistance</string>
+	<key>mobxAboutForm</key>
+	<string>axisAwayShape</string>
+	<key>opaqueQueueScale</key>
+	<string>durationAsNumber</string>
+	<key>resilientLocalizationSize</key>
+	<string>queryVarScale</string>
+	<key>singleEntropyInset</key>
+	<string>imperativeSpriteDelay</string>
+	<key>sustainablePreviewFeedback</key>
+	<string>screenViaSingleton</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleStrategyFormat</key>
+	<string>labelAndParam</string>
+	<key>multiCallbackPosition</key>
+	<string>providerInsideShape</string>
+	<key>positionedModeTint</key>
+	<string>providerFacadeAppearance</string>
+	<key>tickerSystemHead</key>
+	<string>navigationKindFrequency</string>
+	<key>typicalActionStatus</key>
+	<string>entityLevelRotation</string>
+</dict>
+</plist>

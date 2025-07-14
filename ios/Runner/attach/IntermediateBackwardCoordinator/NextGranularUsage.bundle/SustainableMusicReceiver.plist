@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletBeyondVisitor</key>
+	<string>characterMementoType</string>
+	<key>compositionIncludeProxy</key>
+	<string>decorationDuringStage</string>
+	<key>flexibleWidgetRotation</key>
+	<string>providerViaPlatform</string>
+	<key>lazyGramAlignment</key>
+	<string>curveSystemPressure</string>
+	<key>mobileSkirtContrast</key>
+	<string>painterByShape</string>
+	<key>spriteThroughLevel</key>
+	<string>sceneCompositeOrientation</string>
+	<key>subtleTitleTint</key>
+	<string>eventEnvironmentInteraction</string>
+</dict>
+</plist>

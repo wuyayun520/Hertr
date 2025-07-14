@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cyclePerJob</key>
+	<string>subscriptionDuringMediator</string>
+	<key>documentContextResponse</key>
+	<string>asyncBeyondPrototype</string>
+	<key>exceptionScopeInteraction</key>
+	<string>presenterDuringType</string>
+	<key>logInterpreterStyle</key>
+	<string>animationPhaseDensity</string>
+	<key>momentumInsideState</key>
+	<string>globalSegueValidation</string>
+	<key>precisionWithComposite</key>
+	<string>criticalTextRotation</string>
+	<key>roleActivityVisibility</key>
+	<string>gridFlyweightInterval</string>
+	<key>sensorObserverPressure</key>
+	<string>descriptorBridgeTag</string>
+	<key>spriteDespiteEnvironment</key>
+	<string>permanentContractionPressure</string>
+</dict>
+</plist>

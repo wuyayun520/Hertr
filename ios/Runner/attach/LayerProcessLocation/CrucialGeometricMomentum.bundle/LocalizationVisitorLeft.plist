@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleMediatorAlignment</key>
+	<string>storyboardPhaseResponse</string>
+	<key>densePositionDuration</key>
+	<string>statefulCubitSaturation</string>
+	<key>gridviewVariableSkewy</key>
+	<string>decorationForCommand</string>
+	<key>hierarchicalCacheRotation</key>
+	<string>missedTopicOrigin</string>
+	<key>hyperbolicToolHue</key>
+	<string>instructionInBuffer</string>
+	<key>inkwellStateOrientation</key>
+	<string>riverpodFlyweightBrightness</string>
+	<key>listenerSinceChain</key>
+	<string>declarativeNotifierSaturation</string>
+	<key>originalBlocRight</key>
+	<string>usecaseLikeContext</string>
+	<key>statefulPerTask</key>
+	<string>statelessCursorBound</string>
+	<key>variantMethodTheme</key>
+	<string>richtextNumberFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitySingletonValidation</key>
+	<string>overlayProxyLocation</string>
+	<key>awaitThroughMethod</key>
+	<string>previewAmongActivity</string>
+	<key>compositionalSliderMode</key>
+	<string>primaryTableOrientation</string>
+	<key>kernelTierState</key>
+	<string>eventCycleAppearance</string>
+	<key>liteMultiplicationPadding</key>
+	<string>observerLayerRight</string>
+	<key>normWithStyle</key>
+	<string>priorityForSystem</string>
+	<key>priorityFunctionShade</key>
+	<string>navigatorAboutPattern</string>
+	<key>webConstraintBehavior</key>
+	<string>semanticKernelHead</string>
+</dict>
+</plist>

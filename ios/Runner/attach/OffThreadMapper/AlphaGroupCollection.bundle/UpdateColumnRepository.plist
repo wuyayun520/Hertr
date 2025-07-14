@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardParameterValidation</key>
+	<string>usecaseThroughLayer</string>
+	<key>deferredSwitchHue</key>
+	<string>pivotalSpriteMode</string>
+	<key>intensityExceptEnvironment</key>
+	<string>captionAdapterInteraction</string>
+	<key>masterStateResponse</key>
+	<string>queryInterpreterAcceleration</string>
+	<key>protectedModalFrequency</key>
+	<string>animatedcontainerChainMode</string>
+	<key>sizeCycleSpeed</key>
+	<string>observerProxyMomentum</string>
+	<key>textBesideDecorator</key>
+	<string>materialFromAction</string>
+	<key>widgetAdapterCenter</key>
+	<string>entityActivityStyle</string>
+</dict>
+</plist>

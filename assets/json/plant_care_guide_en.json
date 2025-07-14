@@ -1,0 +1,610 @@
+{
+  "plant_care_guides": [
+    {
+      "id": 1,
+      "name": "Golden Pothos",
+      "scientific_name": "Epipremnum aureum",
+      "category": "Foliage Plant",
+      "difficulty": "Easy",
+      "images": [
+        "assets/post/1/post_1.jpg",
+        "assets/post/1/post_2.jpg"
+      ],
+      "description": "Golden Pothos is one of the most popular indoor plants with lush green leaves, rapid growth, and excellent air purification effects.",
+      "care_guide": {
+        "light": "Bright indirect light, avoid direct sunlight",
+        "water": "Water when soil surface is dry, keep slightly moist",
+        "humidity": "50-60%, mist frequently to increase humidity",
+        "temperature": "18-28°C (64-82°F)",
+        "fertilizer": "Apply liquid fertilizer every 2 weeks in spring and summer",
+        "soil": "Well-draining potting mix with good aeration",
+        "repotting": "Repot every 1-2 years"
+      },
+      "tips": [
+        "Can be grown in water or soil",
+        "Regular pruning promotes branching",
+        "Yellow leaves usually indicate overwatering"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Snake Plant",
+      "scientific_name": "Sansevieria trifasciata",
+      "category": "Succulent",
+      "difficulty": "Easy",
+      "images": [
+        "assets/post/2/post_1.jpg",
+        "assets/post/2/post_2.jpg"
+      ],
+      "description": "Snake Plant has upright leaves with yellow edges, extremely drought-tolerant, ideal choice for beginners.",
+      "care_guide": {
+        "light": "Bright light, can tolerate partial shade",
+        "water": "Better dry than wet, reduce watering in winter",
+        "humidity": "40-50%",
+        "temperature": "15-25°C (59-77°F)",
+        "fertilizer": "Fertilize once a month during growing season",
+        "soil": "Well-draining sandy soil",
+        "repotting": "Repot every 2-3 years"
+      },
+      "tips": [
+        "Very drought-tolerant, overwatering causes root rot",
+        "Releases oxygen at night",
+        "Can be propagated by division"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Spider Plant",
+      "scientific_name": "Chlorophytum comosum",
+      "category": "Foliage Plant",
+      "difficulty": "Easy",
+      "images": [
+        "assets/post/3/post_1.jpg",
+        "assets/post/3/post_2.jpg"
+      ],
+      "description": "Spider Plant has long, narrow leaves with white stripes, produces plantlets, excellent for hanging cultivation.",
+      "care_guide": {
+        "light": "Bright indirect light",
+        "water": "Keep soil slightly moist",
+        "humidity": "50-60%",
+        "temperature": "15-25°C (59-77°F)",
+        "fertilizer": "Apply liquid fertilizer every 2 weeks during growing season",
+        "soil": "Well-draining, fertile potting mix",
+        "repotting": "Repot every spring"
+      },
+      "tips": [
+        "Plantlets on runners can be used for propagation",
+        "Excellent air purification effect",
+        "Perfect for hanging cultivation"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Rubber Plant",
+      "scientific_name": "Ficus elastica",
+      "category": "Foliage Plant",
+      "difficulty": "Moderate",
+      "images": [
+        "assets/post/4/post_1.jpg",
+        "assets/post/4/post_2.jpg",
+        "assets/post/4/post_3.jpg"
+      ],
+      "description": "Rubber Plant has thick, glossy leaves with upright growth habit, excellent indoor foliage plant.",
+      "care_guide": {
+        "light": "Bright indirect light, can tolerate partial shade",
+        "water": "Water when soil is half dry",
+        "humidity": "50-70%",
+        "temperature": "18-28°C (64-82°F)",
+        "fertilizer": "Fertilize monthly during growing season",
+        "soil": "Well-draining potting mix",
+        "repotting": "Repot every 2 years"
+      },
+      "tips": [
+        "Wipe leaves regularly to maintain shine",
+        "Can control shape through pruning",
+        "New leaves are protected by red bracts"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Money Tree",
+      "scientific_name": "Pachira aquatica",
+      "category": "Foliage Plant",
+      "difficulty": "Moderate",
+      "images": [
+        "assets/post/5/post_1.jpg",
+        "assets/post/5/post_2.jpg",
+        "assets/post/5/post_3.jpg"
+      ],
+      "description": "Money Tree symbolizes good fortune with palmate leaves and thick trunk, popular indoor plant.",
+      "care_guide": {
+        "light": "Bright indirect light",
+        "water": "Water when soil is completely dry, avoid waterlogging",
+        "humidity": "60-70%",
+        "temperature": "20-30°C (68-86°F)",
+        "fertilizer": "Fertilize monthly during growing season",
+        "soil": "Well-draining, aerated potting mix",
+        "repotting": "Repot every 2-3 years"
+      },
+      "tips": [
+        "Sensitive to waterlogging, better dry than wet",
+        "Trunk can be braided for decoration",
+        "Yellow leaves usually indicate watering issues"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "English Ivy",
+      "scientific_name": "Hedera helix",
+      "category": "Vine Plant",
+      "difficulty": "Easy",
+      "images": [
+        "assets/post/6/post_1.jpg",
+        "assets/post/6/post_2.jpg"
+      ],
+      "description": "English Ivy has beautiful leaves with strong climbing ability, suitable for hanging or climbing cultivation.",
+      "care_guide": {
+        "light": "Bright indirect light, can tolerate shade",
+        "water": "Keep soil moist",
+        "humidity": "50-60%",
+        "temperature": "15-25°C (59-77°F)",
+        "fertilizer": "Apply liquid fertilizer every 2 weeks during growing season",
+        "soil": "Well-draining, fertile potting mix",
+        "repotting": "Repot every spring"
+      },
+      "tips": [
+        "Can be propagated in water",
+        "Regular pruning maintains shape",
+        "Good air purification effect"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Monstera",
+      "scientific_name": "Monstera deliciosa",
+      "category": "Foliage Plant",
+      "difficulty": "Moderate",
+      "images": [
+        "assets/post/7/post_1.jpg",
+        "assets/post/7/post_2.jpg"
+      ],
+      "description": "Monstera has large leaves with unique fenestrations, representative of tropical style plants.",
+      "care_guide": {
+        "light": "Bright indirect light",
+        "water": "Keep soil slightly moist",
+        "humidity": "60-80%",
+        "temperature": "20-30°C (68-86°F)",
+        "fertilizer": "Fertilize every 2 weeks during growing season",
+        "soil": "Well-draining, fertile potting mix",
+        "repotting": "Repot every 2 years"
+      },
+      "tips": [
+        "Needs support pole for climbing",
+        "Mist frequently to increase humidity",
+        "Only mature leaves develop fenestrations"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "ZZ Plant",
+      "scientific_name": "Zamioculcas zamiifolia",
+      "category": "Succulent",
+      "difficulty": "Easy",
+      "images": [
+        "assets/post/8/post_1.jpg",
+        "assets/post/8/post_2.jpg"
+      ],
+      "description": "ZZ Plant has thick, orderly arranged leaves, symbolizes wealth and prosperity, extremely drought-tolerant.",
+      "care_guide": {
+        "light": "Bright indirect light, can tolerate low light",
+        "water": "Water only when soil is completely dry",
+        "humidity": "40-60%",
+        "temperature": "18-26°C (64-79°F)",
+        "fertilizer": "Fertilize monthly during growing season",
+        "soil": "Well-draining sandy soil",
+        "repotting": "Repot every 2-3 years"
+      },
+      "tips": [
+        "Extremely drought-tolerant, overwatering causes root rot",
+        "Can be propagated by division",
+        "Slow growing but very durable"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Peace Lily",
+      "scientific_name": "Spathiphyllum wallisii",
+      "category": "Flowering Plant",
+      "difficulty": "Moderate",
+      "images": [
+        "assets/post/9/post_1.jpg",
+        "assets/post/9/post_2.jpg"
+      ],
+      "description": "Peace Lily has green leaves and elegant white flowers, excellent indoor flowering plant.",
+      "care_guide": {
+        "light": "Bright indirect light, avoid direct sun",
+        "water": "Keep soil moist",
+        "humidity": "60-80%",
+        "temperature": "18-28°C (64-82°F)",
+        "fertilizer": "Apply liquid fertilizer every 2 weeks during growing season",
+        "soil": "Well-draining, aerated potting mix",
+        "repotting": "Repot every spring"
+      },
+      "tips": [
+        "Requires high air humidity",
+        "Remove spent flowers promptly",
+        "Brown leaf tips may indicate low humidity"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Asparagus Fern",
+      "scientific_name": "Asparagus setaceus",
+      "category": "Foliage Plant",
+      "difficulty": "Difficult",
+      "images": [
+        "assets/post/10/post_1.jpg",
+        "assets/post/10/post_2.jpg",
+        "assets/post/10/post_3.jpg"
+      ],
+      "description": "Asparagus Fern has delicate feathery foliage with elegant form and scholarly appearance, but requires careful care.",
+      "care_guide": {
+        "light": "Bright indirect light, avoid direct sun",
+        "water": "Keep soil slightly moist",
+        "humidity": "70-80%",
+        "temperature": "15-25°C (59-77°F)",
+        "fertilizer": "Apply diluted liquid fertilizer every 2 weeks during growing season",
+        "soil": "Well-draining, aerated potting mix",
+        "repotting": "Repot every spring"
+      },
+      "tips": [
+        "Sensitive to environmental changes",
+        "Needs stable high humidity",
+        "Avoid touching the foliage"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Aloe Vera",
+      "scientific_name": "Aloe vera",
+      "category": "Succulent",
+      "difficulty": "Easy",
+      "images": [
+        "assets/post/11/post_1.jpg",
+        "assets/post/11/post_2.jpg"
+      ],
+      "description": "Aloe Vera has thick, succulent leaves with medicinal properties, very practical plant.",
+      "care_guide": {
+        "light": "Full sun, can tolerate partial shade",
+        "water": "Water when soil is completely dry",
+        "humidity": "30-50%",
+        "temperature": "15-35°C (59-95°F)",
+        "fertilizer": "Fertilize monthly during growing season",
+        "soil": "Well-draining sandy soil",
+        "repotting": "Repot every 2-3 years"
+      },
+      "tips": [
+        "Extremely drought-tolerant, barely needs water in winter",
+        "Can be used to treat minor burns",
+        "Propagate through offsets"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Cactus",
+      "scientific_name": "Cactaceae",
+      "category": "Succulent",
+      "difficulty": "Easy",
+      "images": [
+        "assets/post/12/post_1.jpg",
+        "assets/post/12/post_2.jpg"
+      ],
+      "description": "Cactus comes in various forms, extremely drought-tolerant, representative of low-maintenance plants.",
+      "care_guide": {
+        "light": "Full sun",
+        "water": "Water sparingly in spring/summer, stop watering in winter",
+        "humidity": "30-40%",
+        "temperature": "15-30°C (59-86°F)",
+        "fertilizer": "Use cactus-specific fertilizer monthly during growing season",
+        "soil": "Extremely well-draining sandy soil",
+        "repotting": "Repot every 3-4 years"
+      },
+      "tips": [
+        "Better dry than wet, overwatering is fatal",
+        "Needs winter dormancy",
+        "Can be propagated by cuttings"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Clivia",
+      "scientific_name": "Clivia miniata",
+      "category": "Flowering Plant",
+      "difficulty": "Difficult",
+      "images": [
+        "assets/post/13/post_1.jpg",
+        "assets/post/13/post_2.jpg"
+      ],
+      "description": "Clivia has thick, symmetrical leaves and vibrant flowers, high-end indoor flowering plant.",
+      "care_guide": {
+        "light": "Bright indirect light",
+        "water": "Water when soil is half dry",
+        "humidity": "50-70%",
+        "temperature": "15-25°C (59-77°F)",
+        "fertilizer": "Apply liquid fertilizer every 2 weeks during growing season",
+        "soil": "Well-draining, fertile potting mix",
+        "repotting": "Repot every 2-3 years"
+      },
+      "tips": [
+        "Needs winter cold treatment to bloom",
+        "Wipe leaves regularly",
+        "Avoid water accumulation on leaves"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Sago Palm",
+      "scientific_name": "Cycas revoluta",
+      "category": "Foliage Plant",
+      "difficulty": "Moderate",
+      "images": [
+        "assets/post/14/post_1.jpg",
+        "assets/post/14/post_2.jpg"
+      ],
+      "description": "Sago Palm has hard, iron-like leaves with slow growth, symbolizes resilience and perseverance.",
+      "care_guide": {
+        "light": "Full sun, can tolerate partial shade",
+        "water": "Water when soil is completely dry",
+        "humidity": "50-60%",
+        "temperature": "15-28°C (59-82°F)",
+        "fertilizer": "Fertilize monthly during growing season",
+        "soil": "Well-draining sandy soil",
+        "repotting": "Repot every 3-4 years"
+      },
+      "tips": [
+        "Extremely slow growing",
+        "New leaves take a long time to unfurl",
+        "Drought-tolerant but not waterlogging-tolerant"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Elephant Ear",
+      "scientific_name": "Alocasia macrorrhizos",
+      "category": "Foliage Plant",
+      "difficulty": "Moderate",
+      "images": [
+        "assets/post/15/post_1.jpg"
+      ],
+      "description": "Elephant Ear has huge leaves that drip water from tips in high humidity, high ornamental value.",
+      "care_guide": {
+        "light": "Bright indirect light",
+        "water": "Keep soil moist",
+        "humidity": "70-80%",
+        "temperature": "20-30°C (68-86°F)",
+        "fertilizer": "Apply liquid fertilizer every 2 weeks during growing season",
+        "soil": "Well-draining, fertile potting mix",
+        "repotting": "Repot every spring"
+      },
+      "tips": [
+        "Requires high humidity environment",
+        "Sap is toxic, avoid contact",
+        "Goes dormant in winter"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Lucky Bamboo",
+      "scientific_name": "Dracaena sanderiana",
+      "category": "Foliage Plant",
+      "difficulty": "Easy",
+      "images": [
+        "assets/post/16/post_1.jpg",
+        "assets/post/16/post_2.jpg"
+      ],
+      "description": "Lucky Bamboo symbolizes good fortune, can grow in water or soil, one of the most popular indoor plants.",
+      "care_guide": {
+        "light": "Bright indirect light, can tolerate low light",
+        "water": "Change water regularly for hydroponic, keep soil moist for soil cultivation",
+        "humidity": "50-70%",
+        "temperature": "18-28°C (64-82°F)",
+        "fertilizer": "Add nutrients for hydroponic, fertilize monthly for soil cultivation",
+        "soil": "Well-draining, aerated potting mix",
+        "repotting": "Repot every spring"
+      },
+      "tips": [
+        "Hydroponic cultivation is easier to manage",
+        "Can be shaped and braided",
+        "Trim yellow leaves promptly"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Phalaenopsis Orchid",
+      "scientific_name": "Phalaenopsis",
+      "category": "Flowering Plant",
+      "difficulty": "Difficult",
+      "images": [
+        "assets/post/17/post_1.jpg",
+        "assets/post/17/post_2.jpg"
+      ],
+      "description": "Phalaenopsis Orchid has butterfly-like beautiful flowers, high-end flowering plant with demanding care requirements.",
+      "care_guide": {
+        "light": "Bright indirect light, avoid direct sun",
+        "water": "Use moss for moisture, avoid waterlogging",
+        "humidity": "70-80%",
+        "temperature": "18-28°C (64-82°F)",
+        "fertilizer": "Apply orchid-specific fertilizer weekly during growing season",
+        "soil": "Orchid-specific growing medium",
+        "repotting": "Change medium every 2 years"
+      },
+      "tips": [
+        "Requires special orchid growing medium",
+        "Very high humidity requirements",
+        "Trim flower spike after blooming"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Anthurium",
+      "scientific_name": "Anthurium andraeanum",
+      "category": "Flowering Plant",
+      "difficulty": "Moderate",
+      "images": [
+        "assets/post/18/post_1.jpg",
+        "assets/post/18/post_2.jpg"
+      ],
+      "description": "Anthurium has bright red flowers with long blooming period, excellent indoor flowering plant.",
+      "care_guide": {
+        "light": "Bright indirect light",
+        "water": "Keep soil slightly moist",
+        "humidity": "70-80%",
+        "temperature": "20-30°C (68-86°F)",
+        "fertilizer": "Apply liquid fertilizer every 2 weeks during growing season",
+        "soil": "Well-draining, aerated potting mix",
+        "repotting": "Repot every 2 years"
+      },
+      "tips": [
+        "Requires high humidity environment",
+        "Trim spent flowers promptly",
+        "Avoid water accumulation on leaves"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Jasmine",
+      "scientific_name": "Jasminum sambac",
+      "category": "Flowering Plant",
+      "difficulty": "Moderate",
+      "images": [
+        "assets/post/19/post_1.jpg",
+        "assets/post/19/post_2.jpg"
+      ],
+      "description": "Jasmine has intense fragrance and white flowers, famous fragrant flowering plant.",
+      "care_guide": {
+        "light": "Full sun",
+        "water": "Keep soil moist",
+        "humidity": "60-70%",
+        "temperature": "20-30°C (68-86°F)",
+        "fertilizer": "Apply liquid fertilizer every 2 weeks during growing season",
+        "soil": "Well-draining, fertile acidic soil",
+        "repotting": "Repot every spring"
+      },
+      "tips": [
+        "Needs full sun to bloom",
+        "Prune promptly after flowering",
+        "Prefers acidic soil"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Mint",
+      "scientific_name": "Mentha",
+      "category": "Herb Plant",
+      "difficulty": "Easy",
+      "images": [
+        "assets/post/20/post_1.jpg"
+      ],
+      "description": "Mint has fresh fragrance and rapid growth, both ornamental and edible.",
+      "care_guide": {
+        "light": "Full sun or partial shade",
+        "water": "Keep soil moist",
+        "humidity": "50-70%",
+        "temperature": "15-25°C (59-77°F)",
+        "fertilizer": "Apply liquid fertilizer every 2 weeks during growing season",
+        "soil": "Well-draining, fertile potting mix",
+        "repotting": "Repot every spring"
+      },
+      "tips": [
+        "Grows rapidly, needs frequent pruning",
+        "Can be used for tea or seasoning",
+        "Easy to propagate by cuttings"
+      ]
+    }
+  ],
+  "seasonal_care": {
+    "spring": {
+      "description": "Spring is the peak growing season for plants",
+      "tasks": [
+        "Repot and change soil",
+        "Increase watering frequency",
+        "Start fertilizing",
+        "Prune and shape"
+      ]
+    },
+    "summer": {
+      "description": "Summer's high temperature and humidity require special attention",
+      "tasks": [
+        "Avoid strong direct sunlight",
+        "Increase watering and misting",
+        "Improve ventilation",
+        "Prevent pests and diseases"
+      ]
+    },
+    "autumn": {
+      "description": "Autumn is when plants prepare for dormancy",
+      "tasks": [
+        "Reduce watering frequency",
+        "Stop fertilizing",
+        "Clean up dead leaves",
+        "Prepare for winter"
+      ]
+    },
+    "winter": {
+      "description": "Winter is when most plants enter dormancy",
+      "tasks": [
+        "Control watering",
+        "Maintain temperature",
+        "Increase lighting",
+        "Avoid cold drafts"
+      ]
+    }
+  },
+  "common_problems": [
+    {
+      "problem": "Yellow leaves",
+      "causes": [
+        "Overwatering",
+        "Insufficient light",
+        "Nutrient deficiency",
+        "Natural aging"
+      ],
+      "solutions": [
+        "Adjust watering frequency",
+        "Increase lighting",
+        "Apply appropriate fertilizer",
+        "Trim yellow leaves promptly"
+      ]
+    },
+    {
+      "problem": "Wilting leaves",
+      "causes": [
+        "Lack of water",
+        "Root rot",
+        "Pests and diseases",
+        "Environmental shock"
+      ],
+      "solutions": [
+        "Water promptly",
+        "Check root system",
+        "Treat pests and diseases",
+        "Stabilize environment"
+      ]
+    },
+    {
+      "problem": "No flowering",
+      "causes": [
+        "Insufficient light",
+        "Nutrient deficiency",
+        "No vernalization",
+        "Plant too young"
+      ],
+      "solutions": [
+        "Increase lighting",
+        "Supplement phosphorus and potassium",
+        "Provide vernalization treatment",
+        "Be patient"
+      ]
+    }
+  ]
+} 

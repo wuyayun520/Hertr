@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsBridgeDirection</key>
+	<string>listviewAwayPlatform</string>
+	<key>currentWidgetState</key>
+	<string>dynamicPlateValidation</string>
+	<key>gridPerNumber</key>
+	<string>modalForNumber</string>
+	<key>masterContextPadding</key>
+	<string>reducerForPhase</string>
+	<key>plateAroundTier</key>
+	<string>buttonAlongMethod</string>
+	<key>relationalCharacterLeft</key>
+	<string>layoutWithoutMode</string>
+	<key>respectiveRequestTop</key>
+	<string>heroStyleOrigin</string>
+	<key>resultWithoutStage</key>
+	<string>asyncPositionTint</string>
+</dict>
+</plist>

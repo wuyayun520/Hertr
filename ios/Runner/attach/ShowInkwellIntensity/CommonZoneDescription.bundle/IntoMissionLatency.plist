@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonEventScale</key>
+	<string>eventTaskCount</string>
+	<key>declarativeBlocOrientation</key>
+	<string>providerPatternDelay</string>
+	<key>descriptorIncludeProxy</key>
+	<string>radiusBridgeInterval</string>
+	<key>hardAlignmentHead</key>
+	<string>scrollableChallengeAlignment</string>
+	<key>labelSinceState</key>
+	<string>asyncInterpreterColor</string>
+	<key>navigatorBridgeMomentum</key>
+	<string>fixedBorderStyle</string>
+	<key>pinchableOptimizerTail</key>
+	<string>modelInsideChain</string>
+	<key>semanticWidgetShape</key>
+	<string>ternaryChainColor</string>
+	<key>variantActivityEdge</key>
+	<string>originalDependencyPosition</string>
+</dict>
+</plist>

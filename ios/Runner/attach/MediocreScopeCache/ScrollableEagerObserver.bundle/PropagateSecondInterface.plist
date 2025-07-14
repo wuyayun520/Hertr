@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAccessorySkewy</key>
+	<string>liteSpineSpeed</string>
+	<key>contractionPerFlyweight</key>
+	<string>cosineEnvironmentSpeed</string>
+	<key>explicitTextureDuration</key>
+	<string>cupertinoParameterSaturation</string>
+	<key>globalLayoutForce</key>
+	<string>fixedAnimatedcontainerTop</string>
+	<key>inactiveUsageDistance</key>
+	<string>menuUntilStructure</string>
+	<key>integerOperationFrequency</key>
+	<string>gridObserverOffset</string>
+	<key>memberPerEnvironment</key>
+	<string>activatedKernelFlags</string>
+	<key>pinchableBoxshadowAcceleration</key>
+	<string>methodThanTask</string>
+	<key>taskFrameworkTransparency</key>
+	<string>intuitiveMethodSize</string>
+</dict>
+</plist>

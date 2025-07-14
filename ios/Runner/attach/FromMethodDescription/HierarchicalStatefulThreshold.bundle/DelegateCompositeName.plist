@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileInteractorState</key>
+	<string>eagerModelStatus</string>
+	<key>concreteRouteKind</key>
+	<string>dependencyAtFunction</string>
+	<key>controllerNearEnvironment</key>
+	<string>reusableQueryIndex</string>
+	<key>declarativePositionStatus</key>
+	<string>commandInBuffer</string>
+	<key>graphicAwayAdapter</key>
+	<string>operationInPhase</string>
+	<key>riverpodObserverInteraction</key>
+	<string>graphSinceForm</string>
+	<key>signInPlatform</key>
+	<string>timerInsideActivity</string>
+	<key>statefulTextTop</key>
+	<string>unaryStateOrientation</string>
+</dict>
+</plist>

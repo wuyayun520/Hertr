@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationStyleVisibility</key>
+	<string>animationTierFormat</string>
+	<key>mobileGraphicTransparency</key>
+	<string>customVariantAppearance</string>
+	<key>normWorkRotation</key>
+	<string>consultativeSubscriptionMargin</string>
+	<key>sessionFlyweightAlignment</key>
+	<string>interactorPerInterpreter</string>
+	<key>widgetParameterCenter</key>
+	<string>featureTierTop</string>
+</dict>
+</plist>

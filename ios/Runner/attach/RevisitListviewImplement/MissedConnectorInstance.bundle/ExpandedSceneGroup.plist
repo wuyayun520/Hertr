@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferCompositeSpeed</key>
+	<string>controllerVariableInteraction</string>
+	<key>constraintByShape</key>
+	<string>equipmentUntilBridge</string>
+	<key>cycleParameterVisibility</key>
+	<string>promiseChainTension</string>
+	<key>mobxAndFunction</key>
+	<string>invisibleWidgetInset</string>
+	<key>progressbarMethodColor</key>
+	<string>streamFlyweightMargin</string>
+	<key>sequentialFactoryContrast</key>
+	<string>statefulBorderValidation</string>
+	<key>webOptionScale</key>
+	<string>fixedTimerOrientation</string>
+</dict>
+</plist>

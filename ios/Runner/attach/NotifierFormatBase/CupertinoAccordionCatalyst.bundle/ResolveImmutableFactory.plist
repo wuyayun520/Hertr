@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInsideComposite</key>
+	<string>drawerAgainstPattern</string>
+	<key>cardCommandTail</key>
+	<string>marginViaTemple</string>
+	<key>interfaceIncludeMode</key>
+	<string>sharedLabelDensity</string>
+	<key>localRadioTint</key>
+	<string>borderWithActivity</string>
+	<key>progressbarTypeType</key>
+	<string>hyperbolicViewBottom</string>
+	<key>sortedTickerTransparency</key>
+	<string>dependencyFunctionTag</string>
+	<key>widgetOutsideStyle</key>
+	<string>diffableContractionInset</string>
+</dict>
+</plist>

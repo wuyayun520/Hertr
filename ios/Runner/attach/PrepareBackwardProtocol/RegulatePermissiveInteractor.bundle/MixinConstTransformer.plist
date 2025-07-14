@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateViewOrigin</key>
+	<string>scaleDecoratorDirection</string>
+	<key>localizationIncludeJob</key>
+	<string>controllerFromProxy</string>
+	<key>mainDialogsBottom</key>
+	<string>reductionCompositeDensity</string>
+	<key>menuStageMode</key>
+	<string>observerAroundObserver</string>
+	<key>relationalSpineResponse</key>
+	<string>currentErrorResponse</string>
+	<key>statelessNavigatorType</key>
+	<string>gradientWithTier</string>
+	<key>textureUntilAdapter</key>
+	<string>dialogsLikeObserver</string>
+</dict>
+</plist>

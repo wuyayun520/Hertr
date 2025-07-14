@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintForType</key>
+	<string>backwardSampleValidation</string>
+	<key>desktopDescriptorAcceleration</key>
+	<string>liteActionFormat</string>
+	<key>gramCycleFlags</key>
+	<string>masterThanPattern</string>
+	<key>projectCompositeInterval</key>
+	<string>sequentialTickerBottom</string>
+	<key>rowPrototypeAcceleration</key>
+	<string>awaitInsideTier</string>
+	<key>storageAwayMediator</key>
+	<string>rapidCubitFormat</string>
+</dict>
+</plist>

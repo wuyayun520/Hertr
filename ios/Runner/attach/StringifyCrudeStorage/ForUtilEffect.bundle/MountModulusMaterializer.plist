@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePresenterDensity</key>
+	<string>pivotalMapHue</string>
+	<key>boxBeyondOperation</key>
+	<string>cellObserverTransparency</string>
+	<key>documentStyleSkewy</key>
+	<string>topicDecoratorTint</string>
+	<key>flexibleMaterialBottom</key>
+	<string>interpolationStateDepth</string>
+	<key>intensityMediatorLocation</key>
+	<string>localBaselineEdge</string>
+	<key>mainTabviewFeedback</key>
+	<string>responseAboutComposite</string>
+	<key>temporaryBorderTransparency</key>
+	<string>masterContainVar</string>
+</dict>
+</plist>

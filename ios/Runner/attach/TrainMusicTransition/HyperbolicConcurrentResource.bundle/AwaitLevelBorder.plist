@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorOfParam</key>
+	<string>cubitFunctionFrequency</string>
+	<key>draggableBrushContrast</key>
+	<string>sequentialLayerBorder</string>
+	<key>gramOutsideBuffer</key>
+	<string>temporaryLoopForce</string>
+	<key>isolateViaPhase</key>
+	<string>lastExpandedAlignment</string>
+	<key>missedProviderInterval</key>
+	<string>responseFrameworkPadding</string>
+	<key>radioAboutLayer</key>
+	<string>intuitiveUsecaseFeedback</string>
+	<key>serviceAboutActivity</key>
+	<string>observerAboutCycle</string>
+	<key>utilActivityRate</key>
+	<string>commonAwaitType</string>
+</dict>
+</plist>

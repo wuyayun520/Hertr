@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectStrategyType</key>
+	<string>pageviewPhaseKind</string>
+	<key>finalBaselineFrequency</key>
+	<string>blocWithoutFramework</string>
+	<key>layerPrototypeTop</key>
+	<string>storageLikeDecorator</string>
+	<key>parallelInkwellScale</key>
+	<string>collectionAgainstStage</string>
+	<key>queryFrameworkStyle</key>
+	<string>listviewUntilParameter</string>
+	<key>radiusAsStrategy</key>
+	<string>paddingOperationPosition</string>
+	<key>referenceShapeSpacing</key>
+	<string>autoFactoryFlags</string>
+	<key>textureSinceDecorator</key>
+	<string>kernelAboutInterpreter</string>
+	<key>usedInteractorSkewx</key>
+	<string>behaviorFunctionTension</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasMethodSkewx</key>
+	<string>cosineStrategyName</string>
+	<key>gridStrategyValidation</key>
+	<string>completerOperationTransparency</string>
+	<key>handlerAndFacade</key>
+	<string>routerOrLevel</string>
+	<key>lostEntropyIndex</key>
+	<string>paddingObserverTop</string>
+	<key>reducerViaAction</key>
+	<string>requestShapeFeedback</string>
+	<key>scaleAgainstStrategy</key>
+	<string>promiseBufferMode</string>
+	<key>sliderViaFunction</key>
+	<string>stateTaskType</string>
+</dict>
+</plist>

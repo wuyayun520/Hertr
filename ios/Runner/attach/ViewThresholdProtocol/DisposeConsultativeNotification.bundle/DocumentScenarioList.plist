@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocForInterpreter</key>
+	<string>similarVariantBrightness</string>
+	<key>constraintBesideState</key>
+	<string>equalizationVersusFramework</string>
+	<key>denseOffsetBottom</key>
+	<string>missedBrushAlignment</string>
+	<key>materialTransitionHead</key>
+	<string>gradientStyleHead</string>
+	<key>mobxDecoratorResponse</key>
+	<string>notificationAwayTask</string>
+	<key>singletonPerScope</key>
+	<string>declarativeScaleOpacity</string>
+	<key>skinByDecorator</key>
+	<string>nextGraphTag</string>
+	<key>sliderDecoratorBottom</key>
+	<string>asyncNearParameter</string>
+	<key>transformerContextLocation</key>
+	<string>sizedboxSystemAlignment</string>
+	<key>transitionActionOrientation</key>
+	<string>denseRequestRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineAlongObserver</key>
+	<string>scaffoldWithSingleton</string>
+	<key>commandByDecorator</key>
+	<string>storageObserverFeedback</string>
+	<key>commandParameterKind</key>
+	<string>apertureCompositeRate</string>
+	<key>completionTaskCenter</key>
+	<string>vectorTaskVelocity</string>
+	<key>delegateParamInterval</key>
+	<string>reducerNumberBrightness</string>
+	<key>lazySubscriptionScale</key>
+	<string>graphProcessPosition</string>
+	<key>requiredObserverInterval</key>
+	<string>sinkParameterTransparency</string>
+	<key>statelessStorageEdge</key>
+	<string>transformerAtProxy</string>
+	<key>taskFromOperation</key>
+	<string>consultativeStreamTail</string>
+	<key>usedOptimizerTail</key>
+	<string>convolutionMediatorTail</string>
+</dict>
+</plist>

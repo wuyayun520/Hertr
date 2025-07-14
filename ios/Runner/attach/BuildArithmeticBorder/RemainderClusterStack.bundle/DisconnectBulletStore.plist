@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constInteractorRate</key>
+	<string>controllerOperationResponse</string>
+	<key>firstStateStyle</key>
+	<string>disabledSpotCenter</string>
+	<key>giftOrVar</key>
+	<string>pivotalButtonValidation</string>
+	<key>graphicAndPhase</key>
+	<string>cellBridgeKind</string>
+	<key>mediaqueryVisitorTag</key>
+	<string>newestInjectionValidation</string>
+	<key>nativeNodeTint</key>
+	<string>displayableGateFormat</string>
+	<key>priorityLikeCommand</key>
+	<string>controllerVarPadding</string>
+	<key>rectOutsideCommand</key>
+	<string>sharedCollectionSaturation</string>
+	<key>resizableSwitchInterval</key>
+	<string>crucialCycleFrequency</string>
+	<key>tappableDecorationSpeed</key>
+	<string>radiusThanActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constUsecaseOffset</key>
+	<string>pinchableInkwellContrast</string>
+	<key>equipmentPlatformFeedback</key>
+	<string>notificationPlatformCenter</string>
+	<key>sinkParameterScale</key>
+	<string>gramObserverOrigin</string>
+	<key>sustainableLayoutSize</key>
+	<string>mediocreTabviewInteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAtAction</key>
+	<string>smallAnimationShape</string>
+	<key>allocatorOfEnvironment</key>
+	<string>titleByPhase</string>
+	<key>cacheAdapterLocation</key>
+	<string>dropdownbuttonAsStyle</string>
+	<key>materialUsecaseInset</key>
+	<string>semanticSignBottom</string>
+	<key>navigatorFromVisitor</key>
+	<string>specifierScopeRate</string>
+	<key>newestExceptionFlags</key>
+	<string>basicAnimatedcontainerTint</string>
+	<key>normalIsolateFrequency</key>
+	<string>menuExceptComposite</string>
+	<key>reusableAlignmentDirection</key>
+	<string>seamlessProgressbarShade</string>
+	<key>serviceTaskInset</key>
+	<string>sinkAmongSingleton</string>
+	<key>storageDespiteBridge</key>
+	<string>interactorIncludeState</string>
+</dict>
+</plist>

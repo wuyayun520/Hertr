@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerProcessPosition</key>
+	<string>prevChecklistBound</string>
+	<key>eventAdapterDelay</key>
+	<string>routePerAction</string>
+	<key>fragmentActionDistance</key>
+	<string>normAboutFramework</string>
+	<key>interfaceStatePosition</key>
+	<string>labelTypeSize</string>
+	<key>otherEventAlignment</key>
+	<string>cycleTypeBottom</string>
+	<key>providerDecoratorVelocity</key>
+	<string>referenceBufferAlignment</string>
+</dict>
+</plist>
