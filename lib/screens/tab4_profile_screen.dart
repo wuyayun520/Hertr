@@ -10,6 +10,8 @@ import 'privacy_policy_screen.dart';
 import 'my_likes_screen.dart';
 import 'package:just_audio/just_audio.dart';
 import 'package:flutter/services.dart';
+import 'in_app_purchases_page.dart';
+import 'subscriptions_page.dart';
 
 class Tab4ProfileScreen extends StatefulWidget {
   const Tab4ProfileScreen({super.key});
@@ -22,12 +24,14 @@ class _Tab4ProfileScreenState extends State<Tab4ProfileScreen> {
   String _username = 'PlantUser';
   String? _avatarPath; // 头像相对路径或assets路径
   String? _docDirCache;
+  bool _isVip = false;
 
   @override
   void initState() {
     super.initState();
     _initDocDir();
     _loadProfile();
+    _loadVipStatus();
   }
 
   Future<void> _initDocDir() async {
@@ -42,6 +46,13 @@ class _Tab4ProfileScreenState extends State<Tab4ProfileScreen> {
     setState(() {
       _username = prefs.getString('profile_username') ?? 'PlantUser';
       _avatarPath = prefs.getString('profile_avatar');
+    });
+  }
+
+  Future<void> _loadVipStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _isVip = prefs.getBool('isVip') ?? false;
     });
   }
 
@@ -67,6 +78,115 @@ class _Tab4ProfileScreenState extends State<Tab4ProfileScreen> {
     }
   }
 
+  void _showVipDialog() {
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+        title: Row(
+          children: [
+            Icon(Icons.eco, color: AppColors.primary, size: 24),
+            const SizedBox(width: 8),
+            const Text(
+              'Plant Premium Required',
+              style: TextStyle(
+                fontWeight: FontWeight.bold,
+                fontSize: 18,
+              ),
+            ),
+          ],
+        ),
+        content: Column(
+          mainAxisSize: MainAxisSize.min,
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            const Text(
+              'Customizing your avatar requires Plant Premium subscription.',
+              style: TextStyle(fontSize: 16),
+            ),
+            const SizedBox(height: 16),
+            Container(
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: AppColors.primaryLight.withOpacity(0.1),
+                borderRadius: BorderRadius.circular(12),
+                border: Border.all(color: AppColors.primary.withOpacity(0.2)),
+              ),
+              child: Column(
+                children: [
+                  Row(
+                    children: [
+                      Icon(Icons.schedule, color: AppColors.primary, size: 20),
+                      const SizedBox(width: 8),
+                      const Text(
+                        'Weekly Plan',
+                        style: TextStyle(fontWeight: FontWeight.w600, fontSize: 16),
+                      ),
+                      const Spacer(),
+                      Text(
+                        '\$12.99',
+                        style: TextStyle(
+                          color: AppColors.primary,
+                          fontWeight: FontWeight.bold,
+                          fontSize: 18,
+                        ),
+                      ),
+                    ],
+                  ),
+                  const SizedBox(height: 12),
+                  Row(
+                    children: [
+                      Icon(Icons.calendar_month, color: AppColors.primary, size: 20),
+                      const SizedBox(width: 8),
+                      const Text(
+                        'Monthly Plan',
+                        style: TextStyle(fontWeight: FontWeight.w600, fontSize: 16),
+                      ),
+                      const Spacer(),
+                      const SizedBox(width: 8),
+                      Text(
+                        '\$49.99',
+                        style: TextStyle(
+                          color: AppColors.primary,
+                          fontWeight: FontWeight.bold,
+                          fontSize: 18,
+                        ),
+                      ),
+                    ],
+                  ),
+                ],
+              ),
+            ),
+          ],
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(context),
+            child: const Text('Cancel'),
+          ),
+          ElevatedButton(
+            onPressed: () {
+              Navigator.pop(context);
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => const SubscriptionsPage()),
+              ).then((_) {
+                // 从订阅页面返回后，重新加载VIP状态
+                _loadVipStatus();
+              });
+            },
+            style: ElevatedButton.styleFrom(
+              backgroundColor: AppColors.primary,
+              foregroundColor: Colors.white,
+              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
+            ),
+            child: const Text('Subscribe Now'),
+          ),
+        ],
+      ),
+    );
+  }
+
   void _showEditDialog() {
     final controller = TextEditingController(text: _username);
     showDialog(
@@ -78,7 +198,18 @@ class _Tab4ProfileScreenState extends State<Tab4ProfileScreen> {
           mainAxisSize: MainAxisSize.min,
           children: [
             GestureDetector(
-              onTap: _pickAvatar,
+              onTap: () async {
+                // 实时检查VIP权限
+                final prefs = await SharedPreferences.getInstance();
+                final isVip = prefs.getBool('isVip') ?? false;
+                
+                if (isVip) {
+                  _pickAvatar();
+                } else {
+                  Navigator.pop(context); // 关闭编辑弹窗
+                  _showVipDialog();
+                }
+              },
               child: CircleAvatar(
                 radius: 40,
                 backgroundImage: _getAvatarProvider(),
@@ -91,7 +222,11 @@ class _Tab4ProfileScreenState extends State<Tab4ProfileScreen> {
                       boxShadow: [BoxShadow(color: Colors.black12, blurRadius: 2)],
                     ),
                     padding: const EdgeInsets.all(2),
-                    child: const Icon(Icons.edit, size: 18, color: Colors.black54),
+                    child: Icon(
+                      Icons.edit, 
+                      size: 18, 
+                      color: _isVip ? Colors.black54 : Colors.grey,
+                    ),
                   ),
                 ),
               ),
@@ -210,6 +345,41 @@ class _Tab4ProfileScreenState extends State<Tab4ProfileScreen> {
                   ),
                 ),
               ],
+            ),
+            // Common Tools上方插入VIP和钱包卡片
+            Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 8),
+              child: Row(
+                children: [
+                  Expanded(
+                    child: _ProfileFeatureCard(
+                      icon: 'assets/Hertr_mr_vip.png', // 替换为你的VIP图标路径
+                      title: 'VIP Benefits',
+                      subtitle: 'Three big benefits',
+                      onTap: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(builder: (context) => const SubscriptionsPage()),
+                        );
+                      },
+                    ),
+                  ),
+                  const SizedBox(width: 16),
+                  Expanded(
+                    child: _ProfileFeatureCard(
+                      icon: 'assets/Hertr_me_wallet.png', // 替换为你的钱包图标路径
+                      title: 'My Wallet',
+                      subtitle: 'My gold coins',
+                      onTap: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(builder: (context) => const InAppPurchasesPage()),
+                        );
+                      },
+                    ),
+                  ),
+                ],
+              ),
             ),
             // Common Tools
             Padding(
@@ -438,6 +608,73 @@ class _MusicPlayerWidgetState extends State<_MusicPlayerWidget> {
             style: TextStyle(fontSize: 13, color: Colors.black45, fontStyle: FontStyle.italic),
           ),
         ],
+      ),
+    );
+  }
+}
+
+class _ProfileFeatureCard extends StatelessWidget {
+  final String icon;
+  final String title;
+  final String subtitle;
+  final VoidCallback? onTap;
+
+  const _ProfileFeatureCard({
+    required this.icon,
+    required this.title,
+    required this.subtitle,
+    this.onTap,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return GestureDetector(
+      onTap: onTap,
+      child: Container(
+        padding: const EdgeInsets.symmetric(vertical: 20),
+        decoration: BoxDecoration(
+          color: Color(0xFFF3F4F7),
+          borderRadius: BorderRadius.circular(18),
+        ),
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Container(
+              width: 48,
+              height: 48,
+              decoration: BoxDecoration(
+                color: Colors.white,
+                shape: BoxShape.circle,
+              ),
+              child: Center(
+                child: Image.asset(
+                  icon,
+                  width: 32,
+                  height: 32,
+                  fit: BoxFit.contain,
+                ),
+              ),
+            ),
+            const SizedBox(height: 12),
+            Text(
+              title,
+              style: const TextStyle(
+                fontWeight: FontWeight.bold,
+                fontSize: 18,
+                color: Colors.black87,
+              ),
+            ),
+            const SizedBox(height: 4),
+            Text(
+              subtitle,
+              style: const TextStyle(
+                fontSize: 15,
+                color: Colors.black38,
+                fontWeight: FontWeight.w500,
+              ),
+            ),
+          ],
+        ),
       ),
     );
   }

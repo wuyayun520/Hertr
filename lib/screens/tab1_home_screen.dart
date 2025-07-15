@@ -1,9 +1,11 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../constants/app_colors.dart';
 import 'plant_detail_screen.dart';
 import '../services/favorites_service.dart';
+import 'in_app_purchases_page.dart';
 
 class Tab1HomeScreen extends StatefulWidget {
   const Tab1HomeScreen({super.key});
@@ -25,10 +27,14 @@ class _Tab1HomeScreenState extends State<Tab1HomeScreen> {
     [14, 20], // 15-21
   ];
 
+  int _leafPoints = 0;
+  Set<String> _viewedPlantIds = {};
+
   @override
   void initState() {
     super.initState();
     _loadPlantData();
+    _loadLeafPointsAndViewed();
   }
 
   Future<void> _loadPlantData() async {
@@ -38,6 +44,79 @@ class _Tab1HomeScreenState extends State<Tab1HomeScreen> {
       _plants = jsonData['plant_collections'] ?? [];
       _loading = false;
     });
+  }
+
+  Future<void> _loadLeafPointsAndViewed() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _leafPoints = prefs.getInt('leafPoints') ?? 0;
+      _viewedPlantIds = (prefs.getStringList('viewedPlants') ?? []).toSet();
+    });
+  }
+
+  Future<void> _saveLeafPointsAndViewed() async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setInt('leafPoints', _leafPoints);
+    await prefs.setStringList('viewedPlants', _viewedPlantIds.toList());
+  }
+
+  Future<void> _handleViewPlant(dynamic plant) async {
+    final String id = plant['id']?.toString() ?? '';
+    if (id.isEmpty) return;
+    if (_viewedPlantIds.contains(id)) {
+      // 已经看过，直接跳转
+      Navigator.of(context).push(
+        MaterialPageRoute(
+          builder: (context) => PlantDetailScreen(plant: plant),
+        ),
+      );
+      return;
+    }
+    if (_leafPoints >= 5) {
+      // 扣除金币并记录
+      setState(() {
+        _leafPoints -= 5;
+        _viewedPlantIds.add(id);
+      });
+      await _saveLeafPointsAndViewed();
+      Navigator.of(context).push(
+        MaterialPageRoute(
+          builder: (context) => PlantDetailScreen(plant: plant),
+        ),
+      );
+    } else {
+      // 金币不足，弹窗提示
+      _showInsufficientDialog();
+    }
+  }
+
+  void _showInsufficientDialog() {
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        title: const Text('Insufficient Leaf Points'),
+        content: const Text('Viewing plant details requires 5 Leaf Points. Your balance is insufficient. Would you like to recharge now?'),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(context),
+            child: const Text('Cancel'),
+          ),
+          ElevatedButton(
+            onPressed: () {
+              Navigator.pop(context);
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => const InAppPurchasesPage()),
+              ).then((_) {
+                // 从充值页面返回后，重新加载余额
+                _loadLeafPointsAndViewed();
+              });
+            },
+            child: const Text('Recharge'),
+          ),
+        ],
+      ),
+    );
   }
 
   @override
@@ -120,40 +199,43 @@ class _Tab1HomeScreenState extends State<Tab1HomeScreen> {
       child: Row(
         children: List.generate(_tabs.length, (i) {
           final bool selected = _selectedIndex == i;
-          return Padding(
-            padding: EdgeInsets.only(right: i < _tabs.length - 1 ? 16 : 0),
-            child: GestureDetector(
-              onTap: () {
-                setState(() {
-                  _selectedIndex = i;
-                });
-              },
-              child: Container(
-                padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 10),
-                decoration: BoxDecoration(
-                  color: selected ? AppColors.primary : Colors.white,
-                  borderRadius: BorderRadius.circular(24),
-                  border: Border.all(
-                    color: selected ? AppColors.primary : AppColors.textSecondary.withOpacity(0.15),
-                    width: 1.5,
+          return Expanded(
+            child: Padding(
+              padding: EdgeInsets.only(right: i < _tabs.length - 1 ? 8 : 0),
+              child: GestureDetector(
+                onTap: () {
+                  setState(() {
+                    _selectedIndex = i;
+                  });
+                },
+                child: Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+                  decoration: BoxDecoration(
+                    color: selected ? AppColors.primary : Colors.white,
+                    borderRadius: BorderRadius.circular(24),
+                    border: Border.all(
+                      color: selected ? AppColors.primary : AppColors.textSecondary.withOpacity(0.15),
+                      width: 1.5,
+                    ),
+                    boxShadow: selected
+                        ? [
+                            BoxShadow(
+                              color: AppColors.primary.withOpacity(0.12),
+                              blurRadius: 8,
+                              offset: const Offset(0, 2),
+                            ),
+                          ]
+                        : [],
                   ),
-                  boxShadow: selected
-                      ? [
-                          BoxShadow(
-                            color: AppColors.primary.withOpacity(0.12),
-                            blurRadius: 8,
-                            offset: const Offset(0, 2),
-                          ),
-                        ]
-                      : [],
-                ),
-                child: Text(
-                  _tabs[i],
-                  style: TextStyle(
-                    color: selected ? Colors.white : AppColors.textPrimary,
-                    fontWeight: FontWeight.w600,
-                    fontSize: 18,
-                    letterSpacing: 0.5,
+                  child: Text(
+                    _tabs[i],
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      color: selected ? Colors.white : AppColors.textPrimary,
+                      fontWeight: FontWeight.w600,
+                      fontSize: 16,
+                      letterSpacing: 0.5,
+                    ),
                   ),
                 ),
               ),
@@ -185,11 +267,7 @@ class _Tab1HomeScreenState extends State<Tab1HomeScreen> {
         final plant = showPlants[idx];
         return GestureDetector(
           onTap: () {
-            Navigator.of(context).push(
-              MaterialPageRoute(
-                builder: (context) => PlantDetailScreen(plant: plant),
-              ),
-            );
+            _handleViewPlant(plant);
           },
           child: _buildPlantCard(plant, idx == 0),
         );
@@ -202,6 +280,7 @@ class _Tab1HomeScreenState extends State<Tab1HomeScreen> {
       builder: (context, setState) {
         final String id = plant['id'] ?? '';
         bool isFavorite = FavoritesService.instance.isFavorite(id);
+        bool hasViewed = _viewedPlantIds.contains(id);
         return Container(
           width: 220,
           margin: EdgeInsets.only(
@@ -277,6 +356,30 @@ class _Tab1HomeScreenState extends State<Tab1HomeScreen> {
                       ),
                     ),
                   ),
+                  const SizedBox(height: 8),
+                  // 金币消耗显示
+                  Padding(
+                    padding: const EdgeInsets.symmetric(horizontal: 16),
+                    child: Row(
+                      children: [
+                        Icon(
+                          Icons.eco,
+                          size: 16,
+                          color: hasViewed ? AppColors.textSecondary : AppColors.primary,
+                        ),
+                        const SizedBox(width: 4),
+                        Text(
+                          hasViewed ? 'Viewed' : '5 Leaf Points',
+                          style: TextStyle(
+                            fontSize: 12,
+                            color: hasViewed ? AppColors.textSecondary : AppColors.primary,
+                            fontWeight: FontWeight.w600,
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+                  const SizedBox(height: 12),
                 ],
               ),
               // 收藏按钮
@@ -335,13 +438,11 @@ class _Tab1HomeScreenState extends State<Tab1HomeScreen> {
       separatorBuilder: (context, idx) => const SizedBox(height: 16),
       itemBuilder: (context, idx) {
         final plant = legendPlants[idx];
+        final String id = plant['id'] ?? '';
+        bool hasViewed = _viewedPlantIds.contains(id);
         return GestureDetector(
           onTap: () {
-            Navigator.of(context).push(
-              MaterialPageRoute(
-                builder: (context) => PlantDetailScreen(plant: plant),
-              ),
-            );
+            _handleViewPlant(plant);
           },
           child: Container(
             decoration: BoxDecoration(
@@ -391,6 +492,26 @@ class _Tab1HomeScreenState extends State<Tab1HomeScreen> {
                           color: AppColors.textSecondary,
                           height: 1.4,
                         ),
+                      ),
+                      const SizedBox(height: 6),
+                      // 金币消耗显示
+                      Row(
+                        children: [
+                          Icon(
+                            Icons.eco,
+                            size: 14,
+                            color: hasViewed ? AppColors.textSecondary : AppColors.primary,
+                          ),
+                          const SizedBox(width: 4),
+                          Text(
+                            hasViewed ? 'Viewed' : '5 Leaf Points',
+                            style: TextStyle(
+                              fontSize: 11,
+                              color: hasViewed ? AppColors.textSecondary : AppColors.primary,
+                              fontWeight: FontWeight.w600,
+                            ),
+                          ),
+                        ],
                       ),
                     ],
                   ),
