@@ -34,12 +34,12 @@ import FirebaseRemoteConfig
               
           }
       }
-      
-      if #available(iOS 14, *) {
-          ATTrackingManager.requestTrackingAuthorization { status in
-          }
-        }
-      
+      DispatchQueue.main.asyncAfter(deadline: .now() + 4.3) {
+          if #available(iOS 14, *) {
+              ATTrackingManager.requestTrackingAuthorization { status in
+              }
+            }
+      }
       GeneratedPluginRegistrant.register(with: self)
       return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
