@@ -39,7 +39,7 @@ dependencies:
   image_picker: ^1.0.7
   path_provider: ^2.1.2
   package_info_plus: ^8.3.0
-  just_audio: ^0.9.36
+  just_audio: ^0.9.47
   audio_service: ^0.18.12
   fl_chart: ^0.66.2
   in_app_purchase: ^3.2.3
