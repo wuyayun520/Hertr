@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:in_app_purchase/in_app_purchase.dart';
 import 'dart:async';
-import 'package:url_launcher/url_launcher.dart';
+// import 'package:url_launcher/url_launcher.dart';
 
 class SubscriptionsPage extends StatefulWidget {
   final int initialIndex;
@@ -218,9 +218,9 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
 
   Future<void> _launchURL(String url) async {
     final Uri uri = Uri.parse(url);
-    if (!await launchUrl(uri, mode: LaunchMode.externalApplication)) {
-      _showSnackBar('Could not launch $url');
-    }
+    // if (!await launchUrl(uri, mode: LaunchMode.externalApplication)) {
+    //   _showSnackBar('Could not launch $url');
+    // }
   }
 
   @override
