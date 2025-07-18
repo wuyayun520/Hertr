@@ -251,9 +251,9 @@ class _ActivitiesScreenState extends State<ActivitiesScreen> {
                             child: ClipRRect(
                               borderRadius: BorderRadius.circular(16), // 可选：让图片有圆角
                               child: Image.asset(
-                                'assets/Hertr_ai_assistant.png',
-                                height: 299,
-                                fit: BoxFit.cover,
+                            'assets/Hertr_ai_assistant.png',
+                            height: 299,
+                            fit: BoxFit.cover,
                               ),
                             ),
                           ),

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="UserView">
+            <connections>
+                <outlet property="rangeButton" destination="ZOx-gG-Ej1" id="7IX-q5-Ha4"/>
+                <outlet property="startButton" destination="gcu-9d-A2X" id="cLj-Hj-Znw"/>
+                <outlet property="iconEditImageView" destination="uYZ-SI-tCd" id="Fu4-Tq-KJn"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="2Rf-UB-CNh" clipsSubviews="NO">
+            <rect key="frame" x="0.0" y="0.0" width="117.0" height="523.7"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView opaque="NO" contentMode="bottomLeft" translatesAutoresizingMaskIntoConstraints="NO" id="BeO-pp-OuL" hidden="YES" clearsContextBeforeDrawing="NO" autoresizesSubviews="NO" axis="vertical">
+                    <rect key="frame" x="-2" y="11" width="503.4" height="97.3"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="bottomRight" horizontalHuggingPriority="251" verticalHuggingPriority="750" horizontalCompressionResistancePriority="251" image="1242-2208" highlightedImage="1242-2688" translatesAutoresizingMaskIntoConstraints="NO" id="uYZ-SI-tCd" clearsContextBeforeDrawing="NO">
+                            <rect key="frame" x="1.3" y="-4.7" width="159.5" height="97.3"/>
+                        </imageView>
+                        <button contentMode="right" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" contentHorizontalAlignment="trailing" contentVerticalAlignment="top" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZOx-gG-Ej1" clearsContextBeforeDrawing="NO" autoresizesSubviews="NO">
+                            <rect key="frame" x="357" y="-3.6" width="159.5" height="97.3"/>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" title="theme for of report path" image="1242-2688">
+                                <color key="titleColor" red="0.08459778830765184" green="0.94496484568860342" blue="0.15717481596884092" alpha="0.9016524469566435" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="disabled" title="menu view message pan" image="1242-2688">
+                                <color key="titleColor" red="0.34144130260293273" green="0.80958871793271947" blue="0.57656419794402874" alpha="0.81049100809192576" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="highlighted" title="array text until gift" image="1242-2208">
+                                <color key="titleColor" red="0.1167636465" green="1" blue="0.1985451956" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                        </button>
+                        <button contentMode="scaleAspectFit" horizontalHuggingPriority="1000" verticalHuggingPriority="1000" horizontalCompressionResistancePriority="1000" verticalCompressionResistancePriority="1000" contentHorizontalAlignment="trailing" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gcu-9d-A2X">
+                            <rect key="frame" x="170" y="-6.7" width="159.5" height="97.3"/>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" title="block model phone view" image="1242-2688">
+                                <color key="titleColor" red="0.17746234014049862" green="1" blue="0.15465918654241234" alpha="0.94541280119663698" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="disabled" title="lab" image="1242-2208">
+                                <color key="titleColor" red="0.20513281782387549" green="0.69275011707121539" blue="0.57976672077785704" alpha="0.86391059827247005" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="selected" title="house height" image="1242-2688">
+                                <color key="titleColor" red="0.35783006418651767" green="0.79536225319565196" blue="0.77579182403461266" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                        </button>
+                    </subviews>
+                </stackView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="TAo-od-Xyv"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="TAo-od-Xyv" firstAttribute="trailing" secondItem="BeO-pp-OuL" secondAttribute="trailing" constant="2" id="OMk-8Z-EqQ"/>
+                <constraint firstItem="BeO-pp-OuL" firstAttribute="top" secondItem="2Rf-UB-CNh" secondAttribute="top" id="nXF-DF-IfH"/>
+                <constraint firstAttribute="bottom" secondItem="BeO-pp-OuL" secondAttribute="bottom" constant="7" id="dwv-zU-Wq0"/>
+                <constraint firstItem="BeO-pp-OuL" firstAttribute="leading" secondItem="TAo-od-Xyv" secondAttribute="leading" constant="6" id="e7q-5K-wRM"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="151.42139088554632" y="-404.91560472451442"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="1242-2208" width="117.7" height="107.6"/>
+        <image name="1242-2688" width="117.7" height="107.6"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

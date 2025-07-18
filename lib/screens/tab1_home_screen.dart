@@ -202,39 +202,39 @@ class _Tab1HomeScreenState extends State<Tab1HomeScreen> {
           return Expanded(
             child: Padding(
               padding: EdgeInsets.only(right: i < _tabs.length - 1 ? 8 : 0),
-              child: GestureDetector(
-                onTap: () {
-                  setState(() {
-                    _selectedIndex = i;
-                  });
-                },
-                child: Container(
+            child: GestureDetector(
+              onTap: () {
+                setState(() {
+                  _selectedIndex = i;
+                });
+              },
+              child: Container(
                   padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
-                  decoration: BoxDecoration(
-                    color: selected ? AppColors.primary : Colors.white,
-                    borderRadius: BorderRadius.circular(24),
-                    border: Border.all(
-                      color: selected ? AppColors.primary : AppColors.textSecondary.withOpacity(0.15),
-                      width: 1.5,
-                    ),
-                    boxShadow: selected
-                        ? [
-                            BoxShadow(
-                              color: AppColors.primary.withOpacity(0.12),
-                              blurRadius: 8,
-                              offset: const Offset(0, 2),
-                            ),
-                          ]
-                        : [],
+                decoration: BoxDecoration(
+                  color: selected ? AppColors.primary : Colors.white,
+                  borderRadius: BorderRadius.circular(24),
+                  border: Border.all(
+                    color: selected ? AppColors.primary : AppColors.textSecondary.withOpacity(0.15),
+                    width: 1.5,
                   ),
-                  child: Text(
-                    _tabs[i],
+                  boxShadow: selected
+                      ? [
+                          BoxShadow(
+                            color: AppColors.primary.withOpacity(0.12),
+                            blurRadius: 8,
+                            offset: const Offset(0, 2),
+                          ),
+                        ]
+                      : [],
+                ),
+                child: Text(
+                  _tabs[i],
                     textAlign: TextAlign.center,
-                    style: TextStyle(
-                      color: selected ? Colors.white : AppColors.textPrimary,
-                      fontWeight: FontWeight.w600,
+                  style: TextStyle(
+                    color: selected ? Colors.white : AppColors.textPrimary,
+                    fontWeight: FontWeight.w600,
                       fontSize: 16,
-                      letterSpacing: 0.5,
+                    letterSpacing: 0.5,
                     ),
                   ),
                 ),

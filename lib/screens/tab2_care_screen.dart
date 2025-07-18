@@ -327,13 +327,13 @@ class _Tab2CareScreenState extends State<Tab2CareScreen> {
             Expanded(
               child: Padding(
                 padding: const EdgeInsets.fromLTRB(14, 6, 14, 8),
-                child: Text(
-                  desc,
-                  maxLines: 2,
-                  overflow: TextOverflow.ellipsis,
-                  style: const TextStyle(
+              child: Text(
+                desc,
+                maxLines: 2,
+                overflow: TextOverflow.ellipsis,
+                style: const TextStyle(
                     fontSize: 13,
-                    color: AppColors.textSecondary,
+                  color: AppColors.textSecondary,
                     height: 1.3,
                   ),
                 ),

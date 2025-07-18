@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ClickView">
+            <connections>
+                <outlet property="columnLabel" destination="EPP-JC-ui8" id="brh-5P-jiD"/>
+                <outlet property="willButton" destination="SAP-ym-ft6" id="NNh-Kp-SEc"/>
+                <outlet property="sizeLabel" destination="VXH-fk-mqK" id="f6x-CA-0o4"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="aEi-L5-mK0" clipsSubviews="NO">
+            <rect key="frame" x="0.0" y="0.0" width="110.1" height="552.4"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="qu2-yM-uEF" axis="vertical" alignment="top">
+                    <rect key="frame" x="-2" y="5" width="551.5" height="105.3"/>
+                    <subviews>
+                        <label userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="view new view message" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VXH-fk-mqK" clipsSubviews="NO" adjustsFontForContentSizeCategory="YES" numberOfLines="9">
+                            <rect key="frame" x="9.7" y="-1.4" width="141.2" height="105.3"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                            <color key="textColor" red="0.04601222558885144" green="1" blue="0.93736146016247771" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label userInteractionEnabled="NO" contentMode="scaleToFill" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" text="view path ad view last" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EPP-JC-ui8" numberOfLines="9" enabled="NO" highlighted="YES">
+                            <rect key="frame" x="163.4" y="7.4" width="71.2" height="105.3"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                            <color key="textColor" red="0.09002821508822229" green="0.7973704963487559" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button contentMode="scaleAspectFit" horizontalHuggingPriority="1000" verticalHuggingPriority="1000" horizontalCompressionResistancePriority="1000" verticalCompressionResistancePriority="1000" contentHorizontalAlignment="trailing" contentVerticalAlignment="top" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SAP-ym-ft6">
+                            <rect key="frame" x="244" y="6.8" width="261.1" height="105.3"/>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" title="manager net delay item" image="1242-2208">
+                                <color key="titleColor" red="0.12569535462003263" green="1" blue="0.28004410142310954" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="disabled" title="head color" image="1242-2688">
+                                <color key="titleColor" red="0.26270152804040819" green="0.98662573369441303" blue="0.73133677646083139" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="highlighted" title="female copy click message cell press" image="1242-2688">
+                                <color key="titleColor" red="0.1167636465" green="1" blue="0.1985451956" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                        </button>
+                    </subviews>
+                </stackView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="9zz-lw-BEN"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="9zz-lw-BEN" firstAttribute="trailing" secondItem="qu2-yM-uEF" secondAttribute="trailing" constant="7" id="Pml-6g-kHL"/>
+                <constraint firstItem="qu2-yM-uEF" firstAttribute="top" secondItem="aEi-L5-mK0" secondAttribute="top" constant="2" id="aLO-fQ-P4h"/>
+                <constraint firstAttribute="bottom" secondItem="qu2-yM-uEF" secondAttribute="bottom" constant="2" id="kL4-Ou-E48"/>
+                <constraint firstItem="qu2-yM-uEF" firstAttribute="leading" secondItem="9zz-lw-BEN" secondAttribute="leading" constant="3" id="x1X-Ma-G10"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="137.37714005002923" y="-407.42027539737669"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="1242-2208" width="123.5" height="118.8"/>
+        <image name="1242-2688" width="123.5" height="118.8"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
